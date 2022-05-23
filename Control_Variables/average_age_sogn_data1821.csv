@@ -1,0 +1,2271 @@
+"Gennemsnitsalder efter sogn og tid"
+
+" ","2018","2019","2020","2021"
+"Hele landet",41.5,41.7,41.8,42.0
+"7001 Vor Frue (København Kommune)",0.0,0.0,0.0,0.0
+"7002 Helligånds (København Kommune)",38.3,38.2,38.0,38.0
+"7003 Trinitatis (København Kommune)",35.6,35.6,35.9,36.2
+"7004 Sankt Andreas (København Kommune)",0.0,0.0,0.0,0.0
+"7007 Sankt Johannes (København Kommune)",0.0,0.0,0.0,0.0
+"7008 Simeons (København Kommune)",0.0,0.0,0.0,0.0
+"7011 Bethlehem (København Kommune)",38.7,38.9,38.8,39.0
+"7015 Maria (København Kommune)",0.0,0.0,0.0,0.0
+"7016 Elias (København Kommune)",0.0,0.0,0.0,0.0
+"7017 Apostelkirkens (København Kommune)",0.0,0.0,0.0,0.0
+"7018 Gethsemane (København Kommune)",0.0,0.0,0.0,0.0
+"7019 Sankt Matthæus (København Kommune)",0.0,0.0,0.0,0.0
+"7020 Absalons (København Kommune)",0.0,0.0,0.0,0.0
+"7021 Kristkirkens (København Kommune)",0.0,0.0,0.0,0.0
+"7022 Enghave (København Kommune)",0.0,0.0,0.0,0.0
+"7024 Valby (København Kommune)",36.0,36.0,35.8,35.8
+"7025 Johannes Døbers (København Kommune)",0.0,0.0,0.0,0.0
+"7026 Timotheus (København Kommune)",35.8,36.0,36.1,36.2
+"7027 Vigerslev (København Kommune)",36.0,35.9,36.4,36.6
+"7028 Aalholm (København Kommune)",37.1,37.4,37.4,37.6
+"7030 Margrethe (København Kommune)",0.0,0.0,0.0,0.0
+"7036 Holmens (København Kommune)",41.1,41.5,41.5,41.7
+"7037 Garnisons (København Kommune)",40.4,40.5,40.7,41.3
+"7038 Frederiks (København Kommune)",40.8,41.2,41.3,41.1
+"7039 Sankt Pauls (København Kommune)",38.3,38.2,38.6,38.5
+"7040 Østervold (København Kommune)",37.5,37.9,38.1,38.9
+"7041 Kastels (København Kommune)",39.9,40.0,40.4,40.7
+"7042 Frihavns (København Kommune)",0.0,0.0,0.0,0.0
+"7043 Rosenvænget (København Kommune)",35.7,35.9,36.1,36.4
+"7044 Sankt Jakobs (København Kommune)",38.2,38.8,39.0,39.2
+"7045 Davids (København Kommune)",0.0,0.0,0.0,0.0
+"7046 Hans Egedes (København Kommune)",35.6,35.8,35.5,35.4
+"7050 Anna (København Kommune)",33.0,33.2,33.5,33.9
+"7051 Sankt Stefans (København Kommune)",33.0,33.0,33.1,33.4
+"7052 Samuels (København Kommune)",0.0,0.0,0.0,0.0
+"7053 Kingo-Samuel (København Kommune)",32.5,32.7,32.8,33.1
+"7054 Aldersro (København Kommune)",35.5,35.7,35.7,36.0
+"7055 Kildevælds (København Kommune)",36.0,36.1,36.3,35.9
+"7056 Sions (København Kommune)",40.1,40.2,40.8,41.4
+"7057 Hyltebjerg (København Kommune)",38.3,38.5,38.5,38.9
+"7058 Vanløse (København Kommune)",37.4,37.5,37.7,37.9
+"7059 Advents (København Kommune)",37.5,37.3,37.3,37.4
+"7060 Grøndals (København Kommune)",37.4,37.5,37.8,37.8
+"7061 Ansgarkirkens (København Kommune)",34.4,34.4,34.5,34.7
+"7062 Kapernaums (København Kommune)",31.2,31.4,31.7,32.2
+"7063 Tagensbo (København Kommune)",33.6,33.4,33.5,33.6
+"7064 Bispebjerg (København Kommune)",37.7,38.0,38.4,38.6
+"7065 Emdrup (København Kommune)",39.4,40.1,40.1,40.3
+"7066 Lundehus (København Kommune)",39.8,39.6,39.6,40.1
+"7067 Husum (København Kommune)",39.1,39.3,39.3,39.2
+"7068 Brønshøj (København Kommune)",37.6,37.6,37.7,37.8
+"7069 Utterslev (København Kommune)",0.0,0.0,0.0,0.0
+"7070 Husumvold (København Kommune)",38.0,38.0,38.1,38.2
+"7071 Bellahøj (København Kommune)",0.0,0.0,0.0,0.0
+"7080 Islands Brygges (København Kommune)",33.1,33.0,32.7,32.8
+"7081 Christians (København Kommune)",37.9,38.3,38.7,38.8
+"7082 Vor Frelsers (København Kommune)",38.1,38.3,38.5,38.8
+"7083 Nathanaels (København Kommune)",34.4,34.7,34.9,35.3
+"7084 Sundby (København Kommune)",35.2,35.2,35.6,35.7
+"7085 Allehelgens (København Kommune)",36.8,36.1,35.9,35.5
+"7086 Filips (København Kommune)",35.1,35.2,35.4,35.8
+"7087 Sundkirkens (København Kommune)",36.0,36.4,36.7,37.0
+"7088 Højdevangs (København Kommune)",37.1,37.2,37.2,37.5
+"7089 Simon Peters (København Kommune)",37.2,37.2,37.2,37.4
+"7090 Solvang (København Kommune)",37.8,37.8,37.9,38.0
+"7101 Frederiksberg (Frederiksberg Kommune)",0.0,0.0,0.0,0.0
+"7102 Sankt Lukas (Frederiksberg Kommune)",36.0,36.4,36.7,36.9
+"7103 Solbjerg (Frederiksberg Kommune)",38.2,38.8,39.1,39.3
+"7104 Lindevang (Frederiksberg Kommune)",38.8,39.0,39.3,39.7
+"7105 Flintholm (Frederiksberg Kommune)",45.4,45.2,45.1,45.2
+"7106 Sankt Thomas (Frederiksberg Kommune)",37.4,37.6,37.4,37.6
+"7107 Mariendals (Frederiksberg Kommune)",37.9,38.0,37.8,38.0
+"7108 Godthaabs (Frederiksberg Kommune)",41.0,41.0,41.5,41.8
+"7109 Sankt Markus (Frederiksberg Kommune)",39.4,39.5,39.8,40.3
+"7110 Helleruplund (Gentofte Kommune)",40.7,41.2,41.3,41.5
+"7111 Gentofte (Gentofte Kommune)",41.6,42.1,42.5,42.8
+"7112 Jægersborg (Gentofte Kommune)",42.6,42.4,42.6,42.6
+"7113 Vangede (Gentofte Kommune)",39.3,39.5,39.8,40.1
+"7114 Dyssegård (Gentofte Kommune)",38.6,38.9,38.9,39.3
+"7115 Ordrup (Gentofte Kommune)",44.6,45.0,45.0,45.3
+"7116 Skovshoved (Gentofte Kommune)",42.0,42.3,42.7,43.0
+"7117 Hellerup (Gentofte Kommune)",44.4,45.0,45.7,46.2
+"7118 Maglegårds (Gentofte Kommune)",44.0,44.3,44.9,45.3
+"7119 Kongens Lyngby (Lyngby-Taarbæk Kommune)",41.4,41.8,41.8,41.6
+"7120 Christians (Lyngby-Taarbæk Kommune)",40.3,40.8,40.9,41.2
+"7121 Virum (Lyngby-Taarbæk Kommune)",40.4,40.3,40.6,40.6
+"7122 Sorgenfri (Lyngby-Taarbæk Kommune)",43.3,43.0,42.9,43.0
+"7123 Lundtofte (Lyngby-Taarbæk Kommune)",42.2,42.2,42.0,41.8
+"7124 Taarbæk (Lyngby-Taarbæk Kommune)",46.2,46.3,46.8,47.1
+"7125 Søllerød (Rudersdal Kommune)",41.5,41.5,41.9,41.8
+"7126 Vedbæk (Rudersdal Kommune)",46.0,46.1,46.2,46.0
+"7127 Ny Holte (Rudersdal Kommune)",44.1,44.2,44.4,44.5
+"7128 Gammel Holte (Rudersdal Kommune)",43.3,43.5,43.8,43.5
+"7129 Nærum (Rudersdal Kommune)",46.5,45.5,45.5,46.1
+"7130 Gladsaxe (Gladsaxe Kommune)",39.0,38.8,38.9,38.7
+"7131 Søborggård (Gladsaxe Kommune)",39.9,40.3,40.6,40.7
+"7132 Bagsværd (Gladsaxe Kommune)",41.1,40.9,40.7,40.8
+"7133 Stengård (Gladsaxe Kommune)",39.5,39.6,39.7,40.0
+"7134 Mørkhøj (Gladsaxe Kommune)",38.0,38.4,38.6,38.6
+"7135 Herlev (Herlev Kommune)",42.6,42.2,41.1,41.7
+"7136 Præstebro (Herlev Kommune)",39.3,39.2,39.2,39.0
+"7137 Rødovre (Rødovre Kommune)",40.6,40.0,40.1,40.2
+"7138 Grøndalslund (Rødovre Kommune)",41.8,42.0,42.1,42.1
+"7139 Islev (Rødovre Kommune)",40.8,40.9,40.4,40.3
+"7140 Hendriksholm (Rødovre Kommune)",40.8,41.0,41.1,41.5
+"7141 Hvidovre (Hvidovre Kommune)",39.2,39.4,39.5,39.8
+"7142 Strandmarks (Hvidovre Kommune)",41.0,41.0,40.9,41.0
+"7143 Risbjerg (Hvidovre Kommune)",41.2,41.1,41.2,41.2
+"7144 Brøndbyvester (Brøndby Kommune)",43.1,42.9,42.7,42.7
+"7145 Brøndbyøster (Brøndby Kommune)",43.7,43.8,44.1,43.8
+"7146 Avedøre (Hvidovre Kommune)",38.7,38.7,39.0,39.1
+"7147 Glostrup (Glostrup Kommune)",41.2,41.4,41.4,41.3
+"7148 Herstedøster (Albertslund Kommune)",38.8,39.1,39.4,39.7
+"7149 Vallensbæk (Vallensbæk Kommune)",39.7,39.7,39.8,40.1
+"7150 Torslunde (Ishøj Kommune)",41.4,41.0,41.8,42.2
+"7151 Ishøj (Ishøj Kommune)",38.7,38.9,39.2,39.3
+"7152 Høje Tåstrup (Høje-Taastrup Kommune)",37.1,37.5,37.5,37.5
+"7153 Tåstrup Nykirke (Høje-Taastrup Kommune)",40.1,40.5,40.7,40.9
+"7154 Værløse (Furesø Kommune)",43.6,43.8,44.0,44.0
+"7155 Herstedvester (Albertslund Kommune)",40.2,40.3,40.5,40.8
+"7156 Roskilde Domsogn (Roskilde Kommune)",42.6,42.7,43.0,43.1
+"7157 Roskilde Søndre (Roskilde Kommune)",39.4,39.3,39.4,39.3
+"7158 Vor Frue (Roskilde Kommune)",40.4,40.2,40.3,40.1
+"7159 Sankt Jørgensbjerg (Roskilde Kommune)",42.6,43.1,43.7,43.6
+"7160 Himmelev (Roskilde Kommune)",39.2,39.5,39.8,40.0
+"7161 Hvedstrup (Roskilde Kommune)",42.6,43.5,43.7,43.7
+"7162 Fløng (Høje-Taastrup Kommune)",39.8,40.1,40.2,40.1
+"7163 Herslev (Lejre Kommune)",43.6,43.8,43.2,43.4
+"7164 Gevninge (Lejre Kommune)",44.2,45.0,45.6,45.7
+"7165 Kornerup (Lejre Kommune)",43.0,43.0,43.6,44.0
+"7166 Svogerslev (Roskilde Kommune)",44.2,44.6,44.8,45.1
+"7167 Ågerup (Roskilde Kommune)",42.7,42.9,43.4,43.8
+"7168 Kirkerup (Roskilde Kommune)",40.4,40.6,41.3,42.6
+"7169 Jyllinge (Roskilde Kommune)",42.4,42.8,42.9,43.2
+"7170 Gundsømagle (Roskilde Kommune)",41.1,41.2,41.3,41.4
+"7171 Osted (Lejre Kommune)",41.8,41.6,41.9,41.7
+"7172 Allerslev (Lejre Kommune)",43.5,44.0,43.8,41.5
+"7173 Kirke Hvalsø (Lejre Kommune)",42.0,42.0,42.2,42.6
+"7174 Særløse (Lejre Kommune)",42.5,42.6,43.0,42.9
+"7175 Kirke Saaby (Lejre Kommune)",42.4,42.8,42.7,43.0
+"7176 Kisserup (Lejre Kommune)",46.3,43.6,43.4,44.8
+"7177 Rye (Lejre Kommune)",44.6,44.5,44.7,44.9
+"7178 Kirke Sonnerup (Lejre Kommune)",44.3,44.4,44.1,44.1
+"7179 Kirke Hyllinge (Lejre Kommune)",43.2,43.1,43.6,44.0
+"7180 Lyndby (Lejre Kommune)",44.8,44.9,45.4,46.2
+"7181 Sæby (Lejre Kommune)",49.7,50.1,49.7,51.0
+"7182 Gershøj (Lejre Kommune)",47.4,47.9,47.1,47.4
+"7183 Frydendal (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7184 Sengeløse (Høje-Taastrup Kommune)",41.9,42.1,42.9,42.9
+"7185 Ledøje (Egedal Kommune)",44.9,45.4,45.7,45.9
+"7186 Smørum (Egedal Kommune)",40.4,40.5,40.6,40.5
+"7187 Ballerup (Ballerup Kommune)",42.9,42.9,43.0,43.1
+"7188 Måløv (Ballerup Kommune)",40.4,41.0,41.0,41.3
+"7189 Skovlunde (Ballerup Kommune)",42.9,42.6,42.5,42.3
+"7190 Tårnby (Tårnby Kommune)",42.3,42.2,42.1,42.4
+"7191 Kastrup (Tårnby Kommune)",43.6,44.0,44.3,44.5
+"7192 Store Magleby (Dragør Kommune)",42.3,42.5,42.5,42.4
+"7193 Dragør (Dragør Kommune)",48.9,48.7,48.7,49.4
+"7194 Greve (Greve Kommune)",41.6,42.0,42.2,42.4
+"7195 Hundige-Kildebrønde (Greve Kommune)",42.3,42.3,42.5,42.7
+"7196 Reerslev (Høje-Taastrup Kommune)",42.3,42.7,43.3,43.3
+"7197 Vindinge (Roskilde Kommune)",39.4,39.7,39.2,38.7
+"7198 Snoldelev (Roskilde Kommune)",41.1,41.4,41.5,41.2
+"7199 Tune (Greve Kommune)",42.2,42.6,42.8,43.0
+"7200 Karlslunde (Greve Kommune)",43.2,43.6,43.9,43.8
+"7201 Karlstrup (Solrød Kommune)",39.2,38.4,37.6,38.0
+"7202 Havdrup (Solrød Kommune)",40.6,40.7,40.9,41.0
+"7203 Solrød (Solrød Kommune)",42.0,41.9,42.2,42.3
+"7204 Jersie (Solrød Kommune)",41.9,42.2,42.5,42.8
+"7205 Kirke Skensved (Solrød Kommune)",39.2,38.9,39.6,39.4
+"7206 Køge (Køge Kommune)",44.6,44.6,44.8,44.8
+"7207 Ølsemagle (Køge Kommune)",38.1,38.0,38.3,38.7
+"7208 Rorup (Lejre Kommune)",42.4,42.4,41.3,41.6
+"7209 Glim (Lejre Kommune)",40.2,40.9,41.2,41.3
+"7210 Gadstrup (Roskilde Kommune)",40.2,40.2,40.6,40.7
+"7211 Syv (Roskilde Kommune)",43.5,44.0,44.0,44.0
+"7212 Ørsted (Roskilde Kommune)",39.1,40.0,40.0,41.1
+"7213 Dåstrup (Roskilde Kommune)",40.7,40.6,41.1,41.4
+"7214 Borup (Køge Kommune, Ringsted Kommune)",43.0,43.2,43.6,43.3
+"7215 Kimmerslev (Køge Kommune)",46.3,46.7,47.5,48.0
+"7216 Ejby (Køge Kommune)",41.2,41.6,42.2,42.6
+"7217 Nørre Dalby (Køge Kommune)",38.2,38.5,38.9,39.2
+"7218 Højelse (Køge Kommune)",40.4,40.8,41.1,41.2
+"7219 Ubby (Kalundborg Kommune)",42.5,43.2,43.0,43.3
+"7220 Svallerup (Kalundborg Kommune)",48.6,49.4,50.4,50.5
+"7221 Store Fuglede (Kalundborg Kommune)",41.0,41.3,41.5,42.1
+"7222 Lille Fuglede (Kalundborg Kommune)",41.0,41.0,42.6,44.2
+"7223 Sæby (Kalundborg Kommune)",41.9,42.3,42.8,42.7
+"7224 Hallenslev (Kalundborg Kommune)",39.9,40.1,38.9,40.5
+"7225 Buerup (Kalundborg Kommune)",45.2,46.4,47.4,46.7
+"7226 Reerslev (Kalundborg Kommune)",43.3,43.1,44.7,45.2
+"7227 Ruds Vedby (Sorø Kommune)",40.8,40.6,41.1,42.1
+"7228 Tersløse (Sorø Kommune)",44.1,44.1,44.2,44.3
+"7229 Skellebjerg (Sorø Kommune)",43.3,43.1,43.2,43.3
+"7230 Niløse (Sorø Kommune)",42.5,41.8,42.4,41.5
+"7231 Ørslev (Kalundborg Kommune)",41.7,42.8,43.0,43.2
+"7232 Solbjerg (Kalundborg Kommune)",39.4,38.5,39.4,40.2
+"7233 Havrebjerg (Slagelse Kommune)",42.8,43.8,43.6,43.8
+"7234 Gierslev (Kalundborg Kommune)",41.1,41.9,41.9,42.3
+"7235 Finderup (Kalundborg Kommune, Sorø Kommune)",44.2,43.9,44.4,44.1
+"7236 Gørlev (Kalundborg Kommune)",45.3,45.7,45.7,45.8
+"7237 Bakkendrup (Kalundborg Kommune)",41.8,41.4,41.0,41.2
+"7238 Kirke Helsinge (Kalundborg Kommune)",46.0,46.6,47.0,47.5
+"7239 Drøsselbjerg (Kalundborg Kommune)",50.0,50.7,51.3,51.8
+"7240 Tranebjerg (Samsø Kommune)",0.0,0.0,0.0,0.0
+"7241 Besser (Samsø Kommune)",0.0,0.0,0.0,0.0
+"7242 Onsbjerg (Samsø Kommune)",0.0,0.0,0.0,0.0
+"7243 Kolby (Samsø Kommune)",0.0,0.0,0.0,0.0
+"7244 Nordby (Samsø Kommune)",0.0,0.0,0.0,0.0
+"7245 Stenlille (Sorø Kommune)",43.7,44.5,44.8,44.2
+"7246 Orø (Holbæk Kommune)",52.8,52.4,51.4,51.9
+"7247 Føllenslev (Kalundborg Kommune)",48.2,48.7,49.4,0.0
+"7248 Særslev (Kalundborg Kommune)",40.4,40.5,41.2,0.0
+"7249 Bregninge (Kalundborg Kommune)",49.2,50.4,0.0,0.0
+"7250 Bjergsted (Kalundborg Kommune)",43.7,43.1,0.0,0.0
+"7251 Viskinge (Kalundborg Kommune)",44.3,0.0,0.0,0.0
+"7252 Aunsø (Kalundborg Kommune)",41.1,0.0,0.0,0.0
+"7253 Værslev (Kalundborg Kommune)",41.3,42.2,41.8,41.7
+"7254 Jorløse (Kalundborg Kommune)",45.4,45.1,47.0,47.1
+"7255 Vallekilde (Odsherred Kommune)",40.4,41.7,42.1,41.8
+"7256 Hørve (Odsherred Kommune)",41.6,42.2,42.5,43.2
+"7257 Sejerø (Kalundborg Kommune)",58.6,57.8,57.6,57.8
+"7258 Nykøbing Sj (Odsherred Kommune)",49.6,49.9,50.4,50.9
+"7259 Rørvig (Odsherred Kommune)",56.9,57.0,57.5,57.6
+"7260 Odden (Odsherred Kommune)",54.2,54.5,55.2,55.8
+"7261 Højby (Odsherred Kommune)",50.4,51.1,51.4,51.9
+"7262 Vig (Odsherred Kommune)",47.2,47.1,47.1,47.5
+"7263 Nørre Asmindrup (Odsherred Kommune)",43.2,43.8,44.2,44.7
+"7264 Egebjerg (Odsherred Kommune)",46.0,46.5,47.3,47.3
+"7265 Grevinge (Odsherred Kommune)",47.6,47.5,48.1,49.1
+"7266 Asnæs (Odsherred Kommune)",48.7,48.6,49.2,49.5
+"7267 Fårevejle (Odsherred Kommune)",45.0,45.3,45.5,45.1
+"7268 Vor Frue (Kalundborg Kommune)",45.1,44.9,45.3,45.5
+"7269 Raklev (Kalundborg Kommune)",45.9,46.4,46.6,46.5
+"7270 Røsnæs (Kalundborg Kommune)",50.1,51.0,51.6,52.0
+"7271 Tømmerup (Kalundborg Kommune)",40.1,40.9,41.3,41.5
+"7272 Årby (Kalundborg Kommune)",41.8,41.7,42.4,43.0
+"7273 Rørby (Kalundborg Kommune)",40.5,40.6,40.3,40.6
+"7274 Sankt Nikolai (Holbæk Kommune)",43.7,44.0,44.3,44.6
+"7275 Tveje Merløse (Holbæk Kommune)",41.3,41.7,42.1,42.5
+"7276 Butterup (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7277 Tuse (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7278 Nørre Jernløse (Holbæk Kommune)",40.0,40.3,40.6,40.8
+"7279 Kvanløse (Holbæk Kommune)",40.8,40.6,40.8,41.4
+"7280 Sønder Jernløse (Holbæk Kommune)",40.5,40.7,41.0,40.4
+"7281 Søstrup (Holbæk Kommune)",41.9,41.2,40.2,40.8
+"7282 Sønder Asmindrup (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7283 Grandløse (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7284 Tølløse (Holbæk Kommune)",42.8,43.0,43.3,43.5
+"7285 Ågerup (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7286 Soderup (Holbæk Kommune)",41.9,42.2,42.7,42.8
+"7287 Kirke Eskilstrup (Holbæk Kommune)",41.9,42.6,42.9,43.3
+"7288 Store Tåstrup (Holbæk Kommune)",42.3,42.5,42.8,42.8
+"7289 Ugerløse (Holbæk Kommune)",41.7,41.4,41.9,43.0
+"7290 Undløse (Holbæk Kommune)",41.1,41.0,41.7,42.0
+"7291 Søndersted (Holbæk Kommune)",44.8,44.9,45.0,46.4
+"7292 Udby (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7293 Hørby (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7294 Hagested (Holbæk Kommune)",40.5,40.7,41.6,42.0
+"7295 Gislinge (Holbæk Kommune)",40.5,40.7,40.9,41.3
+"7296 Kundby (Holbæk Kommune)",41.2,41.5,41.7,42.1
+"7297 Hjembæk (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7298 Svinninge (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7299 Jyderup (Holbæk Kommune)",43.9,44.2,44.2,44.9
+"7300 Holmstrup (Holbæk Kommune)",45.5,46.1,47.0,46.4
+"7301 Stigs Bjergby (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7302 Mørkøv (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7303 Skamstrup (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"7304 Karrebæk (Næstved Kommune)",54.5,55.2,55.6,57.0
+"7305 Fodby (Næstved Kommune)",44.6,44.6,44.9,45.6
+"7306 Herlufsholm (Næstved Kommune)",42.2,42.3,42.2,42.2
+"7307 Gunderslev (Næstved Kommune)",44.2,43.6,43.5,43.8
+"7308 Skælskør (Slagelse Kommune)",49.2,49.3,49.3,49.7
+"7309 Eggeslevmagle (Slagelse Kommune)",45.8,46.4,47.4,47.3
+"7310 Høve (Slagelse Kommune)",43.0,43.0,44.3,44.3
+"7311 Flakkebjerg (Slagelse Kommune)",41.0,40.8,40.8,40.7
+"7312 Skørpinge (Slagelse Kommune)",41.5,41.6,41.9,41.3
+"7313 Fårdrup (Slagelse Kommune)",39.6,40.6,40.1,41.0
+"7314 Sørbymagle (Slagelse Kommune)",42.7,42.5,43.0,43.1
+"7315 Kirkerup (Slagelse Kommune)",45.1,46.1,46.3,46.2
+"7316 Gimlinge (Slagelse Kommune)",41.6,41.5,41.7,42.1
+"7317 Hårslev (Næstved Kommune)",40.5,41.2,41.8,41.9
+"7318 Ting Jellinge (Næstved Kommune)",40.5,40.3,40.7,39.2
+"7319 Hyllested (Slagelse Kommune)",41.7,42.1,42.7,42.3
+"7320 Venslev (Slagelse Kommune)",43.3,43.9,44.2,46.5
+"7321 Holsteinborg (Slagelse Kommune)",53.1,53.2,53.0,52.6
+"7322 Ørslev (Slagelse Kommune)",47.4,46.8,49.2,50.7
+"7323 Sønder Bjerge (Slagelse Kommune)",37.1,38.3,39.0,39.5
+"7324 Tjæreby (Slagelse Kommune)",40.7,41.2,41.6,41.5
+"7325 Magleby (Slagelse Kommune)",42.4,42.7,42.7,42.1
+"7326 Agersø (Slagelse Kommune)",58.6,56.0,55.4,56.4
+"7327 Omø (Slagelse Kommune)",57.1,57.5,57.8,58.3
+"7328 Tystrup (Næstved Kommune)",47.3,46.5,46.7,0.0
+"7329 Haldagerlille (Næstved Kommune)",43.7,42.7,42.6,0.0
+"7330 Krummerup (Næstved Kommune)",42.9,43.6,43.1,43.5
+"7331 Fuglebjerg (Næstved Kommune)",45.4,45.7,46.1,0.0
+"7332 Førslev (Næstved Kommune)",39.7,40.5,41.3,42.1
+"7333 Vallensved (Næstved Kommune)",42.2,42.9,43.6,43.4
+"7334 Marvede (Næstved Kommune)",43.9,44.5,44.4,45.8
+"7335 Hyllinge (Næstved Kommune)",40.6,40.8,41.3,41.6
+"7336 Kvislemark (Næstved Kommune)",41.4,41.9,43.2,44.0
+"7337 Fyrendal (Næstved Kommune)",42.0,42.1,42.3,42.8
+"7338 Munke Bjergby (Sorø Kommune)",43.2,43.9,44.1,44.1
+"7339 Bromme (Sorø Kommune)",42.6,42.4,42.2,42.2
+"7340 Gyrstinge (Ringsted Kommune)",40.3,40.3,40.5,40.9
+"7341 Kirke Flinterup (Sorø Kommune)",40.0,39.9,40.3,41.0
+"7342 Stenmagle (Sorø Kommune)",42.3,42.5,42.7,43.0
+"7343 Bringstrup (Ringsted Kommune)",42.0,41.3,40.9,41.5
+"7344 Sigersted (Ringsted Kommune)",41.9,40.7,40.5,40.5
+"7345 Sankt Mikkels (Slagelse Kommune)",40.0,40.2,40.4,40.3
+"7346 Hejninge (Slagelse Kommune)",40.6,40.8,40.4,39.3
+"7347 Sankt Peders (Slagelse Kommune)",41.1,40.9,41.1,41.3
+"7348 Sankt Povls (Slagelse Kommune)",47.6,47.6,47.4,47.7
+"7349 Tårnborg (Slagelse Kommune)",45.1,46.1,46.9,47.0
+"7350 Sønderup (Slagelse Kommune)",39.8,40.0,40.8,40.7
+"7351 Nordrupvester (Slagelse Kommune)",41.8,42.8,43.5,43.2
+"7352 Gudum (Slagelse Kommune)",41.6,43.5,43.4,44.8
+"7353 Sorterup (Slagelse Kommune)",42.1,42.4,42.2,42.0
+"7354 Ottestrup (Slagelse Kommune)",39.6,40.4,40.7,43.9
+"7355 Slots Bjergby (Slagelse Kommune)",41.1,40.1,40.2,39.9
+"7356 Sludstrup (Slagelse Kommune)",40.3,40.7,42.2,42.4
+"7357 Lundforlund (Slagelse Kommune)",38.2,38.5,38.2,39.5
+"7358 Gerlev (Slagelse Kommune)",43.8,45.3,44.9,45.7
+"7359 Kirke Stillinge (Slagelse Kommune)",50.8,51.7,52.2,52.3
+"7360 Vemmelev (Slagelse Kommune)",41.0,41.3,41.2,41.4
+"7361 Hemmeshøj (Slagelse Kommune)",39.2,39.5,39.7,39.8
+"7362 Boeslunde (Slagelse Kommune)",43.8,44.1,45.0,45.6
+"7363 Ringsted (Ringsted Kommune)",41.1,41.3,41.7,42.1
+"7364 Benløse (Ringsted Kommune)",40.7,40.8,40.9,40.8
+"7365 Haraldsted (Ringsted Kommune)",42.8,43.0,43.4,0.0
+"7366 Allindemagle (Ringsted Kommune)",43.5,43.3,43.6,0.0
+"7367 Jystrup (Ringsted Kommune)",42.1,42.2,42.5,43.4
+"7368 Valsølille (Ringsted Kommune)",41.2,41.0,40.7,41.5
+"7369 Vigersted (Ringsted Kommune)",42.5,43.1,42.9,42.5
+"7370 Kværkeby (Ringsted Kommune)",42.3,42.5,43.1,43.6
+"7371 Nordrupøster (Ringsted Kommune)",42.8,42.7,43.0,43.1
+"7372 Farendløse (Ringsted Kommune)",39.8,40.6,40.9,41.2
+"7373 Vetterslev (Ringsted Kommune)",42.8,42.1,42.4,42.4
+"7374 Høm (Ringsted Kommune)",41.8,42.2,42.3,42.4
+"7375 Øde Førslev (Faxe Kommune)",40.5,41.0,40.6,41.1
+"7376 Sneslev (Ringsted Kommune)",41.5,42.5,43.0,43.3
+"7377 Terslev (Faxe Kommune)",41.5,42.1,42.7,43.4
+"7378 Ørslev (Ringsted Kommune)",40.9,40.0,41.0,41.7
+"7379 Haslev (Faxe Kommune)",42.6,42.8,42.9,43.2
+"7380 Freerslev (Faxe Kommune)",44.5,45.9,46.1,45.7
+"7381 Teestrup (Faxe Kommune)",42.6,42.2,42.4,42.9
+"7382 Bråby (Faxe Kommune)",41.9,41.5,42.2,42.2
+"7383 Sorø (Sorø Kommune)",45.7,45.6,45.8,46.0
+"7384 Pedersborg (Sorø Kommune)",41.3,42.2,42.5,43.3
+"7385 Kindertofte (Slagelse Kommune)",45.6,45.4,44.0,42.8
+"7386 Lynge (Sorø Kommune)",42.1,41.9,42.2,42.2
+"7387 Vester Broby (Sorø Kommune)",45.7,44.6,46.6,46.4
+"7388 Alsted (Sorø Kommune)",44.0,44.2,44.6,45.1
+"7389 Fjenneslev (Sorø Kommune)",43.3,43.3,43.6,43.4
+"7390 Slaglille (Sorø Kommune)",44.4,45.3,46.3,46.8
+"7391 Bjernede (Sorø Kommune)",42.2,42.8,43.3,42.3
+"7392 Blistrup (Gribskov Kommune)",48.1,48.2,48.6,48.8
+"7393 Vejby (Gribskov Kommune)",47.1,47.4,47.8,48.6
+"7394 Tibirke (Gribskov Kommune)",51.0,51.5,51.7,52.7
+"7395 Ramløse (Gribskov Kommune)",43.0,43.4,44.2,44.7
+"7396 Annisse (Gribskov Kommune)",43.8,43.6,44.0,44.4
+"7397 Frederiksværk (Halsnæs Kommune)",0.0,0.0,0.0,0.0
+"7398 Vinderød (Halsnæs Kommune)",0.0,0.0,0.0,0.0
+"7399 Kregme (Halsnæs Kommune)",43.9,43.6,43.8,44.3
+"7400 Ølsted (Halsnæs Kommune)",46.3,46.5,47.0,47.4
+"7401 Tjæreby (Hillerød Kommune)",42.6,43.6,42.9,43.3
+"7402 Alsønderup (Hillerød Kommune)",41.1,41.4,41.7,41.6
+"7403 Skævinge (Hillerød Kommune)",37.8,38.0,38.6,39.0
+"7404 Lille Lyngby (Hillerød Kommune)",41.1,41.3,41.6,42.1
+"7405 Strø (Hillerød Kommune)",40.0,39.8,40.0,41.0
+"7406 Gørløse (Hillerød Kommune)",37.9,37.7,38.0,38.6
+"7407 Melby (Halsnæs Kommune)",47.1,47.8,48.5,49.1
+"7408 Torup (Halsnæs Kommune)",47.6,48.0,48.2,48.6
+"7409 Ølstykke (Egedal Kommune)",40.8,41.0,41.2,41.4
+"7410 Stenløse (Egedal Kommune)",41.0,40.9,41.1,41.2
+"7411 Veksø (Egedal Kommune)",39.3,39.9,40.3,40.5
+"7412 Slagslunde (Egedal Kommune)",45.6,46.3,46.4,46.5
+"7413 Ganløse (Egedal Kommune)",43.2,43.2,43.7,43.6
+"7414 Farum (Furesø Kommune)",41.6,41.8,42.1,42.5
+"7415 Hillerød (Hillerød Kommune)",41.0,41.4,41.1,41.9
+"7416 Nørre Herlev (Hillerød Kommune)",42.5,42.6,42.9,43.0
+"7417 Præstevang (Hillerød Kommune)",42.6,42.7,42.9,42.6
+"7418 Frederikssund (Frederikssund Kommune)",46.5,46.6,47.3,47.9
+"7419 Oppe Sundby (Frederikssund Kommune)",41.2,41.7,41.7,41.9
+"7420 Snostrup (Frederikssund Kommune)",41.8,41.3,41.1,41.5
+"7421 Slangerup (Frederikssund Kommune)",41.7,41.9,42.4,42.7
+"7422 Uvelse (Hillerød Kommune, Frederikssund Kommune)",42.2,42.9,42.9,43.3
+"7423 Græse (Frederikssund Kommune)",40.9,41.7,42.4,42.8
+"7424 Sigerslevvester (Frederikssund Kommune)",45.1,45.1,45.9,46.4
+"7425 Lynge (Allerød Kommune)",41.0,41.3,42.0,41.7
+"7426 Uggeløse (Allerød Kommune)",43.0,43.7,43.5,43.9
+"7427 Jørlunde (Egedal Kommune, Frederikssund Kommune)",41.3,41.5,41.8,42.1
+"7428 Esbønderup (Gribskov Kommune)",42.7,43.0,43.6,43.7
+"7429 Nødebo (Hillerød Kommune)",43.4,44.3,44.2,44.0
+"7430 Søborg (Gribskov Kommune)",48.9,49.2,49.9,49.6
+"7431 Gilleleje (Gribskov Kommune)",49.4,50.2,51.0,51.4
+"7432 Græsted (Gribskov Kommune)",43.0,43.2,43.5,44.0
+"7433 Mårum (Gribskov Kommune)",43.1,43.6,44.2,44.0
+"7434 Helsinge (Gribskov Kommune)",44.0,44.3,44.5,44.7
+"7435 Valby (Gribskov Kommune)",43.5,43.3,43.8,44.1
+"7436 Frederiksborg Slotssogn (Hillerød Kommune)",43.4,43.3,43.5,43.8
+"7437 Sankt Olai (Helsingør Kommune)",42.3,42.7,43.2,43.2
+"7438 Sankt Mariæ (Helsingør Kommune)",51.5,51.9,52.5,52.8
+"7439 Vestervang (Helsingør Kommune)",42.6,42.9,43.2,43.7
+"7440 Tikøb (Helsingør Kommune)",42.4,43.3,43.6,43.8
+"7441 Hornbæk (Helsingør Kommune)",47.7,48.1,48.3,48.4
+"7442 Hellebæk (Helsingør Kommune)",46.0,46.5,47.0,46.8
+"7443 Egebæksvang (Helsingør Kommune)",44.1,44.3,44.2,44.6
+"7444 Asminderød (Fredensborg Kommune)",44.8,45.0,45.4,45.5
+"7445 Grønholt (Fredensborg Kommune)",46.0,46.7,46.8,47.3
+"7446 Humlebæk (Fredensborg Kommune)",43.8,44.0,43.9,44.2
+"7447 Birkerød (Rudersdal Kommune)",42.2,0.0,0.0,0.0
+"7448 Bistrup (Rudersdal Kommune)",43.1,43.0,42.9,43.0
+"7449 Blovstrød (Allerød Kommune, Fredensborg Kommune, Hørsholm Kommune)",45.3,42.4,42.0,41.4
+"7450 Lillerød (Allerød Kommune)",42.6,43.1,43.5,43.7
+"7451 Hørsholm (Hørsholm Kommune)",46.4,46.7,47.1,47.2
+"7452 Karlebo (Fredensborg Kommune)",42.2,42.5,42.8,43.0
+"7453 Gerlev (Frederikssund Kommune)",44.9,45.2,44.8,45.1
+"7454 Draaby (Frederikssund Kommune)",45.8,45.7,46.4,46.9
+"7455 Skibby (Frederikssund Kommune)",45.1,45.5,46.0,46.2
+"7456 Ferslev (Frederikssund Kommune)",45.2,45.3,46.5,46.6
+"7457 Vellerup (Frederikssund Kommune)",56.5,57.1,57.5,57.4
+"7458 Skuldelev (Frederikssund Kommune)",44.5,45.1,46.0,46.1
+"7459 Selsø (Frederikssund Kommune)",47.2,49.1,50.6,51.2
+"7460 Kyndby (Frederikssund Kommune)",44.6,44.6,45.8,47.3
+"7461 Krogstrup (Frederikssund Kommune)",44.6,45.4,45.5,45.9
+"7462 Næsby (Næstved Kommune)",42.4,43.0,42.4,42.3
+"7463 Tyvelse (Næstved Kommune)",41.8,42.8,41.2,42.3
+"7464 Sandby (Næstved Kommune)",40.4,40.8,41.6,41.7
+"7465 Vrangstrup (Næstved Kommune)",38.5,37.9,39.9,42.1
+"7466 Præstø (Vordingborg Kommune)",46.7,46.9,48.1,48.3
+"7467 Ullerød (Hillerød Kommune)",38.4,39.0,39.1,39.1
+"7468 Skibinge (Vordingborg Kommune)",50.3,50.9,51.7,52.2
+"7469 Vordingborg (Vordingborg Kommune)",45.4,45.8,46.1,46.4
+"7470 Kastrup (Vordingborg Kommune)",40.3,40.9,41.0,41.6
+"7471 Jungshoved (Vordingborg Kommune)",49.8,50.2,49.8,50.9
+"7472 Everdrup (Næstved Kommune)",43.7,44.3,44.1,44.1
+"7473 Snesere (Næstved Kommune)",41.3,41.5,41.8,42.3
+"7474 Bårse (Vordingborg Kommune)",44.9,45.3,46.0,45.6
+"7475 Beldringe (Vordingborg Kommune)",39.5,41.0,40.6,42.3
+"7476 Allerslev (Vordingborg Kommune)",43.9,44.0,44.4,44.6
+"7477 Udby (Vordingborg Kommune)",42.8,44.0,43.6,44.1
+"7478 Ørslev (Vordingborg Kommune)",43.5,43.6,44.0,44.7
+"7479 Øster Egesborg (Vordingborg Kommune)",42.2,42.2,42.6,42.2
+"7480 Mern (Vordingborg Kommune)",43.6,44.2,44.8,45.4
+"7481 Kalvehave (Vordingborg Kommune)",50.0,50.8,51.2,51.7
+"7483 Stege (Vordingborg Kommune)",50.7,51.3,51.4,51.7
+"7485 Nyord (Vordingborg Kommune)",67.0,67.9,68.8,68.7
+"7486 Keldby (Vordingborg Kommune)",44.4,43.8,45.4,45.6
+"7487 Elmelunde (Vordingborg Kommune)",47.3,47.1,48.4,48.4
+"7488 Borre (Vordingborg Kommune)",51.3,51.6,51.1,51.5
+"7489 Magleby (Vordingborg Kommune)",56.0,57.1,57.4,56.8
+"7490 Damsholte (Vordingborg Kommune)",44.3,44.3,45.1,46.0
+"7491 Fanefjord (Vordingborg Kommune)",45.9,45.8,46.3,46.0
+"7492 Lellinge (Køge Kommune)",43.2,43.6,44.0,44.4
+"7493 Lille Heddinge (Stevns Kommune)",50.2,50.5,51.3,51.3
+"7494 Havnelev (Stevns Kommune)",49.1,50.0,50.3,50.8
+"7495 Magleby Stevns (Stevns Kommune)",43.6,44.7,44.7,44.8
+"7496 Holtug (Stevns Kommune)",46.0,45.8,45.7,45.0
+"7497 Strøby (Stevns Kommune)",46.5,46.7,46.6,46.8
+"7498 Varpelev (Stevns Kommune)",38.1,38.0,37.5,38.0
+"7499 Toksværd (Næstved Kommune)",42.1,42.5,43.4,43.9
+"7500 Rønnebæk (Næstved Kommune)",42.5,43.3,43.9,44.2
+"7501 Holme Olstrup (Næstved Kommune)",43.2,43.0,43.2,43.6
+"7502 Næstelsø (Næstved Kommune)",42.6,43.7,43.3,43.1
+"7503 Mogenstrup (Næstved Kommune)",43.9,43.6,43.5,43.9
+"7504 Vejlø (Næstved Kommune)",45.2,45.3,45.2,45.7
+"7505 Vester Egesborg (Næstved Kommune)",43.3,44.3,44.5,45.3
+"7506 Hammer (Næstved Kommune)",40.4,39.9,40.7,40.7
+"7507 Lundby (Vordingborg Kommune)",40.2,41.0,41.2,41.8
+"7508 Køng (Vordingborg Kommune)",44.2,44.9,45.1,45.5
+"7509 Sværdborg (Vordingborg Kommune)",42.1,42.6,43.0,44.0
+"7510 Sankt Peders (Næstved Kommune)",40.7,40.7,41.2,41.4
+"7511 Sankt Mortens (Næstved Kommune)",43.4,43.6,44.0,44.3
+"7512 Vester Egede (Faxe Kommune)",44.6,44.8,43.7,43.5
+"7513 Aversi (Næstved Kommune)",42.5,42.5,43.8,43.5
+"7514 Tybjerg (Næstved Kommune)",42.3,42.3,43.1,43.2
+"7515 Herlufmagle (Næstved Kommune)",42.9,43.0,43.5,43.6
+"7516 Fensmark (Næstved Kommune)",42.0,42.2,42.3,42.6
+"7517 Rislev (Næstved Kommune)",40.4,41.8,42.1,41.8
+"7518 Skelby (Næstved Kommune)",42.7,43.0,43.8,43.8
+"7519 Glumsø (Næstved Kommune)",43.5,43.5,44.4,45.2
+"7520 Bavelse (Næstved Kommune)",42.3,43.2,41.9,41.4
+"7521 Bogø (Vordingborg Kommune)",48.4,48.8,49.6,49.8
+"7522 Faxe (Faxe Kommune)",44.1,44.0,44.2,44.5
+"7523 Hylleholt (Faxe Kommune)",48.2,48.7,49.4,50.1
+"7524 Spjellerup (Faxe Kommune)",44.8,45.0,44.7,45.7
+"7525 Smerup (Faxe Kommune)",44.8,45.7,46.2,46.2
+"7526 Hellested (Stevns Kommune)",43.8,44.3,45.4,45.3
+"7527 Vemmetofte (Faxe Kommune)",52.7,55.2,54.8,55.2
+"7528 Karise (Faxe Kommune)",45.7,45.6,46.1,45.6
+"7529 Alslev (Faxe Kommune)",40.5,41.0,42.8,43.9
+"7530 Sønder Dalby (Faxe Kommune)",42.1,42.4,42.6,43.1
+"7531 Tureby (Faxe Kommune)",43.5,43.4,44.8,44.7
+"7532 Ulse (Faxe Kommune)",46.0,44.4,44.4,44.8
+"7533 Øster Egede (Faxe Kommune)",50.3,49.5,48.3,49.6
+"7534 Kongsted (Faxe Kommune)",44.5,44.9,45.3,45.0
+"7535 Roholte (Faxe Kommune)",45.4,46.5,47.3,48.2
+"7536 Lidemark (Køge Kommune)",45.3,45.6,46.6,46.8
+"7537 Bjæverskov (Køge Kommune)",41.5,41.9,42.1,42.1
+"7538 Vollerslev (Køge Kommune)",43.4,43.9,43.1,42.5
+"7539 Gørslev (Køge Kommune)",42.3,42.8,43.2,43.1
+"7540 Herfølge (Køge Kommune)",41.5,41.7,42.0,42.1
+"7541 Sædder (Køge Kommune, Faxe Kommune)",40.5,41.2,41.3,41.5
+"7542 Valløby (Stevns Kommune)",42.1,42.8,42.9,42.6
+"7543 Tårnby (Stevns Kommune)",42.5,42.6,42.9,43.5
+"7544 Hårlev (Faxe Kommune, Stevns Kommune)",45.2,45.1,45.6,46.0
+"7545 Himlingøje (Stevns Kommune)",40.6,41.7,40.9,41.9
+"7546 Endeslev (Stevns Kommune)",44.3,44.7,45.5,45.8
+"7547 Vråby (Stevns Kommune)",42.3,43.1,43.1,43.6
+"7548 Store Heddinge (Stevns Kommune)",44.3,44.4,44.5,44.9
+"7549 Højerup (Stevns Kommune)",47.3,45.6,46.3,46.1
+"7550 Lyderslev (Stevns Kommune)",43.6,44.3,45.0,45.1
+"7551 Frøslev (Stevns Kommune)",43.3,42.8,43.5,43.5
+"7552 Rønne (Bornholm Kommune)",46.9,47.1,47.5,47.8
+"7553 Knudsker (Bornholm Kommune)",45.7,45.5,45.2,46.0
+"7554 Vestermarie (Bornholm Kommune)",42.8,43.2,43.0,42.9
+"7555 Nylarsker (Bornholm Kommune)",49.0,48.9,49.3,49.3
+"7556 Nyker (Bornholm Kommune)",45.3,45.7,45.5,45.7
+"7557 Hasle (Bornholm Kommune)",50.2,50.5,50.6,50.7
+"7558 Rutsker (Bornholm Kommune)",48.4,47.6,48.1,48.3
+"7559 Olsker (Bornholm Kommune)",53.0,53.2,53.7,52.9
+"7560 Allinge-Sandvig (Bornholm Kommune)",53.5,53.7,52.8,53.4
+"7561 Klemensker (Bornholm Kommune)",44.3,44.9,45.3,45.6
+"7562 Rø (Bornholm Kommune)",49.7,49.0,50.4,49.6
+"7563 Ibsker (Bornholm Kommune)",50.2,50.4,51.0,50.3
+"7564 Svaneke (Bornholm Kommune)",52.6,52.7,52.7,52.9
+"7565 Østerlarsker (Bornholm Kommune)",47.4,47.7,48.4,47.7
+"7566 Gudhjem (Bornholm Kommune)",56.5,57.0,56.7,56.0
+"7567 Østermarie (Bornholm Kommune)",46.2,46.1,46.5,46.4
+"7568 Christiansø (Christiansø Kommune)",43.5,43.6,45.3,44.2
+"7569 Aaker (Bornholm Kommune)",47.9,47.8,47.6,47.9
+"7570 Bodilsker (Bornholm Kommune)",46.7,46.6,46.2,45.8
+"7571 Nexø (Bornholm Kommune)",48.4,48.7,48.8,48.6
+"7572 Poulsker (Bornholm Kommune)",51.8,52.4,52.4,53.1
+"7573 Pedersker (Bornholm Kommune)",47.7,48.1,48.5,49.8
+"7575 Ønslev (Guldborgsund Kommune)",44.8,45.2,45.2,44.5
+"7576 Eskilstrup (Guldborgsund Kommune)",43.3,43.5,44.3,44.6
+"7577 Tingsted (Guldborgsund Kommune)",39.7,40.1,40.4,40.3
+"7578 Nykøbing F (Guldborgsund Kommune)",43.7,44.1,44.3,44.5
+"7579 Idestrup (Guldborgsund Kommune)",47.7,47.4,47.7,48.1
+"7580 Væggerløse (Guldborgsund Kommune)",54.0,54.2,54.8,55.4
+"7581 Skelby (Guldborgsund Kommune)",47.9,49.5,50.0,49.8
+"7582 Gedesby (Guldborgsund Kommune)",57.0,55.5,56.9,56.1
+"7583 Sønder Kirkeby (Guldborgsund Kommune)",40.3,40.1,40.8,41.4
+"7584 Sønder Alslev (Guldborgsund Kommune)",56.4,58.8,57.7,59.0
+"7585 Karleby (Guldborgsund Kommune)",48.2,48.3,45.3,46.2
+"7586 Horreby (Guldborgsund Kommune)",44.2,44.9,45.2,45.2
+"7587 Nørre Ørslev (Guldborgsund Kommune)",39.0,40.3,41.0,41.6
+"7588 Systofte (Guldborgsund Kommune)",44.0,44.6,45.2,45.1
+"7589 Horbelev (Guldborgsund Kommune)",45.1,44.5,44.6,45.5
+"7590 Falkerslev (Guldborgsund Kommune)",45.0,44.8,44.4,44.7
+"7591 Aastrup (Guldborgsund Kommune)",48.1,49.9,49.9,50.4
+"7592 Tårs (Guldborgsund Kommune)",41.9,42.4,42.0,42.7
+"7593 Vigsnæs (Guldborgsund Kommune)",50.1,50.2,52.3,52.5
+"7594 Majbølle (Guldborgsund Kommune)",49.3,49.6,50.0,50.3
+"7595 Radsted (Guldborgsund Kommune)",43.9,44.1,45.4,45.5
+"7596 Toreby (Guldborgsund Kommune)",45.8,45.9,45.9,46.0
+"7597 Slemminge (Guldborgsund Kommune)",43.3,44.0,44.9,45.2
+"7598 Fjelde (Guldborgsund Kommune)",47.8,47.2,47.4,46.5
+"7599 Døllefjelde (Guldborgsund Kommune)",42.7,43.3,44.0,45.1
+"7600 Musse (Guldborgsund Kommune)",47.0,47.7,47.8,47.8
+"7601 Herritslev (Guldborgsund Kommune)",50.0,50.2,48.7,49.1
+"7602 Øster Ulslev (Guldborgsund Kommune)",42.0,43.3,42.5,42.3
+"7603 Vester Ulslev (Guldborgsund Kommune)",45.8,47.0,48.1,48.4
+"7604 Godsted (Guldborgsund Kommune)",44.1,44.4,46.0,43.8
+"7605 Kettinge (Guldborgsund Kommune)",45.8,45.9,45.4,45.9
+"7606 Bregninge (Guldborgsund Kommune)",40.6,40.6,41.5,41.5
+"7607 Stubbekøbing (Guldborgsund Kommune)",50.1,50.4,50.4,50.6
+"7608 Maglebrænde (Guldborgsund Kommune)",47.1,45.6,46.0,47.0
+"7609 Torkilstrup (Guldborgsund Kommune)",44.4,44.8,44.9,46.7
+"7610 Lillebrænde (Guldborgsund Kommune)",46.6,45.4,45.0,46.0
+"7611 Gundslev (Guldborgsund Kommune)",47.2,46.3,46.3,46.9
+"7612 Nørre Vedby (Guldborgsund Kommune)",46.3,46.6,0.0,0.0
+"7613 Nørre Alslev (Guldborgsund Kommune)",47.0,47.0,47.8,48.0
+"7614 Nørre Kirkeby (Guldborgsund Kommune)",42.6,43.1,43.9,42.2
+"7615 Vålse (Guldborgsund Kommune)",43.1,43.1,0.0,0.0
+"7616 Kippinge (Guldborgsund Kommune)",42.1,42.0,0.0,0.0
+"7617 Stadager (Guldborgsund Kommune)",46.6,46.6,0.0,0.0
+"7618 Brarup (Guldborgsund Kommune)",46.2,47.3,0.0,0.0
+"7619 Købelev (Lolland Kommune)",50.6,50.7,52.4,0.0
+"7620 Vindeby (Lolland Kommune)",49.3,49.1,49.5,0.0
+"7621 Utterslev (Lolland Kommune)",0.0,0.0,0.0,0.0
+"7622 Horslunde (Lolland Kommune)",50.9,50.0,49.9,50.1
+"7623 Nordlunde (Lolland Kommune)",38.0,39.0,39.7,41.9
+"7624 Herredskirke (Lolland Kommune)",0.0,0.0,0.0,0.0
+"7625 Løjtofte (Lolland Kommune)",0.0,0.0,0.0,0.0
+"7626 Halsted (Lolland Kommune)",43.0,43.8,43.7,44.9
+"7627 Avnede (Lolland Kommune)",45.4,47.0,47.6,48.5
+"7628 Vestenskov (Lolland Kommune)",49.9,50.5,49.7,49.7
+"7629 Kappel (Lolland Kommune)",48.0,48.3,50.8,51.3
+"7630 Dannemare (Lolland Kommune)",51.3,52.4,53.5,54.0
+"7631 Tillitse (Lolland Kommune)",48.0,48.2,48.8,48.9
+"7632 Gloslunde (Lolland Kommune)",50.6,50.6,51.4,52.3
+"7633 Græshave (Lolland Kommune)",43.5,43.7,43.0,42.3
+"7634 Landet (Lolland Kommune)",46.5,46.3,45.6,45.0
+"7635 Ryde (Lolland Kommune)",48.1,49.0,48.9,48.5
+"7636 Søllested (Lolland Kommune)",0.0,0.0,0.0,0.0
+"7637 Skovlænge (Lolland Kommune)",0.0,0.0,0.0,0.0
+"7638 Gurreby (Lolland Kommune)",0.0,0.0,0.0,0.0
+"7639 Stokkemarke (Lolland Kommune)",48.9,49.3,49.5,50.4
+"7640 Vesterborg (Lolland Kommune)",47.9,49.3,49.1,49.1
+"7641 Birket (Lolland Kommune)",51.9,53.4,53.9,54.0
+"7642 Sakskøbing (Guldborgsund Kommune)",49.5,49.5,49.8,49.7
+"7643 Nysted (Guldborgsund Kommune)",53.2,53.6,54.9,0.0
+"7644 Våbensted (Guldborgsund Kommune)",42.6,43.4,43.3,44.3
+"7645 Engestofte (Guldborgsund Kommune)",45.8,42.5,43.7,45.5
+"7646 Hunseby (Lolland Kommune)",44.8,45.3,45.6,45.6
+"7647 Vantore (Guldborgsund Kommune)",44.1,45.1,47.8,0.0
+"7648 Maribo Domsogn (Lolland Kommune)",48.4,48.2,48.8,49.4
+"7649 Hillested (Lolland Kommune)",46.7,48.2,47.7,47.1
+"7650 Skørringe (Lolland Kommune)",46.5,46.8,47.7,47.8
+"7651 Rødby (Lolland Kommune)",49.5,49.8,50.6,50.0
+"7652 Ringsebølle (Lolland Kommune)",47.0,48.1,49.2,49.4
+"7653 Tågerup (Lolland Kommune)",48.0,48.2,48.6,48.9
+"7654 Torslunde (Lolland Kommune)",47.5,48.4,48.9,51.2
+"7655 Errindlev (Lolland Kommune)",51.4,51.6,52.2,53.6
+"7656 Olstrup (Lolland Kommune)",51.0,52.2,54.4,55.3
+"7657 Fuglse (Lolland Kommune)",48.3,49.3,49.0,49.9
+"7658 Krønge (Lolland Kommune)",48.6,47.0,46.5,49.2
+"7659 Holeby (Lolland Kommune)",48.2,49.0,49.6,49.7
+"7660 Bursø (Lolland Kommune)",44.9,46.6,47.1,48.5
+"7661 Nebbelunde (Lolland Kommune)",41.6,42.7,42.5,43.5
+"7662 Sædinge (Lolland Kommune)",47.6,48.8,46.2,46.9
+"7663 Tirsted (Lolland Kommune)",46.9,45.5,46.4,47.3
+"7664 Vejleby (Lolland Kommune)",45.6,45.9,48.1,47.9
+"7665 Østofte (Lolland Kommune)",45.2,45.3,45.9,46.5
+"7666 Bandholm (Lolland Kommune)",50.6,52.2,52.6,53.1
+"7667 Fejø (Lolland Kommune)",54.4,54.3,54.4,54.3
+"7668 Femø (Lolland Kommune)",67.5,69.1,69.2,66.2
+"7669 Askø (Lolland Kommune)",67.0,67.9,67.3,67.3
+"7670 Sankt Nikolai (Lolland Kommune)",47.7,47.6,47.8,48.1
+"7671 Branderslev (Lolland Kommune)",45.4,46.0,47.6,48.0
+"7672 Stormarks (Lolland Kommune)",45.1,45.1,45.1,45.2
+"7673 Arninge (Lolland Kommune)",49.7,51.1,51.5,51.1
+"7674 Sandby (Lolland Kommune)",49.7,50.3,52.1,52.4
+"7675 Vor Frue (Svendborg Kommune)",40.3,40.7,40.9,41.6
+"7676 Sankt Nikolaj (Svendborg Kommune)",41.5,42.5,43.4,44.1
+"7677 Sankt Jørgens (Svendborg Kommune)",46.3,46.4,46.6,46.7
+"7678 Sørup (Svendborg Kommune)",40.7,41.4,41.9,41.2
+"7679 Skårup (Svendborg Kommune)",43.1,43.3,43.7,43.9
+"7680 Tved (Svendborg Kommune)",46.5,46.3,46.3,46.7
+"7681 Egense (Svendborg Kommune)",46.1,46.6,46.6,46.9
+"7682 Øster Skerninge (Svendborg Kommune)",44.4,45.1,45.3,45.4
+"7683 Hundstrup (Svendborg Kommune)",42.0,41.9,42.5,42.6
+"7684 Ollerup (Svendborg Kommune)",38.5,38.2,38.6,38.4
+"7685 Kirkeby (Svendborg Kommune)",41.5,41.4,41.8,42.0
+"7686 Stenstrup (Svendborg Kommune)",44.6,45.2,45.6,45.8
+"7687 Lunde (Svendborg Kommune)",42.9,42.8,42.7,42.6
+"7688 Kværndrup (Faaborg-Midtfyn Kommune)",41.1,41.2,41.4,41.8
+"7689 Thurø (Svendborg Kommune)",47.6,47.7,47.9,47.8
+"7690 Bregninge (Svendborg Kommune)",48.2,47.9,47.7,47.5
+"7691 Landet (Svendborg Kommune)",45.4,46.1,46.1,45.7
+"7692 Bjerreby (Svendborg Kommune)",42.5,42.9,43.3,43.6
+"7693 Drejø (Svendborg Kommune)",59.1,60.0,59.1,63.2
+"7694 Strynø (Langeland Kommune)",50.0,49.6,48.8,48.7
+"7695 Fåborg (Faaborg-Midtfyn Kommune)",50.3,50.6,51.2,51.6
+"7696 Diernæs (Faaborg-Midtfyn Kommune)",49.0,50.0,50.6,51.3
+"7697 Vester Åby (Faaborg-Midtfyn Kommune)",47.6,48.2,48.6,49.0
+"7698 Åstrup (Faaborg-Midtfyn Kommune)",47.8,47.6,48.8,49.7
+"7699 Vester Skerninge (Svendborg Kommune)",43.4,43.4,43.8,43.1
+"7700 Ulbølle (Svendborg Kommune)",46.3,46.7,47.0,46.9
+"7701 Heden (Faaborg-Midtfyn Kommune)",41.7,41.4,40.8,40.9
+"7702 Bøstrup (Langeland Kommune)",53.1,51.5,51.6,52.0
+"7703 Snøde (Langeland Kommune)",52.2,51.9,52.8,52.7
+"7704 Stoense (Langeland Kommune)",48.7,48.8,50.3,52.4
+"7705 Hou (Langeland Kommune)",59.4,60.3,60.0,62.2
+"7706 Longelse (Langeland Kommune)",47.9,48.1,48.3,49.3
+"7707 Fuglsbølle (Langeland Kommune)",47.7,48.0,47.0,46.0
+"7708 Lindelse (Langeland Kommune)",51.3,51.0,52.1,52.6
+"7709 Humble (Langeland Kommune)",51.5,51.9,52.0,52.6
+"7710 Tryggelev (Langeland Kommune)",49.4,51.1,51.6,52.1
+"7711 Fodslette (Langeland Kommune)",48.6,49.6,52.7,52.1
+"7712 Magleby (Langeland Kommune)",53.1,53.8,54.7,55.1
+"7713 Ærøskøbing (Ærø Kommune)",56.0,56.1,56.5,56.1
+"7714 Marstal (Ærø Kommune)",51.1,51.9,52.1,52.3
+"7715 Rise (Ærø Kommune)",48.4,49.0,49.4,49.6
+"7716 Tranderup (Ærø Kommune)",46.0,46.2,45.6,46.8
+"7717 Bregninge (Ærø Kommune)",52.8,52.6,51.9,53.2
+"7718 Søby (Ærø Kommune)",55.3,54.7,55.2,55.0
+"7719 Oure (Svendborg Kommune)",41.5,41.9,41.6,43.5
+"7720 Vejstrup (Svendborg Kommune)",40.5,41.0,41.8,41.6
+"7721 Gudme (Svendborg Kommune)",42.7,42.8,43.4,43.1
+"7722 Brudager (Svendborg Kommune)",40.3,41.2,41.0,41.4
+"7723 Gudbjerg (Svendborg Kommune)",43.0,43.6,43.9,44.3
+"7724 Nyborg (Nyborg Kommune)",45.8,46.0,46.5,46.6
+"7725 Aunslev (Nyborg Kommune)",43.5,43.3,43.2,43.4
+"7726 Bovense (Nyborg Kommune)",47.3,47.5,46.9,46.9
+"7727 Flødstrup (Nyborg Kommune)",42.4,42.7,42.7,43.1
+"7728 Ullerslev (Nyborg Kommune)",43.6,44.1,44.5,45.0
+"7729 Skellerup (Nyborg Kommune)",41.1,41.2,41.8,42.4
+"7730 Ellinge (Nyborg Kommune)",41.5,40.8,41.4,42.1
+"7731 Kullerup (Nyborg Kommune)",38.8,39.0,39.9,40.3
+"7732 Refsvindinge (Nyborg Kommune)",40.5,40.8,41.2,41.7
+"7733 Vindinge (Nyborg Kommune)",42.7,43.1,43.1,43.4
+"7734 Frørup (Nyborg Kommune)",41.4,41.4,42.1,43.0
+"7735 Ørbæk (Nyborg Kommune)",48.3,48.0,47.6,47.9
+"7736 Herrested (Nyborg Kommune)",42.1,42.7,42.6,43.4
+"7737 Søllinge (Faaborg-Midtfyn Kommune)",43.6,43.5,43.2,43.6
+"7738 Hellerup (Faaborg-Midtfyn Kommune)",41.5,39.7,40.2,39.0
+"7739 Sønder Højrup (Faaborg-Midtfyn Kommune)",39.1,38.4,38.8,39.2
+"7740 Årslev (Faaborg-Midtfyn Kommune)",41.0,40.9,41.6,41.3
+"7741 Rudkøbing (Langeland Kommune)",49.7,50.4,51.4,52.1
+"7742 Simmerbølle (Langeland Kommune)",46.3,45.9,46.3,46.7
+"7743 Skrøbelev (Langeland Kommune)",43.2,42.8,42.7,43.4
+"7744 Tranekær (Langeland Kommune)",59.2,59.1,61.4,59.8
+"7745 Tullebølle (Langeland Kommune)",52.2,51.7,51.5,51.8
+"7746 Brahetrolleborg (Faaborg-Midtfyn Kommune)",44.9,45.4,45.3,45.6
+"7747 Krarup (Faaborg-Midtfyn Kommune)",41.2,42.4,42.2,42.3
+"7748 Herringe (Faaborg-Midtfyn Kommune)",40.3,40.6,41.5,41.7
+"7749 Gestelev (Faaborg-Midtfyn Kommune)",39.3,39.6,39.7,39.0
+"7750 Espe (Faaborg-Midtfyn Kommune)",40.2,40.7,41.0,42.3
+"7751 Vantinge (Faaborg-Midtfyn Kommune)",42.8,43.6,44.9,44.2
+"7752 Allested (Faaborg-Midtfyn Kommune)",43.9,42.9,43.9,44.0
+"7753 Vejle (Faaborg-Midtfyn Kommune)",42.7,42.8,43.9,44.0
+"7754 Nørre Broby (Faaborg-Midtfyn Kommune)",44.0,44.1,44.6,44.6
+"7755 Sønder Broby (Faaborg-Midtfyn Kommune)",44.1,43.9,43.8,44.4
+"7756 Hillerslev (Faaborg-Midtfyn Kommune)",39.7,40.1,40.3,40.2
+"7757 Øster Hæsinge (Faaborg-Midtfyn Kommune)",45.9,46.8,48.0,48.0
+"7758 Vester Hæsinge (Faaborg-Midtfyn Kommune)",45.8,45.3,45.3,45.8
+"7759 Sandholts Lyndelse (Faaborg-Midtfyn Kommune)",46.8,48.5,48.6,49.6
+"7760 Jordløse (Assens Kommune)",43.8,43.6,43.8,44.8
+"7761 Håstrup (Faaborg-Midtfyn Kommune)",45.9,45.4,45.8,46.8
+"7762 Svanninge (Faaborg-Midtfyn Kommune)",48.3,48.9,49.8,50.0
+"7763 Horne (Faaborg-Midtfyn Kommune)",48.0,48.5,49.2,49.7
+"7764 Lyø (Faaborg-Midtfyn Kommune)",60.9,60.0,62.7,62.8
+"7765 Avernakø (Faaborg-Midtfyn Kommune)",54.0,54.4,56.6,52.7
+"7766 Ringe (Faaborg-Midtfyn Kommune)",43.4,43.3,43.5,43.7
+"7767 Ryslinge (Faaborg-Midtfyn Kommune)",44.2,44.1,44.2,43.8
+"7768 Gislev (Faaborg-Midtfyn Kommune)",44.0,44.5,44.9,45.0
+"7769 Ellested (Nyborg Kommune)",38.6,41.0,41.5,42.8
+"7770 Langå (Nyborg Kommune)",42.0,42.6,43.3,42.6
+"7771 Øksendrup (Nyborg Kommune)",44.0,44.2,45.3,46.1
+"7772 Hesselager (Svendborg Kommune)",46.7,47.1,47.7,47.0
+"7773 Svindinge (Nyborg Kommune)",40.7,41.7,42.4,42.5
+"7774 Sankt Knuds (Odense Kommune)",36.5,36.5,36.6,36.8
+"7775 Ansgars (Odense Kommune)",37.1,37.3,37.4,37.6
+"7776 Bolbro (Odense Kommune)",38.6,38.4,38.6,38.8
+"7777 Thomas Kingos (Odense Kommune)",40.5,40.8,40.9,41.2
+"7778 Munkebjerg (Odense Kommune)",39.3,39.4,39.4,39.5
+"7779 Vor Frue (Odense Kommune)",33.8,33.9,33.8,33.7
+"7780 Korsløkke (Odense Kommune)",38.2,38.1,37.8,37.5
+"7781 Sankt Hans (Odense Kommune)",34.4,34.4,34.8,35.0
+"7782 Fredens (Odense Kommune)",37.6,37.7,37.9,37.0
+"7783 Hans Tausens (Odense Kommune)",35.8,36.1,36.4,36.8
+"7784 Paarup (Odense Kommune)",43.9,44.1,44.4,44.6
+"7785 Korup (Odense Kommune)",44.1,44.2,44.3,44.4
+"7786 Ubberud (Odense Kommune)",40.7,40.9,41.6,41.9
+"7787 Dalum (Odense Kommune)",38.5,38.7,39.1,39.4
+"7788 Sanderum (Odense Kommune)",44.6,44.7,44.5,44.6
+"7789 Brændekilde (Odense Kommune)",39.3,39.3,39.5,39.2
+"7790 Bellinge (Odense Kommune)",43.6,43.6,43.7,42.9
+"7791 Stenløse (Odense Kommune)",40.0,39.4,39.6,39.8
+"7792 Fangel (Odense Kommune)",44.0,44.1,43.3,43.6
+"7793 Verninge (Assens Kommune)",41.8,42.0,42.7,42.6
+"7794 Tommerup (Assens Kommune)",41.4,41.8,41.4,41.7
+"7795 Brylle (Assens Kommune)",42.3,42.4,43.0,42.8
+"7796 Vissenbjerg (Assens Kommune)",42.8,42.8,43.1,43.7
+"7797 Kerteminde (Kerteminde Kommune)",0.0,0.0,0.0,0.0
+"7798 Munkebo (Kerteminde Kommune)",44.4,44.6,45.0,45.2
+"7799 Drigstrup (Kerteminde Kommune)",0.0,0.0,0.0,0.0
+"7800 Kølstrup (Kerteminde Kommune)",42.4,42.2,42.1,42.7
+"7801 Assens (Assens Kommune)",47.9,48.3,49.3,49.6
+"7802 Bågø (Assens Kommune)",53.4,55.0,56.4,56.7
+"7803 Kærum (Assens Kommune)",46.1,46.1,46.1,46.1
+"7804 Gamtofte (Assens Kommune)",43.9,44.3,44.2,45.1
+"7805 Søby (Assens Kommune)",37.9,38.3,37.9,39.7
+"7806 Turup (Assens Kommune)",43.7,43.6,43.7,43.7
+"7807 Barløse (Assens Kommune)",39.8,40.2,41.1,41.4
+"7808 Sandager (Assens Kommune)",44.8,45.8,44.5,44.7
+"7809 Holevad (Assens Kommune)",40.7,42.1,43.0,44.1
+"7810 Tanderup (Middelfart Kommune)",41.6,42.6,43.0,43.8
+"7811 Kerte (Assens Kommune)",41.3,42.0,42.0,42.9
+"7812 Skydebjerg (Assens Kommune)",38.8,38.7,39.6,40.4
+"7813 Ørsted (Assens Kommune)",41.2,42.4,41.8,41.9
+"7814 Orte (Assens Kommune)",42.1,42.5,42.9,43.7
+"7815 Søllested (Assens Kommune)",42.6,42.4,43.9,43.4
+"7816 Vedtofte (Assens Kommune)",43.7,42.4,43.1,45.6
+"7817 Glamsbjerg (Assens Kommune)",42.4,43.0,43.0,43.2
+"7818 Flemløse (Assens Kommune)",43.5,43.3,43.0,43.8
+"7819 Hårby (Assens Kommune)",48.0,48.0,48.6,48.5
+"7820 Dreslette (Assens Kommune)",46.3,46.7,47.6,47.3
+"7821 Sønderby (Assens Kommune)",43.8,44.1,44.8,45.6
+"7822 Helnæs (Assens Kommune)",55.9,56.6,57.0,58.1
+"7823 Middelfart (Middelfart Kommune)",45.7,46.0,46.2,46.7
+"7824 Kauslunde (Middelfart Kommune)",37.9,38.5,38.8,39.2
+"7825 Vejlby (Middelfart Kommune)",43.6,43.1,43.3,42.7
+"7826 Strib (Middelfart Kommune)",45.7,46.1,46.6,47.2
+"7827 Asperup (Middelfart Kommune)",42.9,42.5,42.6,43.2
+"7828 Roerslev (Middelfart Kommune)",43.4,42.7,42.9,42.5
+"7829 Brenderup (Middelfart Kommune)",42.9,43.2,43.6,43.9
+"7830 Fjelsted (Middelfart Kommune)",42.4,42.3,42.8,42.4
+"7831 Harndrup (Middelfart Kommune)",43.0,43.1,43.5,43.5
+"7832 Gelsted (Middelfart Kommune)",42.1,42.3,42.5,42.8
+"7833 Rørup (Assens Kommune)",43.2,42.8,44.1,44.8
+"7834 Balslev (Middelfart Kommune)",41.7,43.9,43.5,43.3
+"7835 Ejby (Middelfart Kommune)",44.5,44.2,44.5,44.3
+"7836 Nørre Aaby (Middelfart Kommune)",42.0,42.1,42.2,42.6
+"7837 Indslev (Middelfart Kommune)",43.4,42.4,42.9,42.2
+"7838 Gamborg (Middelfart Kommune)",46.3,46.7,47.5,46.5
+"7839 Udby (Middelfart Kommune)",39.1,39.2,39.8,39.6
+"7840 Føns (Middelfart Kommune)",49.8,50.2,50.4,50.0
+"7841 Ørslev (Middelfart Kommune)",41.4,41.2,41.6,41.4
+"7842 Husby (Middelfart Kommune)",46.8,47.2,47.3,47.7
+"7843 Lunde (Nordfyns Kommune)",42.2,43.4,43.5,43.7
+"7844 Lumby (Odense Kommune)",40.7,40.5,40.9,41.3
+"7845 Allesø (Odense Kommune)",42.8,43.8,44.5,44.4
+"7846 Næsbyhoved-Broby (Odense Kommune)",41.8,42.5,42.9,43.1
+"7847 Næsby (Odense Kommune)",43.1,43.1,43.0,43.1
+"7848 Krogsbølle (Nordfyns Kommune)",45.1,44.6,44.9,46.1
+"7849 Nørre Næraa (Nordfyns Kommune)",41.4,42.7,43.9,43.9
+"7850 Bederslev (Nordfyns Kommune)",44.8,44.1,43.3,44.3
+"7851 Klinte (Nordfyns Kommune)",44.9,45.7,46.6,46.0
+"7852 Grindløse (Nordfyns Kommune)",41.1,42.3,42.8,44.1
+"7853 Uggerslev (Nordfyns Kommune)",40.7,40.5,40.9,41.4
+"7854 Nørre Højrup (Nordfyns Kommune)",40.4,40.6,39.5,39.2
+"7855 Skamby (Nordfyns Kommune)",39.3,39.5,39.6,40.1
+"7856 Bogense (Nordfyns Kommune)",49.5,49.7,50.3,51.1
+"7857 Skovby (Nordfyns Kommune)",42.8,42.9,42.9,44.5
+"7858 Ore (Nordfyns Kommune)",42.9,43.7,44.1,44.2
+"7859 Guldbjerg (Nordfyns Kommune)",46.4,45.9,44.3,44.6
+"7860 Nørre Sandager (Nordfyns Kommune)",42.2,43.5,43.9,43.8
+"7861 Ejlby (Nordfyns Kommune)",42.2,44.2,43.2,44.4
+"7862 Melby (Nordfyns Kommune)",40.3,40.7,42.4,41.8
+"7863 Særslev (Nordfyns Kommune)",40.8,41.5,41.7,41.8
+"7864 Hårslev (Nordfyns Kommune)",40.2,40.6,40.8,41.2
+"7865 Vigerslev (Nordfyns Kommune)",41.9,41.5,41.6,41.9
+"7866 Veflinge (Nordfyns Kommune)",41.6,41.8,42.8,43.1
+"7867 Søndersø (Nordfyns Kommune)",43.2,43.5,43.8,44.0
+"7868 Agedrup (Odense Kommune)",42.5,42.6,42.6,42.7
+"7869 Marslev (Kerteminde Kommune)",38.9,39.2,39.0,39.3
+"7870 Birkende (Kerteminde Kommune)",41.5,42.1,42.3,41.8
+"7871 Rynkeby (Kerteminde Kommune)",42.3,43.1,43.3,43.6
+"7872 Revninge (Kerteminde Kommune)",39.0,39.3,40.2,41.0
+"7873 Mesinge (Kerteminde Kommune)",44.5,44.2,44.5,45.6
+"7874 Viby (Kerteminde Kommune)",44.2,45.9,47.6,46.9
+"7875 Dalby (Kerteminde Kommune)",43.9,43.3,43.9,44.9
+"7876 Stubberup (Kerteminde Kommune)",46.5,46.5,48.1,47.4
+"7877 Seden (Odense Kommune)",41.1,41.1,41.1,41.2
+"7878 Åsum (Odense Kommune)",37.6,36.4,36.9,38.0
+"7879 Fraugde (Odense Kommune)",35.6,35.6,36.1,35.9
+"7880 Allerup (Odense Kommune)",39.8,39.2,38.5,39.5
+"7881 Davinde (Odense Kommune)",39.4,40.4,40.4,40.9
+"7882 Rønninge (Kerteminde Kommune)",43.2,43.5,43.6,43.9
+"7883 Rolfsted (Faaborg-Midtfyn Kommune)",43.5,43.9,44.1,44.3
+"7884 Sønder Nærå (Faaborg-Midtfyn Kommune)",39.7,40.0,40.0,39.9
+"7885 Nørre Lyndelse (Faaborg-Midtfyn Kommune)",42.4,42.3,42.3,42.4
+"7886 Højby (Odense Kommune)",42.0,41.9,42.2,41.8
+"7887 Nørre Søby (Faaborg-Midtfyn Kommune)",40.8,40.4,40.2,39.1
+"7888 Norup (Nordfyns Kommune)",47.4,47.0,48.4,49.1
+"7889 Østrup (Nordfyns Kommune)",41.4,42.5,42.3,42.7
+"7890 Skeby (Nordfyns Kommune)",43.4,43.7,44.1,44.2
+"7891 Otterup (Nordfyns Kommune)",46.1,46.2,46.3,46.9
+"7892 Hjadstrup (Nordfyns Kommune)",41.1,41.7,41.3,40.8
+"7893 Sankt Nikolaj (Vejle Kommune)",42.1,42.6,42.6,42.7
+"7894 Vor Frelsers (Vejle Kommune)",41.2,41.6,42.0,42.6
+"7895 Sankt Johannes (Vejle Kommune)",38.5,38.7,38.9,39.2
+"7896 Hornstrup (Vejle Kommune)",40.8,40.6,40.0,40.4
+"7897 Øster Snede (Hedensted Kommune)",39.5,39.4,40.0,40.2
+"7898 Grejs (Vejle Kommune, Hedensted Kommune)",38.2,38.5,38.3,38.3
+"7899 Sindbjerg (Vejle Kommune, Hedensted Kommune)",40.8,41.0,41.1,41.2
+"7900 Uldum (Hedensted Kommune)",40.4,40.6,40.8,41.5
+"7901 Langskov (Hedensted Kommune)",40.2,41.1,40.8,40.9
+"7902 Hvejsel (Vejle Kommune)",0.0,0.0,0.0,0.0
+"7903 Bredsten (Vejle Kommune)",42.5,42.5,42.7,43.1
+"7904 Skibet (Vejle Kommune)",39.7,39.7,39.8,39.8
+"7905 Jelling (Vejle Kommune)",40.8,41.3,41.7,42.2
+"7906 Hover (Vejle Kommune)",38.9,39.0,38.9,38.5
+"7907 Kollerup (Vejle Kommune)",38.1,38.2,38.8,38.4
+"7908 Vindelev (Vejle Kommune)",41.7,39.8,39.7,39.8
+"7909 Trinitatis (Fredericia Kommune)",42.2,42.5,43.3,43.7
+"7910 Vejlby (Fredericia Kommune)",45.2,45.5,45.8,46.2
+"7911 Sankt Michaelis (Fredericia Kommune)",44.2,45.2,45.3,46.2
+"7912 Christians (Fredericia Kommune)",41.1,41.3,41.6,41.7
+"7913 Erritsø (Fredericia Kommune)",43.2,43.3,43.3,43.0
+"7914 Bredstrup (Fredericia Kommune)",41.7,37.8,38.7,39.4
+"7915 Taulov (Fredericia Kommune)",40.9,41.2,41.4,42.0
+"7916 Gauerslund (Vejle Kommune)",39.9,40.1,40.2,40.5
+"7917 Vinding (Vejle Kommune)",46.1,46.0,45.8,45.5
+"7918 Skærup (Vejle Kommune)",40.9,40.7,41.4,41.2
+"7919 Mølholm (Vejle Kommune)",42.7,42.5,42.7,42.7
+"7920 Smidstrup (Vejle Kommune)",40.5,40.6,40.9,41.3
+"7921 Pjedsted (Fredericia Kommune)",43.1,43.2,42.2,42.6
+"7922 Gårslev (Vejle Kommune)",45.4,45.3,45.7,45.8
+"7923 Højen (Vejle Kommune)",41.4,40.8,41.6,41.9
+"7924 Jerlev (Vejle Kommune)",40.5,40.7,42.3,42.1
+"7925 Egtved (Vejle Kommune)",44.0,44.3,44.3,44.6
+"7926 Ødsted (Vejle Kommune)",40.4,40.8,41.4,41.7
+"7927 Sankt Nicolai (Kolding Kommune)",40.6,40.9,41.3,41.3
+"7928 Kristkirkens (Kolding Kommune)",37.2,37.6,38.1,38.7
+"7929 Brændkjær (Kolding Kommune)",42.3,42.7,43.0,43.3
+"7930 Eltang (Kolding Kommune)",41.8,41.2,41.6,42.0
+"7931 Sønder Vilstrup (Kolding Kommune)",42.0,42.9,43.6,43.9
+"7932 Nørre Bjert (Kolding Kommune)",42.2,42.1,41.9,41.6
+"7933 Harte (Kolding Kommune)",44.5,44.8,45.2,45.8
+"7934 Bramdrup (Kolding Kommune)",44.1,44.8,44.9,45.0
+"7935 Herslev (Fredericia Kommune)",40.6,40.9,40.9,41.5
+"7936 Almind (Kolding Kommune)",39.9,40.5,41.0,41.4
+"7937 Viuf (Kolding Kommune)",38.2,39.0,39.3,40.1
+"7938 Øster Starup (Vejle Kommune)",41.3,41.5,41.5,41.9
+"7939 Vester Nebel (Kolding Kommune)",38.6,38.6,38.6,38.5
+"7940 Vonsild (Kolding Kommune)",42.2,42.3,42.2,41.7
+"7941 Dalby (Kolding Kommune)",40.0,39.6,39.2,38.8
+"7942 Sønder Bjert (Kolding Kommune)",43.5,43.6,43.5,43.8
+"7943 Sønder Stenderup (Kolding Kommune)",43.0,43.5,43.5,43.8
+"7944 Hejls (Kolding Kommune)",45.6,46.6,47.5,48.3
+"7945 Vejstrup (Kolding Kommune)",40.5,40.5,41.0,40.6
+"7946 Ødis (Kolding Kommune)",43.0,42.8,42.6,43.0
+"7947 Taps (Kolding Kommune)",39.6,39.4,40.1,41.1
+"7948 Nebsager (Hedensted Kommune)",44.1,44.9,44.8,45.6
+"7949 Bjerre (Hedensted Kommune)",39.4,40.1,39.4,39.4
+"7950 Urlev (Hedensted Kommune)",38.3,38.2,39.3,39.4
+"7951 Stenderup (Hedensted Kommune)",37.6,38.1,39.1,39.2
+"7952 Ørum (Hedensted Kommune)",41.9,43.9,43.0,43.9
+"7953 Daugård (Hedensted Kommune)",40.6,40.8,41.6,41.8
+"7954 Stouby (Hedensted Kommune)",40.5,41.2,41.2,41.8
+"7955 Hornum (Hedensted Kommune)",40.3,41.3,40.4,42.9
+"7956 Barrit (Hedensted Kommune)",41.9,41.7,42.4,42.8
+"7957 Vrigsted (Hedensted Kommune)",39.9,39.7,40.1,41.3
+"7958 As (Hedensted Kommune)",49.0,49.8,50.4,49.8
+"7959 Klakring (Hedensted Kommune)",45.0,44.2,45.1,46.2
+"7960 Rårup (Hedensted Kommune)",41.9,42.4,42.5,42.7
+"7961 Skjold (Hedensted Kommune)",41.6,41.5,42.6,43.0
+"7962 Glud (Hedensted Kommune)",46.5,47.2,47.0,47.1
+"7963 Hjarnø (Hedensted Kommune)",50.2,49.1,50.1,49.2
+"7964 Hatting (Horsens Kommune, Hedensted Kommune)",40.9,41.1,40.7,39.9
+"7965 Ølsted (Hedensted Kommune)",39.5,40.0,40.1,40.6
+"7966 Torsted (Horsens Kommune)",38.2,38.1,38.4,38.5
+"7967 Tyrsted (Horsens Kommune)",41.5,41.3,41.2,41.2
+"7968 Uth (Horsens Kommune)",41.8,42.2,41.7,42.5
+"7969 Løsning (Hedensted Kommune)",40.5,40.7,41.0,41.2
+"7970 Korning (Hedensted Kommune)",41.3,41.7,41.7,41.0
+"7971 Hedensted (Hedensted Kommune)",41.0,41.3,41.5,41.8
+"7972 Store Dalby (Hedensted Kommune)",38.1,38.5,37.3,38.0
+"7973 Engum (Vejle Kommune)",34.8,34.7,34.4,34.3
+"7974 Brande (Ikast-Brande Kommune)",41.8,42.0,42.1,42.3
+"7975 Givskud (Vejle Kommune)",41.7,42.3,42.3,42.8
+"7976 Øster Nykirke (Vejle Kommune)",38.8,39.0,39.4,40.0
+"7977 Thyregod (Vejle Kommune)",40.7,41.2,41.5,41.8
+"7978 Vester (Vejle Kommune)",43.1,42.9,43.7,44.7
+"7979 Sønder Omme (Billund Kommune)",43.2,43.3,43.7,44.1
+"7980 Blåhøj (Ikast-Brande Kommune)",39.2,40.1,41.1,41.1
+"7981 Filskov (Billund Kommune)",42.9,42.8,43.1,43.9
+"7982 Ringive (Vejle Kommune)",40.8,41.6,41.3,42.1
+"7983 Give (Vejle Kommune)",45.0,45.4,45.6,46.3
+"7984 Gadbjerg (Vejle Kommune)",41.8,42.4,42.9,43.0
+"7985 Lindeballe (Vejle Kommune)",42.8,43.2,43.7,42.9
+"7986 Nørup (Vejle Kommune)",42.8,43.4,43.4,43.8
+"7987 Randbøl (Vejle Kommune)",42.8,43.6,43.7,43.9
+"7988 Gammel Rye (Skanderborg Kommune)",39.2,38.8,39.0,39.1
+"7989 Sønder Vissing (Horsens Kommune)",42.2,43.4,43.9,44.3
+"7990 Voerladegård (Horsens Kommune, Skanderborg Kommune)",38.6,39.5,39.7,40.6
+"7991 Grædstrup (Horsens Kommune)",38.1,38.6,39.2,40.0
+"7992 Vinding (Silkeborg Kommune)",41.8,43.5,42.9,43.9
+"7993 Bryrup (Silkeborg Kommune)",43.7,43.7,43.7,43.5
+"7994 Brædstrup (Horsens Kommune)",46.0,46.3,46.5,46.6
+"7995 Føvling (Horsens Kommune)",39.8,39.4,40.1,40.8
+"7996 Tønning (Horsens Kommune)",40.9,41.2,42.3,43.4
+"7997 Træden (Horsens Kommune)",42.2,42.9,43.1,43.2
+"7998 Them (Silkeborg Kommune)",41.4,41.5,41.6,41.7
+"7999 Nørre Snede (Ikast-Brande Kommune)",44.8,45.3,45.2,45.5
+"8000 Ejstrup (Ikast-Brande Kommune)",43.5,43.9,44.2,44.4
+"8001 Aale (Hedensted Kommune)",38.7,38.0,38.6,38.9
+"8002 Linnerup (Hedensted Kommune)",39.7,39.3,39.0,39.6
+"8003 Tørring (Hedensted Kommune)",42.3,42.6,43.3,42.8
+"8004 Hammer (Hedensted Kommune)",38.2,40.4,40.8,40.9
+"8005 Klovborg (Ikast-Brande Kommune, Hedensted Kommune)",43.2,43.3,43.5,43.8
+"8006 Tyrsting (Horsens Kommune)",38.7,39.7,40.7,41.2
+"8007 Vrads (Silkeborg Kommune)",48.0,48.4,48.5,49.7
+"8008 Skanderborg Slotssogn (Skanderborg Kommune)",0.0,0.0,0.0,0.0
+"8009 Skanderup (Skanderborg Kommune)",0.0,0.0,0.0,0.0
+"8010 Stilling (Skanderborg Kommune)",42.4,41.7,41.6,41.3
+"8011 Blegind (Skanderborg Kommune)",32.2,31.5,32.0,32.2
+"8012 Hørning (Skanderborg Kommune)",38.7,38.9,39.1,39.3
+"8013 Adslev (Skanderborg Kommune)",41.8,42.8,43.0,43.4
+"8014 Dover (Skanderborg Kommune)",40.1,39.2,38.2,36.9
+"8015 Veng (Skanderborg Kommune)",39.4,39.9,40.2,40.7
+"8016 Mesing (Skanderborg Kommune)",40.5,40.4,41.4,43.0
+"8017 Silkeborg (Silkeborg Kommune)",45.0,45.6,46.1,46.4
+"8018 Mariehøj (Silkeborg Kommune)",41.7,42.5,43.1,43.3
+"8019 Alderslyst (Silkeborg Kommune)",43.2,43.4,44.1,44.5
+"8020 Linå (Silkeborg Kommune)",44.1,44.5,44.4,44.0
+"8021 Voel (Silkeborg Kommune)",36.7,36.8,36.5,37.1
+"8022 Hammel (Favrskov Kommune)",43.4,43.6,44.1,44.4
+"8023 Voldby (Favrskov Kommune)",37.8,38.3,37.9,38.2
+"8024 Søby (Favrskov Kommune)",39.6,40.7,41.3,41.8
+"8025 Skorup (Favrskov Kommune, Silkeborg Kommune)",36.9,37.6,37.7,37.9
+"8026 Tvilum (Silkeborg Kommune)",41.6,42.0,41.4,42.0
+"8027 Gjern (Silkeborg Kommune)",37.8,37.9,38.3,38.8
+"8028 Skannerup (Silkeborg Kommune)",45.1,45.3,45.8,46.8
+"8029 Røgen (Favrskov Kommune)",45.1,46.0,45.1,46.0
+"8030 Sporup (Favrskov Kommune)",38.1,38.8,38.6,39.4
+"8031 Dallerup (Silkeborg Kommune)",37.9,38.3,38.6,38.6
+"8032 Låsby (Skanderborg Kommune)",39.5,39.8,40.1,39.9
+"8033 Alling (Skanderborg Kommune)",46.2,46.7,47.1,47.9
+"8034 Tulstrup (Skanderborg Kommune)",42.8,42.6,41.0,40.5
+"8035 Fruering (Skanderborg Kommune)",40.0,39.9,39.4,38.8
+"8036 Vitved (Skanderborg Kommune, Aarhus Kommune)",44.5,43.8,43.7,43.6
+"8037 Østbirk (Horsens Kommune)",41.2,41.5,41.5,41.6
+"8038 Yding (Horsens Kommune)",39.3,40.0,40.9,42.0
+"8039 Ovsted (Skanderborg Kommune)",41.9,42.3,42.5,42.9
+"8040 Tåning (Skanderborg Kommune)",46.0,46.7,47.9,48.0
+"8041 Hylke (Skanderborg Kommune)",39.8,39.7,39.9,40.3
+"8042 Kattrup (Horsens Kommune)",38.4,38.9,40.0,39.6
+"8043 Tolstrup (Horsens Kommune)",38.8,38.8,39.1,39.4
+"8044 Ørridslev (Horsens Kommune)",40.5,40.5,40.9,41.1
+"8045 Vedslet (Horsens Kommune)",41.2,41.7,42.0,42.7
+"8046 Lundum (Horsens Kommune)",40.2,40.6,40.8,41.5
+"8047 Hansted (Horsens Kommune)",38.9,39.3,38.5,38.0
+"8048 Vær (Horsens Kommune)",43.3,43.4,43.6,43.8
+"8049 Nebel (Horsens Kommune)",39.9,40.9,42.2,42.5
+"8050 Gangsted (Horsens Kommune)",40.7,41.0,42.5,41.9
+"8051 Søvind (Horsens Kommune)",42.9,43.7,43.7,43.9
+"8052 Klostersogn (Horsens Kommune)",37.8,38.1,38.6,39.3
+"8053 Vor Frelsers (Horsens Kommune)",39.5,39.5,39.9,40.4
+"8054 Tamdrup (Horsens Kommune)",37.5,37.4,37.2,36.3
+"8055 Nim (Horsens Kommune)",37.5,37.4,37.4,37.6
+"8056 Underup (Horsens Kommune)",41.0,40.0,41.5,40.7
+"8057 Hvirring (Hedensted Kommune)",41.5,41.2,41.6,41.7
+"8058 Hornborg (Hedensted Kommune)",39.9,40.1,40.2,40.8
+"8059 Endelave (Horsens Kommune)",59.6,59.9,61.6,63.0
+"8060 Lyngå (Favrskov Kommune)",40.1,40.5,40.4,40.5
+"8061 Vitten (Favrskov Kommune)",40.2,39.5,39.4,38.2
+"8062 Haldum (Favrskov Kommune)",39.8,39.6,39.6,39.7
+"8063 Over og Neder Hadsten (Favrskov Kommune)",0.0,0.0,0.0,0.0
+"8064 Lading (Favrskov Kommune)",40.1,39.7,39.7,39.6
+"8065 Fårup (Aarhus Kommune)",36.7,36.9,37.0,37.4
+"8066 Sabro (Aarhus Kommune)",39.1,38.7,38.6,38.6
+"8067 Grundfør (Favrskov Kommune)",40.4,41.0,41.4,41.4
+"8068 Spørring (Aarhus Kommune)",38.6,38.9,40.0,40.2
+"8069 Søften (Favrskov Kommune)",38.5,38.9,39.2,39.1
+"8070 Foldby (Favrskov Kommune)",37.6,37.5,37.6,38.3
+"8071 Trige (Aarhus Kommune)",38.2,38.8,37.8,38.0
+"8072 Ølsted (Aarhus Kommune)",41.1,40.6,39.8,39.0
+"8073 Elsted (Aarhus Kommune)",38.4,38.5,38.8,39.0
+"8074 Elev (Aarhus Kommune)",33.1,32.9,32.6,33.0
+"8075 Sjelle (Skanderborg Kommune)",41.9,41.4,41.8,42.5
+"8076 Skjørring (Skanderborg Kommune)",39.8,40.2,39.5,39.1
+"8077 Skivholme (Skanderborg Kommune)",37.6,37.2,37.4,37.8
+"8078 Skovby (Skanderborg Kommune)",36.9,36.5,36.2,36.2
+"8079 Borum (Aarhus Kommune)",37.9,38.5,39.4,39.6
+"8080 Lyngby (Aarhus Kommune)",39.9,40.0,41.0,40.4
+"8081 Harlev (Aarhus Kommune)",40.0,39.9,39.0,39.1
+"8082 Framlev (Aarhus Kommune)",41.1,41.3,41.4,41.3
+"8083 Storring (Skanderborg Kommune)",41.0,40.5,40.8,40.4
+"8084 Stjær (Skanderborg Kommune)",39.4,39.3,39.0,38.6
+"8085 Galten (Skanderborg Kommune)",41.9,42.1,42.1,42.2
+"8086 Tunø (Odder Kommune)",56.9,58.7,58.0,56.4
+"8087 Odder (Odder Kommune)",43.0,43.0,43.3,43.7
+"8088 Torrild (Odder Kommune)",38.9,39.8,39.6,40.1
+"8089 Saksild (Odder Kommune)",47.3,47.9,47.7,47.4
+"8090 Nølev (Odder Kommune)",44.7,46.1,43.9,46.2
+"8091 Randlev (Odder Kommune)",40.1,40.2,40.6,41.1
+"8092 Bjerager (Odder Kommune)",43.0,44.1,44.1,44.6
+"8093 Hundslund (Odder Kommune)",42.5,43.4,44.3,44.4
+"8094 Ørting (Odder Kommune)",40.6,41.6,42.5,43.3
+"8095 Falling (Odder Kommune)",45.5,45.7,46.2,46.9
+"8096 Gosmer (Odder Kommune)",39.1,38.6,37.8,38.5
+"8097 Halling (Odder Kommune)",50.0,50.8,51.2,51.9
+"8098 Gylling (Odder Kommune)",42.1,41.8,42.8,43.1
+"8099 Alrø (Odder Kommune)",47.6,47.9,46.7,46.5
+"8100 Viby (Aarhus Kommune)",37.6,37.7,37.8,38.1
+"8101 Fredens (Aarhus Kommune)",39.2,39.4,39.4,39.7
+"8102 Holme (Aarhus Kommune)",42.1,42.5,42.7,42.8
+"8103 Tranbjerg (Aarhus Kommune)",43.1,42.1,42.0,42.2
+"8104 Skåde (Aarhus Kommune)",41.6,41.7,42.1,42.5
+"8105 Mårslet (Aarhus Kommune)",39.0,39.8,40.0,40.2
+"8106 Tiset (Aarhus Kommune)",37.5,38.1,38.6,39.0
+"8107 Ormslev (Aarhus Kommune)",39.0,38.9,39.3,39.3
+"8108 Kolt (Aarhus Kommune)",38.9,39.2,39.4,39.9
+"8109 Beder (Aarhus Kommune)",44.0,44.1,44.5,44.6
+"8110 Malling (Aarhus Kommune)",42.6,42.3,41.9,41.9
+"8111 Astrup (Odder Kommune, Aarhus Kommune)",38.1,36.8,35.7,34.9
+"8112 Tulstrup (Aarhus Kommune)",44.1,43.9,44.4,42.8
+"8113 Hvilsted (Odder Kommune, Aarhus Kommune)",41.8,42.6,41.2,41.0
+"8114 Aarhus Domsogn (Aarhus Kommune)",31.4,31.6,31.8,32.0
+"8115 Vor Frue (Aarhus Kommune)",30.9,30.8,30.6,30.7
+"8116 Sankt Markus (Aarhus Kommune)",35.7,35.8,35.9,36.0
+"8117 Møllevang (Aarhus Kommune)",35.6,35.7,36.0,36.2
+"8118 Sankt Pauls (Aarhus Kommune)",36.3,36.4,36.6,36.8
+"8119 Langenæs (Aarhus Kommune)",38.9,38.5,38.6,38.8
+"8120 Sankt Johannes (Aarhus Kommune)",33.9,33.8,33.8,34.2
+"8121 Christians (Aarhus Kommune)",35.0,34.5,34.6,34.4
+"8122 Åby (Aarhus Kommune)",38.1,37.6,37.8,37.4
+"8123 Vejlby (Aarhus Kommune)",37.5,37.3,37.1,37.1
+"8124 Risskov (Aarhus Kommune)",43.8,44.2,44.1,44.0
+"8125 Hasle (Aarhus Kommune)",35.5,35.6,35.6,36.0
+"8126 Skejby (Aarhus Kommune)",35.8,35.9,36.0,36.3
+"8127 Lisbjerg (Aarhus Kommune)",35.8,35.7,36.7,36.8
+"8128 Brabrand (Aarhus Kommune)",40.9,41.2,40.9,40.5
+"8129 Sønder Årslev (Aarhus Kommune)",42.3,43.4,43.4,43.6
+"8130 Tilst (Aarhus Kommune)",37.7,37.8,37.6,37.8
+"8131 Kasted (Aarhus Kommune)",38.0,40.1,38.8,38.9
+"8132 Sankt Lukas (Aarhus Kommune)",35.8,36.0,36.2,36.0
+"8133 Støvring (Randers Kommune)",44.2,45.2,45.8,45.9
+"8134 Mellerup (Randers Kommune)",45.8,44.9,45.2,43.7
+"8135 Haslund (Randers Kommune)",42.4,42.4,41.6,42.3
+"8136 Ølst (Randers Kommune)",42.1,41.9,44.0,43.2
+"8137 Værum (Randers Kommune)",40.9,41.6,42.7,43.8
+"8138 Ørum (Randers Kommune)",43.0,43.4,42.7,43.0
+"8139 Laurbjerg (Favrskov Kommune)",41.0,41.7,42.8,42.9
+"8140 Lerbjerg (Favrskov Kommune)",39.1,39.9,40.7,40.8
+"8141 Nørre Galten (Favrskov Kommune)",40.4,40.8,0.0,0.0
+"8142 Vissing (Favrskov Kommune)",39.1,39.2,40.0,40.8
+"8143 Voldum (Favrskov Kommune)",40.4,40.6,40.8,40.5
+"8144 Rud (Favrskov Kommune)",38.5,39.2,40.4,40.5
+"8145 Årslev (Randers Kommune)",41.4,42.0,43.0,44.0
+"8146 Vorup (Randers Kommune)",43.0,42.8,42.9,43.2
+"8147 Ødum (Favrskov Kommune)",38.3,38.8,39.3,39.9
+"8148 Hadbjerg (Favrskov Kommune)",32.4,33.1,33.4,33.8
+"8149 Vester Tørslev (Mariagerfjord Kommune)",37.8,36.7,39.4,40.9
+"8150 Svenstrup (Mariagerfjord Kommune)",41.6,42.8,43.6,43.0
+"8151 Asferg (Randers Kommune)",44.0,44.1,43.9,44.1
+"8152 Fårup (Randers Kommune)",42.4,43.0,43.4,43.0
+"8153 Kousted (Randers Kommune)",42.2,43.0,41.9,41.5
+"8154 Råsted (Randers Kommune)",39.7,41.1,42.8,43.1
+"8155 Spentrup (Randers Kommune)",41.7,42.2,42.5,42.9
+"8156 Gassum (Randers Kommune)",40.5,40.6,40.9,41.4
+"8157 Hald (Randers Kommune)",40.3,40.9,41.0,41.3
+"8158 Kærby (Randers Kommune)",39.7,40.4,40.7,41.6
+"8159 Fjellerup (Norddjurs Kommune)",50.2,51.3,51.6,52.1
+"8160 Glesborg (Norddjurs Kommune)",47.1,47.3,47.8,48.4
+"8161 Ørum (Norddjurs Kommune)",44.6,45.1,45.8,46.2
+"8162 Ginnerup (Norddjurs Kommune)",43.2,44.9,44.9,43.9
+"8163 Nimtofte (Syddjurs Kommune)",0.0,0.0,0.0,0.0
+"8164 Tøstrup (Syddjurs Kommune)",0.0,0.0,0.0,0.0
+"8165 Anholt (Norddjurs Kommune)",53.6,54.6,53.9,53.8
+"8166 Ålsø (Norddjurs Kommune)",46.2,47.0,47.6,47.8
+"8167 Hoed (Norddjurs Kommune)",46.4,49.2,46.9,47.0
+"8168 Vejlby (Norddjurs Kommune)",40.3,40.4,41.6,42.9
+"8169 Homå (Norddjurs Kommune)",41.0,41.6,42.6,43.8
+"8170 Lyngby (Norddjurs Kommune)",43.1,43.3,44.3,44.6
+"8171 Albøge (Norddjurs Kommune)",42.2,42.6,42.3,42.7
+"8172 Hyllested (Syddjurs Kommune)",49.2,48.2,49.2,49.1
+"8173 Rosmus (Syddjurs Kommune)",43.7,44.0,43.5,43.2
+"8174 Tirstrup (Syddjurs Kommune)",43.5,43.4,43.9,44.5
+"8175 Fuglslev (Syddjurs Kommune)",53.7,53.3,54.1,55.8
+"8176 Feldballe (Syddjurs Kommune)",39.6,39.9,40.2,41.0
+"8177 Nødager (Syddjurs Kommune)",40.6,41.0,41.1,40.5
+"8178 Kolind (Syddjurs Kommune)",41.5,42.0,42.7,43.2
+"8179 Ebdrup (Syddjurs Kommune)",46.9,46.8,47.0,47.0
+"8180 Skarresø (Syddjurs Kommune)",45.2,44.8,44.9,46.8
+"8181 Sankt Mortens (Randers Kommune)",41.9,42.1,42.7,43.0
+"8182 Sankt Peders (Randers Kommune)",40.2,40.4,40.9,41.3
+"8183 Sankt Clemens (Randers Kommune)",43.0,43.3,43.7,43.7
+"8184 Dronningborg (Randers Kommune)",44.7,44.9,45.4,45.2
+"8185 Glenstrup (Mariagerfjord Kommune)",43.4,42.8,42.6,43.2
+"8186 Skjellerup (Mariagerfjord Kommune)",41.2,41.9,41.8,43.3
+"8187 Tvede (Randers Kommune)",42.6,43.0,43.5,44.0
+"8188 Linde (Randers Kommune)",41.5,41.6,42.2,42.0
+"8189 Udbyneder (Randers Kommune)",42.8,42.7,43.2,42.9
+"8190 Kastbjerg (Randers Kommune, Mariagerfjord Kommune)",39.8,41.0,40.3,42.4
+"8191 Dalbyneder (Randers Kommune)",42.6,42.7,43.6,42.8
+"8192 Dalbyover (Randers Kommune)",41.6,41.3,42.7,41.6
+"8193 Råby (Randers Kommune)",44.4,44.6,44.0,45.5
+"8194 Sødring (Randers Kommune)",48.8,47.7,48.0,49.1
+"8195 Øster Tørslev (Randers Kommune)",43.9,43.9,44.8,44.4
+"8196 Gjerlev (Randers Kommune)",45.3,45.6,45.9,45.8
+"8197 Enslev (Randers Kommune)",40.0,40.1,40.3,41.0
+"8198 Hobro (Mariagerfjord Kommune)",43.7,44.1,44.4,45.2
+"8199 Mariager (Mariagerfjord Kommune)",46.7,46.9,47.3,47.5
+"8200 Falslev (Mariagerfjord Kommune)",0.0,0.0,0.0,0.0
+"8201 Vindblæs (Mariagerfjord Kommune)",0.0,0.0,0.0,0.0
+"8202 Hem (Mariagerfjord Kommune)",43.1,43.8,44.7,46.2
+"8203 Sem (Mariagerfjord Kommune)",43.7,44.4,44.2,47.4
+"8204 Sønder Onsild (Mariagerfjord Kommune)",38.5,38.3,39.2,39.2
+"8205 Nørre Onsild (Mariagerfjord Kommune)",39.8,39.5,40.4,41.7
+"8206 Hvornum (Mariagerfjord Kommune)",40.9,41.6,42.2,41.7
+"8207 Snæbum (Mariagerfjord Kommune)",40.5,41.0,41.5,41.2
+"8208 Borup (Randers Kommune)",38.7,42.6,41.7,42.7
+"8209 Gimming (Randers Kommune)",36.3,37.1,36.3,35.8
+"8210 Lem (Randers Kommune)",41.5,42.0,42.6,43.5
+"8211 Harridslev (Randers Kommune)",41.4,41.7,41.9,41.8
+"8212 Albæk (Randers Kommune)",42.4,42.9,43.5,45.2
+"8213 Kristrup (Randers Kommune)",42.5,42.5,42.7,42.6
+"8214 Virring (Randers Kommune)",41.7,42.1,42.9,43.9
+"8215 Essenbæk (Randers Kommune)",41.2,41.2,41.2,40.9
+"8216 Hørning (Randers Kommune)",39.1,39.4,38.6,38.9
+"8217 Fausing (Norddjurs Kommune, Randers Kommune)",43.2,44.1,44.8,44.6
+"8218 Auning (Norddjurs Kommune)",42.6,42.9,43.2,43.5
+"8219 Marie Magdalene (Syddjurs Kommune)",41.1,40.9,41.0,41.0
+"8220 Koed (Syddjurs Kommune)",42.3,42.4,43.6,44.2
+"8221 Øster Alling (Norddjurs Kommune)",40.1,41.3,41.8,40.8
+"8222 Vester Alling (Norddjurs Kommune)",39.5,39.4,39.8,40.0
+"8223 Hvilsager (Syddjurs Kommune)",43.3,43.5,44.2,44.1
+"8224 Lime (Syddjurs Kommune)",41.9,41.2,40.9,41.0
+"8225 Mygind (Syddjurs Kommune)",43.5,44.2,43.5,44.1
+"8226 Krogsbæk (Syddjurs Kommune)",42.1,41.7,42.1,42.6
+"8227 Skørring (Syddjurs Kommune)",42.9,43.3,42.5,43.4
+"8228 Søby (Syddjurs Kommune)",38.8,39.2,40.3,39.6
+"8229 Skader (Syddjurs Kommune)",41.8,42.0,40.6,40.8
+"8230 Halling (Syddjurs Kommune)",41.7,43.0,41.9,43.4
+"8231 Grenaa (Norddjurs Kommune)",44.7,45.1,45.5,45.7
+"8232 Hammelev (Norddjurs Kommune)",45.8,45.3,46.4,47.0
+"8233 Enslev (Norddjurs Kommune)",40.0,41.3,44.6,44.5
+"8234 Karlby (Norddjurs Kommune)",43.8,45.0,45.2,46.2
+"8235 Voldby (Norddjurs Kommune)",42.1,42.4,42.5,42.6
+"8236 Veggerslev (Norddjurs Kommune)",45.4,44.9,44.5,45.3
+"8237 Villersø (Norddjurs Kommune)",40.9,42.5,42.3,41.5
+"8238 Gjerrild (Norddjurs Kommune)",49.3,49.3,49.3,49.0
+"8239 Hemmed (Norddjurs Kommune)",51.9,52.8,53.1,53.5
+"8240 Rimsø (Norddjurs Kommune)",45.4,46.5,48.2,47.3
+"8241 Kastbjerg (Norddjurs Kommune)",47.7,48.1,47.4,48.2
+"8242 Thorsager (Syddjurs Kommune)",42.0,42.4,42.8,43.5
+"8243 Bregnet (Syddjurs Kommune)",43.7,43.9,44.8,44.7
+"8244 Mørke (Syddjurs Kommune)",41.0,41.0,41.1,41.3
+"8245 Hornslet (Syddjurs Kommune)",41.4,41.4,41.4,41.4
+"8246 Skødstrup (Aarhus Kommune)",37.7,37.7,37.6,37.9
+"8247 Todbjerg (Aarhus Kommune)",38.8,39.3,40.0,40.4
+"8248 Mejlby (Aarhus Kommune)",37.8,37.3,38.4,38.7
+"8249 Hjortshøj (Aarhus Kommune)",39.0,39.6,39.6,40.3
+"8250 Egå (Aarhus Kommune)",45.1,44.7,44.6,44.9
+"8251 Ebeltoft (Syddjurs Kommune)",0.0,0.0,0.0,0.0
+"8252 Dråby (Syddjurs Kommune)",0.0,0.0,0.0,0.0
+"8253 Tved (Syddjurs Kommune)",49.5,50.5,50.0,51.4
+"8254 Agri (Syddjurs Kommune)",47.9,48.7,48.2,47.7
+"8255 Egens (Syddjurs Kommune)",42.9,40.1,41.1,41.9
+"8256 Knebel (Syddjurs Kommune)",53.9,54.2,52.8,53.2
+"8257 Rolsø (Syddjurs Kommune)",47.4,46.8,46.9,47.0
+"8258 Vistoft (Syddjurs Kommune)",48.3,49.2,48.9,48.0
+"8259 Helgenæs (Syddjurs Kommune)",55.3,54.8,55.3,55.1
+"8260 Holbæk (Norddjurs Kommune)",41.1,42.0,42.8,43.5
+"8261 Udby (Norddjurs Kommune)",52.5,53.2,54.7,55.4
+"8262 Voer (Norddjurs Kommune)",45.8,45.9,47.0,47.7
+"8263 Estruplund (Norddjurs Kommune)",48.7,49.4,51.4,50.7
+"8264 Ørsted (Norddjurs Kommune)",45.7,45.7,45.8,46.6
+"8265 Vivild (Norddjurs Kommune)",45.0,44.9,45.4,46.1
+"8266 Vejlby (Norddjurs Kommune)",42.5,43.0,43.8,44.2
+"8267 Gjesing (Norddjurs Kommune)",41.1,42.3,43.1,42.8
+"8268 Nørager (Norddjurs Kommune)",44.9,45.4,46.1,46.3
+"8269 Aars (Vesthimmerlands Kommune)",43.6,43.7,44.1,44.4
+"8270 Havbro (Vesthimmerlands Kommune)",38.5,38.7,37.8,38.6
+"8271 Vester Hornum (Vesthimmerlands Kommune)",38.1,38.6,39.3,39.8
+"8272 Flejsborg (Vesthimmerlands Kommune)",40.1,40.7,43.3,45.2
+"8273 Ulstrup (Vesthimmerlands Kommune)",40.5,40.8,41.4,41.7
+"8274 Gundersted (Vesthimmerlands Kommune)",40.5,39.7,40.2,40.8
+"8275 Blære (Vesthimmerlands Kommune)",38.7,39.0,39.9,39.4
+"8276 Ejdrup (Aalborg Kommune)",39.3,39.3,40.0,41.5
+"8277 Skivum (Vesthimmerlands Kommune)",43.3,43.3,43.1,43.2
+"8278 Giver (Vesthimmerlands Kommune)",37.1,38.1,40.0,40.8
+"8279 Brorstrup (Rebild Kommune)",38.4,38.3,38.7,38.7
+"8280 Ravnkilde (Rebild Kommune)",40.7,40.9,40.8,41.0
+"8281 Strandby (Vesthimmerlands Kommune)",45.3,46.1,47.2,48.4
+"8282 Farsø (Vesthimmerlands Kommune)",44.6,44.9,45.4,45.7
+"8283 Ullits (Vesthimmerlands Kommune)",38.5,39.4,40.9,41.8
+"8284 Fovlum (Vesthimmerlands Kommune)",39.6,42.1,42.8,42.8
+"8285 Louns (Vesthimmerlands Kommune)",53.7,54.9,55.8,55.0
+"8286 Alstrup (Vesthimmerlands Kommune)",48.6,48.5,49.7,49.2
+"8287 Gislum (Vesthimmerlands Kommune)",37.9,37.6,37.5,37.4
+"8288 Vognsild (Vesthimmerlands Kommune)",38.3,38.7,39.4,39.7
+"8289 Kongens Tisted (Rebild Kommune)",39.3,39.1,39.2,39.9
+"8290 Binderup (Rebild Kommune)",36.0,35.6,37.3,37.0
+"8291 Durup (Rebild Kommune)",42.7,43.3,43.6,43.6
+"8292 Rørbæk (Rebild Kommune)",42.3,43.3,43.7,43.6
+"8293 Grynderup (Rebild Kommune)",40.9,40.5,40.4,38.7
+"8294 Skibsted (Rebild Kommune)",43.6,43.8,44.2,43.4
+"8295 Lyngby (Rebild Kommune)",46.7,43.7,44.1,44.6
+"8296 Store Brøndum (Rebild Kommune)",41.4,40.6,41.0,41.7
+"8297 Siem (Rebild Kommune)",41.8,43.4,45.0,45.3
+"8298 Torup (Rebild Kommune)",42.4,43.2,44.4,45.0
+"8299 Gerding (Rebild Kommune)",48.0,48.5,52.8,46.9
+"8300 Blenstrup (Rebild Kommune)",41.5,42.4,42.6,43.6
+"8301 Skørping (Rebild Kommune)",42.7,42.7,43.0,43.5
+"8302 Fræer (Rebild Kommune)",43.7,43.8,44.6,43.6
+"8303 Als (Mariagerfjord Kommune)",47.8,48.5,49.0,48.8
+"8304 Skelund (Mariagerfjord Kommune)",43.1,43.7,44.1,44.7
+"8305 Visborg (Mariagerfjord Kommune)",41.1,41.2,41.2,41.6
+"8306 Hadsund (Mariagerfjord Kommune)",0.0,0.0,0.0,0.0
+"8307 Vive (Mariagerfjord Kommune)",0.0,0.0,0.0,0.0
+"8308 Rostrup (Mariagerfjord Kommune)",42.4,42.5,42.3,42.9
+"8309 Oue (Mariagerfjord Kommune)",43.9,44.4,44.8,45.7
+"8310 Valsgaard (Mariagerfjord Kommune)",36.7,37.1,37.4,38.0
+"8311 Astrup (Mariagerfjord Kommune)",41.3,41.3,42.4,42.6
+"8312 Storarden (Mariagerfjord Kommune)",0.0,0.0,0.0,0.0
+"8313 Rold (Mariagerfjord Kommune)",40.0,41.2,41.0,41.7
+"8314 Vebbestrup (Mariagerfjord Kommune)",39.3,39.2,39.7,39.8
+"8315 Øls (Mariagerfjord Kommune)",44.2,44.2,44.6,44.9
+"8316 Hørby (Mariagerfjord Kommune)",38.3,38.1,38.8,38.3
+"8317 Døstrup (Mariagerfjord Kommune)",38.1,38.1,38.9,39.2
+"8318 Gunderup (Aalborg Kommune)",40.2,40.7,41.2,41.3
+"8319 Nøvling (Aalborg Kommune)",41.5,41.9,42.3,42.3
+"8320 Romdrup (Aalborg Kommune)",0.0,0.0,0.0,0.0
+"8321 Klarup (Aalborg Kommune)",0.0,0.0,0.0,0.0
+"8322 Gudum (Aalborg Kommune)",0.0,0.0,0.0,0.0
+"8323 Lillevorde (Aalborg Kommune)",40.4,40.9,40.5,40.4
+"8324 Mou (Aalborg Kommune)",46.6,47.1,47.9,48.0
+"8325 Storvorde (Aalborg Kommune)",41.0,41.2,41.3,41.8
+"8326 Sejlflod (Aalborg Kommune)",40.4,39.8,38.2,38.2
+"8327 Nibe (Aalborg Kommune)",46.6,46.7,47.2,47.9
+"8328 Vokslev (Aalborg Kommune)",35.5,35.8,36.2,36.6
+"8329 Sønderholm (Aalborg Kommune)",39.4,39.0,38.9,39.0
+"8330 Frejlev (Aalborg Kommune)",38.6,38.5,38.7,39.1
+"8331 Nørholm (Aalborg Kommune)",42.8,43.7,44.3,44.1
+"8332 Ellidshøj (Aalborg Kommune)",38.5,38.2,38.7,38.9
+"8333 Svenstrup (Aalborg Kommune)",40.7,41.0,41.2,41.6
+"8334 Øster Hornum (Rebild Kommune)",40.4,40.9,40.3,40.6
+"8335 Støvring (Rebild Kommune)",40.3,40.0,39.6,39.4
+"8336 Gravlev (Rebild Kommune)",38.9,39.5,39.5,40.2
+"8337 Aarestrup (Rebild Kommune)",38.9,40.2,41.0,41.0
+"8338 Haverslev (Rebild Kommune)",40.0,39.3,39.9,40.2
+"8339 Sønderup (Rebild Kommune)",39.2,39.8,40.0,40.7
+"8340 Suldrup (Rebild Kommune)",43.0,42.8,42.6,42.7
+"8341 Veggerby (Rebild Kommune)",42.1,41.9,42.3,42.3
+"8342 Bislev (Aalborg Kommune)",42.2,43.4,43.1,43.3
+"8343 Sønder Kongerslev (Aalborg Kommune)",43.5,43.7,43.9,44.4
+"8344 Nørre Kongerslev (Aalborg Kommune)",39.9,41.1,41.3,41.6
+"8345 Komdrup (Aalborg Kommune)",45.6,46.8,46.9,47.9
+"8346 Bælum (Rebild Kommune)",44.1,44.2,45.3,45.7
+"8347 Solbjerg (Rebild Kommune)",45.2,45.4,46.7,46.5
+"8348 Løgstør (Vesthimmerlands Kommune)",48.4,48.8,49.6,50.0
+"8349 Løgsted (Vesthimmerlands Kommune)",40.4,40.7,41.4,41.9
+"8350 Ranum (Vesthimmerlands Kommune)",45.1,45.6,45.4,46.5
+"8351 Malle (Vesthimmerlands Kommune)",45.4,46.8,46.3,47.6
+"8352 Overlade (Vesthimmerlands Kommune)",44.4,44.4,45.2,45.7
+"8353 Hyllebjerg (Vesthimmerlands Kommune)",42.3,40.1,41.5,41.1
+"8354 Vilsted (Vesthimmerlands Kommune)",40.7,41.3,41.8,41.9
+"8355 Vindblæs (Vesthimmerlands Kommune)",41.7,41.0,42.2,42.6
+"8356 Sebber (Aalborg Kommune)",45.5,46.1,45.7,46.3
+"8357 Store Ajstrup (Aalborg Kommune)",44.4,44.9,45.9,45.7
+"8358 Næsborg (Vesthimmerlands Kommune)",43.2,45.0,44.5,45.3
+"8359 Kornum (Vesthimmerlands Kommune)",49.9,52.7,52.8,52.8
+"8360 Salling (Vesthimmerlands Kommune)",42.2,41.9,43.3,43.9
+"8361 Oudrup (Vesthimmerlands Kommune)",42.3,42.4,42.4,43.3
+"8362 Farstrup (Aalborg Kommune)",40.0,40.0,41.7,41.5
+"8363 Lundby (Aalborg Kommune)",39.6,40.7,41.6,41.6
+"8364 Budolfi (Aalborg Kommune)",33.2,33.6,33.9,33.9
+"8365 Ansgars (Aalborg Kommune)",38.0,37.4,37.1,36.9
+"8366 Vor Frelsers (Aalborg Kommune)",32.8,32.8,32.7,32.5
+"8367 Vesterkær (Aalborg Kommune)",42.8,43.3,43.7,43.8
+"8368 Vor Frue (Aalborg Kommune)",34.6,34.5,34.5,34.7
+"8369 Sankt Markus (Aalborg Kommune)",34.4,34.0,34.0,33.8
+"8370 Sønder Tranders (Aalborg Kommune)",37.9,37.7,37.6,38.0
+"8371 Nørre Tranders (Aalborg Kommune)",37.6,37.9,38.1,38.3
+"8372 Vejgaard (Aalborg Kommune)",38.6,38.7,38.9,39.2
+"8373 Hans Egedes (Aalborg Kommune)",36.8,36.5,36.3,36.2
+"8374 Hasseris (Aalborg Kommune)",44.3,44.7,44.7,44.8
+"8375 Nørresundby (Aalborg Kommune)",40.9,41.2,41.6,42.0
+"8376 Hvorup (Aalborg Kommune)",43.1,43.3,43.4,43.3
+"8377 Lindholm (Aalborg Kommune)",41.1,41.3,41.2,41.2
+"8378 Vadum (Aalborg Kommune)",43.3,43.6,43.5,43.4
+"8379 Aaby (Jammerbugt Kommune)",41.1,41.2,41.1,40.9
+"8380 Biersted (Jammerbugt Kommune)",40.1,40.1,40.4,40.4
+"8381 Sulsted (Aalborg Kommune)",40.2,40.4,40.7,40.9
+"8382 Ajstrup (Aalborg Kommune)",42.4,42.7,42.9,42.8
+"8383 Horsens (Aalborg Kommune)",39.4,39.3,39.3,39.6
+"8384 Hammer (Aalborg Kommune)",42.7,42.9,42.6,42.8
+"8385 Vester Hassing (Aalborg Kommune)",41.6,41.9,42.1,41.9
+"8386 Ulsted (Aalborg Kommune)",41.2,41.5,41.9,42.0
+"8387 Hals (Aalborg Kommune)",51.8,52.9,53.0,53.3
+"8388 Ferslev (Aalborg Kommune)",40.3,40.7,40.8,41.1
+"8389 Dall (Aalborg Kommune)",43.4,43.1,43.6,43.8
+"8390 Volsted (Aalborg Kommune)",40.8,40.4,41.2,41.6
+"8391 Lerup (Jammerbugt Kommune)",48.2,47.8,49.8,49.4
+"8392 Tranum (Jammerbugt Kommune)",45.5,45.5,45.6,46.1
+"8393 Brovst (Jammerbugt Kommune)",45.1,45.4,45.6,45.8
+"8394 Øland (Jammerbugt Kommune)",42.5,43.9,45.1,46.6
+"8395 Torslev (Jammerbugt Kommune)",44.2,44.7,45.8,45.3
+"8396 Øster Svenstrup (Jammerbugt Kommune)",40.9,41.2,41.9,43.7
+"8397 Haverslev (Jammerbugt Kommune)",40.4,40.5,42.0,41.6
+"8398 Skræm (Jammerbugt Kommune)",38.7,38.7,39.2,39.8
+"8399 Aggersborg (Vesthimmerlands Kommune)",46.5,47.3,47.8,48.7
+"8400 Bejstrup (Jammerbugt Kommune)",43.8,44.5,43.3,41.4
+"8401 Vedsted (Jammerbugt Kommune)",44.6,45.4,45.9,47.1
+"8402 Brønderslev (Brønderslev Kommune)",44.0,44.3,44.4,44.7
+"8403 Serritslev (Brønderslev Kommune)",40.4,40.3,40.1,40.9
+"8404 Vrejlev (Hjørring Kommune)",41.1,41.0,41.3,41.4
+"8405 Hæstrup (Hjørring Kommune)",40.9,41.4,42.1,43.0
+"8406 Børglum (Hjørring Kommune)",44.7,44.6,45.0,45.2
+"8407 Løkken-Furreby (Hjørring Kommune)",52.0,52.3,53.0,53.5
+"8408 Vejby (Hjørring Kommune)",44.6,45.5,45.7,46.3
+"8409 Sejlstrup (Hjørring Kommune)",41.5,41.4,42.0,42.6
+"8410 Vrensted (Hjørring Kommune)",47.4,46.9,48.0,48.9
+"8411 Tise (Brønderslev Kommune)",41.1,41.1,41.3,40.6
+"8412 Tolstrup (Brønderslev Kommune)",40.9,40.1,39.7,40.2
+"8413 Stenum (Brønderslev Kommune)",37.4,37.1,37.5,37.0
+"8414 Vrå (Hjørring Kommune)",42.1,42.2,42.4,42.7
+"8415 Em (Hjørring Kommune)",38.9,40.4,40.3,41.0
+"8416 Jerslev (Brønderslev Kommune)",42.1,41.9,42.0,41.4
+"8417 Hellum (Brønderslev Kommune)",45.9,47.1,47.2,47.0
+"8418 Øster Brønderslev (Brønderslev Kommune)",39.0,39.5,40.1,40.6
+"8419 Hallund (Brønderslev Kommune)",40.2,40.1,41.6,41.5
+"8420 Ingstrup (Jammerbugt Kommune)",46.4,48.2,47.8,47.8
+"8421 Vester Hjermitslev (Jammerbugt Kommune)",44.7,44.9,45.6,47.6
+"8422 Saltum (Jammerbugt Kommune)",48.9,49.3,49.2,48.7
+"8423 Alstrup (Jammerbugt Kommune)",42.9,42.5,42.5,44.1
+"8424 Jetsmark (Jammerbugt Kommune)",43.3,43.7,44.1,44.6
+"8425 Hune (Jammerbugt Kommune)",57.9,58.5,58.6,60.0
+"8426 Gjøl (Jammerbugt Kommune)",46.0,46.1,46.2,46.3
+"8427 Hjallerup (Brønderslev Kommune)",42.1,41.9,42.0,42.1
+"8428 Mosbjerg (Hjørring Kommune)",44.8,43.6,44.2,44.4
+"8429 Bindslev (Hjørring Kommune)",45.5,45.8,46.1,46.7
+"8430 Elling (Frederikshavn Kommune)",45.7,46.0,46.1,46.4
+"8431 Tolne (Hjørring Kommune)",47.3,47.3,47.8,48.9
+"8432 Hørmested (Hjørring Kommune)",42.2,42.5,42.6,42.3
+"8433 Åsted (Frederikshavn Kommune)",43.5,44.1,44.4,45.0
+"8434 Skærum (Frederikshavn Kommune)",44.4,43.8,44.3,43.4
+"8435 Flade (Frederikshavn Kommune)",43.0,43.4,43.4,43.8
+"8436 Gærum (Frederikshavn Kommune)",42.5,43.3,43.2,43.8
+"8437 Byrum (Læsø Kommune)",51.1,51.4,52.3,52.3
+"8438 Hals (Læsø Kommune)",53.7,54.7,55.0,54.6
+"8439 Vesterø (Læsø Kommune)",56.0,55.2,55.3,57.2
+"8440 Sæby (Frederikshavn Kommune)",48.9,49.2,49.5,49.9
+"8441 Understed (Frederikshavn Kommune)",44.9,44.7,45.7,46.0
+"8442 Karup (Frederikshavn Kommune)",42.9,44.3,44.6,44.4
+"8443 Volstrup (Frederikshavn Kommune)",43.7,43.9,44.8,44.1
+"8444 Hørby (Frederikshavn Kommune)",41.8,42.8,43.6,43.9
+"8445 Torslev (Frederikshavn Kommune)",41.7,42.2,42.2,42.0
+"8446 Skæve (Frederikshavn Kommune)",45.8,45.4,45.4,46.0
+"8447 Albæk-Lyngså (Frederikshavn Kommune)",44.7,45.1,45.4,45.7
+"8448 Voer (Brønderslev Kommune)",41.5,41.9,42.2,43.1
+"8449 Hellevad (Brønderslev Kommune)",42.6,43.0,42.8,43.2
+"8450 Ørum (Brønderslev Kommune)",41.3,41.2,40.9,41.5
+"8451 Dronninglund (Brønderslev Kommune)",43.3,43.1,43.2,43.4
+"8452 Aså (Brønderslev Kommune)",47.4,47.8,48.4,48.9
+"8454 Sankt Catharinæ (Hjørring Kommune)",42.7,43.0,43.3,43.8
+"8455 Sankt Hans (Hjørring Kommune)",41.9,41.8,42.1,42.3
+"8456 Sankt Olai (Hjørring Kommune)",40.9,41.3,41.6,42.1
+"8457 Ugilt (Hjørring Kommune)",41.8,42.5,43.0,42.8
+"8458 Tårs (Hjørring Kommune)",44.7,44.9,44.8,45.1
+"8459 Sindal (Hjørring Kommune)",45.5,45.8,45.9,45.9
+"8460 Astrup (Hjørring Kommune)",41.2,42.1,42.2,42.8
+"8461 Bjergby (Hjørring Kommune)",43.5,43.4,44.0,43.3
+"8462 Mygdal (Hjørring Kommune)",42.9,42.3,43.2,44.0
+"8463 Horne (Hjørring Kommune)",43.3,43.4,44.5,44.3
+"8464 Asdal (Hjørring Kommune)",45.4,46.7,47.7,48.1
+"8465 Hirtshals (Hjørring Kommune)",47.1,47.6,47.9,48.4
+"8466 Tornby (Hjørring Kommune)",47.8,48.3,47.8,47.8
+"8467 Vidstrup (Hjørring Kommune)",44.1,43.6,43.6,45.1
+"8468 Skallerup (Hjørring Kommune)",47.1,48.1,47.5,47.6
+"8469 Vennebjerg (Hjørring Kommune)",44.6,45.6,45.3,46.2
+"8470 Rubjerg (Hjørring Kommune)",47.3,47.2,48.5,49.3
+"8471 Lyngby (Hjørring Kommune)",53.4,53.6,55.9,54.8
+"8472 Jelstrup (Hjørring Kommune)",42.8,43.5,43.5,44.5
+"8473 Mårup (Hjørring Kommune)",57.7,57.6,58.0,58.3
+"8474 Harritslev (Hjørring Kommune)",48.7,47.5,47.2,47.8
+"8475 Rakkeby (Hjørring Kommune)",43.2,43.5,42.1,42.2
+"8476 Frederikshavn (Frederikshavn Kommune)",44.7,45.3,45.6,46.5
+"8478 Abildgård (Frederikshavn Kommune)",42.9,43.0,43.1,43.2
+"8479 Bangsbostrand (Frederikshavn Kommune)",46.1,46.0,46.5,46.7
+"8480 Skagen (Frederikshavn Kommune)",49.4,49.7,50.1,50.7
+"8481 Råbjerg (Frederikshavn Kommune)",50.2,51.1,51.6,52.0
+"8482 Tversted (Hjørring Kommune)",53.4,53.9,53.9,55.5
+"8483 Uggerby (Hjørring Kommune)",46.0,46.8,47.9,46.8
+"8484 Sahl (Viborg Kommune)",40.8,40.8,41.4,41.8
+"8485 Gullev (Viborg Kommune)",36.3,36.9,37.3,38.2
+"8486 Hvorslev (Favrskov Kommune)",40.9,41.7,41.9,41.9
+"8487 Gerning (Favrskov Kommune)",43.3,42.7,42.6,42.0
+"8488 Vellev (Favrskov Kommune)",39.1,38.5,38.5,38.9
+"8489 Vejerslev (Favrskov Kommune)",40.2,39.4,40.5,40.0
+"8490 Aidt (Favrskov Kommune)",37.9,38.3,38.7,39.2
+"8491 Thorsø (Favrskov Kommune)",43.0,43.8,44.5,44.4
+"8492 Houlbjerg (Favrskov Kommune)",40.1,40.5,41.0,42.2
+"8493 Granslev (Favrskov Kommune)",42.5,42.1,42.3,42.0
+"8494 Haurum (Favrskov Kommune)",39.8,40.0,41.4,42.2
+"8495 Sall (Favrskov Kommune)",41.4,42.2,43.2,43.5
+"8496 Balle (Silkeborg Kommune)",39.0,39.0,38.9,38.8
+"8497 Tårup (Viborg Kommune)",43.1,43.8,44.3,44.3
+"8498 Kvols (Viborg Kommune)",45.3,46.6,47.7,48.0
+"8499 Kobberup (Skive Kommune, Viborg Kommune)",38.2,38.6,39.1,39.7
+"8500 Stoholm (Viborg Kommune)",42.5,42.9,43.3,43.4
+"8501 Sparkær (Viborg Kommune)",41.8,42.0,42.5,43.0
+"8502 Gammelstrup (Viborg Kommune)",39.0,38.8,38.0,37.6
+"8503 Daugbjerg (Viborg Kommune)",41.7,41.6,42.3,42.6
+"8504 Mønsted (Viborg Kommune)",41.2,41.5,41.0,40.8
+"8505 Smollerup (Viborg Kommune)",38.2,38.4,39.0,40.2
+"8506 Vridsted (Viborg Kommune)",41.3,41.3,41.1,41.1
+"8507 Fly (Viborg Kommune)",40.4,40.4,41.8,41.8
+"8508 Vroue (Viborg Kommune)",43.1,43.7,44.1,45.3
+"8509 Resen (Viborg Kommune)",39.3,40.5,40.7,40.4
+"8510 Nørbæk (Randers Kommune)",38.2,39.1,41.0,39.4
+"8511 Sønderbæk (Randers Kommune)",40.1,40.1,40.4,41.2
+"8512 Læsten (Randers Kommune)",45.3,46.1,47.3,47.7
+"8513 Øster Bjerregrav (Randers Kommune)",42.6,42.9,43.4,43.8
+"8514 Ålum (Randers Kommune)",44.0,44.8,44.5,44.0
+"8515 Tånum (Randers Kommune)",42.1,42.2,42.0,42.8
+"8516 Hornbæk (Randers Kommune)",41.5,41.6,41.8,42.0
+"8517 Vesterbølle (Vesthimmerlands Kommune)",39.7,41.2,41.2,41.3
+"8518 Østerbølle (Vesthimmerlands Kommune)",38.9,40.0,40.5,42.2
+"8519 Gedsted (Vesthimmerlands Kommune)",45.2,45.9,46.1,46.3
+"8520 Fjelsø (Vesthimmerlands Kommune)",42.6,43.0,43.0,43.8
+"8521 Simested (Viborg Kommune, Vesthimmerlands Kommune, Mariagerfjord Kommune)",42.2,42.7,42.9,43.1
+"8522 Testrup (Vesthimmerlands Kommune)",38.8,40.1,39.2,39.8
+"8523 Hvam (Viborg Kommune, Vesthimmerlands Kommune)",41.3,40.9,41.1,41.5
+"8524 Hvilsom (Viborg Kommune, Mariagerfjord Kommune)",42.1,42.7,42.2,42.9
+"8525 Hersom (Viborg Kommune)",40.4,40.8,41.1,41.1
+"8526 Vester Bjerregrav (Viborg Kommune)",40.0,40.2,41.6,41.2
+"8527 Klejtrup (Viborg Kommune)",42.6,42.6,42.7,43.1
+"8528 Vester Tostrup (Viborg Kommune)",45.4,45.5,45.1,44.8
+"8529 Roum (Viborg Kommune)",43.0,43.1,43.6,43.9
+"8530 Låstrup (Viborg Kommune)",45.2,44.8,45.5,45.6
+"8531 Skals (Viborg Kommune)",43.6,44.3,44.6,45.0
+"8532 Ulbjerg (Viborg Kommune)",43.5,43.9,44.4,45.1
+"8533 Lynderup (Viborg Kommune)",42.2,42.5,43.2,44.9
+"8534 Dollerup (Viborg Kommune)",39.0,39.0,40.3,40.5
+"8535 Finderup (Viborg Kommune)",41.3,41.6,41.9,43.5
+"8536 Ravnstrup (Viborg Kommune)",40.8,40.5,41.1,41.5
+"8537 Skjød (Favrskov Kommune)",40.4,41.4,41.2,42.0
+"8538 Durup (Skive Kommune)",47.1,46.1,46.4,46.7
+"8539 Tøndering (Skive Kommune)",43.2,44.9,44.9,44.9
+"8540 Roslev (Skive Kommune)",46.7,46.7,47.3,47.1
+"8541 Rybjerg (Skive Kommune)",41.3,41.4,42.4,43.0
+"8542 Hjerk (Skive Kommune)",46.6,47.1,47.2,47.8
+"8543 Harre (Skive Kommune)",44.8,45.5,44.7,43.3
+"8544 Nautrup (Skive Kommune)",40.4,39.4,39.3,40.2
+"8545 Vile (Skive Kommune)",46.0,46.6,47.1,48.3
+"8546 Glyngøre (Skive Kommune)",49.6,50.2,50.1,51.1
+"8547 Sæby (Skive Kommune)",42.1,41.7,43.0,43.3
+"8548 Fur (Skive Kommune)",52.3,53.2,53.6,54.2
+"8549 Rødding (Skive Kommune)",45.8,46.6,46.6,46.9
+"8550 Lihme (Skive Kommune)",48.3,49.6,49.4,49.9
+"8551 Balling (Skive Kommune)",45.6,45.9,46.5,46.2
+"8552 Volling (Skive Kommune)",38.7,39.4,41.9,43.5
+"8553 Krejbjerg (Skive Kommune)",45.6,46.2,46.7,48.7
+"8554 Håsum (Skive Kommune)",41.9,41.8,42.4,44.0
+"8555 Ramsing (Skive Kommune)",44.6,43.5,44.7,46.1
+"8556 Lem (Skive Kommune)",44.8,45.8,46.2,46.7
+"8557 Vejby (Skive Kommune)",37.9,39.7,40.3,42.3
+"8558 Højslev (Skive Kommune)",42.0,42.1,42.7,42.9
+"8559 Dommerby (Skive Kommune)",45.0,45.3,45.5,46.1
+"8560 Lundø (Skive Kommune)",56.9,57.0,57.5,58.3
+"8561 Ørslevkloster (Skive Kommune)",46.9,47.0,47.8,48.4
+"8562 Ørum (Skive Kommune)",46.4,46.4,46.2,48.7
+"8563 Vorde (Viborg Kommune)",41.2,41.5,42.1,42.2
+"8564 Fiskbæk (Viborg Kommune)",42.3,42.0,42.3,42.3
+"8565 Romlund (Viborg Kommune)",41.0,41.5,42.7,44.4
+"8566 Rødding (Viborg Kommune)",39.6,39.0,39.1,39.1
+"8567 Løvel (Viborg Kommune)",38.9,39.4,40.1,40.4
+"8568 Pederstrup (Viborg Kommune)",42.3,42.3,42.4,43.4
+"8569 Vammen (Viborg Kommune)",45.5,45.7,46.0,46.0
+"8570 Lindum (Viborg Kommune)",43.3,43.7,44.7,46.0
+"8571 Bigum (Viborg Kommune)",43.4,43.9,45.0,45.1
+"8572 Skive (Skive Kommune)",42.0,42.5,42.9,43.3
+"8573 Resen (Skive Kommune)",46.2,46.6,47.4,47.8
+"8574 Hem (Skive Kommune)",40.7,40.5,40.3,39.9
+"8575 Hindborg (Skive Kommune)",37.9,38.9,40.2,40.2
+"8576 Dølby (Skive Kommune)",43.5,41.3,42.1,41.9
+"8577 Oddense (Skive Kommune)",42.3,43.0,42.8,43.0
+"8578 Otting (Skive Kommune)",34.6,35.2,36.2,35.1
+"8579 Brøndum (Skive Kommune)",41.4,41.7,42.6,41.1
+"8580 Hvidbjerg (Skive Kommune)",42.2,42.4,42.6,42.3
+"8581 Selde (Skive Kommune)",49.7,49.3,49.0,49.8
+"8582 Åsted (Skive Kommune)",44.2,44.7,45.6,44.7
+"8583 Junget (Skive Kommune)",46.1,45.9,46.8,48.2
+"8584 Thorum (Skive Kommune)",41.5,41.6,42.2,43.2
+"8585 Grinderslev (Skive Kommune)",45.1,45.1,45.3,45.8
+"8586 Grønning (Skive Kommune)",45.4,47.4,48.5,49.1
+"8587 Thise (Skive Kommune)",47.3,47.7,47.7,48.6
+"8588 Jebjerg (Skive Kommune)",44.5,45.4,46.3,46.8
+"8589 Lyby (Skive Kommune)",39.5,40.0,40.5,42.5
+"8590 Vium (Silkeborg Kommune)",39.1,39.4,40.2,40.9
+"8591 Lysgård (Viborg Kommune)",39.3,39.2,39.4,40.8
+"8592 Sjørslev (Silkeborg Kommune)",39.4,40.2,41.0,40.9
+"8593 Almind (Viborg Kommune)",44.1,44.9,44.5,44.3
+"8594 Højbjerg (Viborg Kommune)",42.4,42.8,42.1,43.0
+"8595 Elsborg (Viborg Kommune)",39.0,39.4,39.6,40.4
+"8596 Grønbæk (Silkeborg Kommune)",43.4,44.0,44.5,44.9
+"8597 Levring (Silkeborg Kommune)",40.9,41.9,42.0,41.6
+"8598 Hørup (Silkeborg Kommune)",43.8,44.2,44.5,45.2
+"8599 Hinge (Silkeborg Kommune)",43.2,43.1,43.6,44.3
+"8600 Vinderslev (Silkeborg Kommune)",40.2,40.5,41.6,42.0
+"8601 Thorning (Silkeborg Kommune)",43.1,43.4,43.2,43.8
+"8602 Frederiks (Viborg Kommune)",42.5,42.9,43.5,43.6
+"8603 Karup (Viborg Kommune)",43.5,43.7,43.9,44.3
+"8604 Serup (Silkeborg Kommune)",41.6,42.4,42.3,42.6
+"8605 Lemming (Silkeborg Kommune)",38.8,38.9,38.9,39.0
+"8606 Gødvad (Silkeborg Kommune)",37.6,37.4,37.2,36.9
+"8607 Svostrup (Silkeborg Kommune)",38.8,39.7,39.6,40.2
+"8608 Sejling (Silkeborg Kommune)",41.1,40.6,40.7,40.0
+"8609 Sinding (Silkeborg Kommune)",40.4,40.4,41.3,41.4
+"8610 Kragelund (Silkeborg Kommune)",43.4,43.6,44.4,44.9
+"8611 Funder (Silkeborg Kommune)",38.9,38.2,37.3,36.7
+"8612 Engesvang (Ikast-Brande Kommune)",40.2,40.4,40.4,41.0
+"8613 Viborg Domsogn (Viborg Kommune)",41.6,41.7,42.1,42.6
+"8614 Søndre (Viborg Kommune)",40.9,40.9,41.0,41.6
+"8615 Asmild (Viborg Kommune)",41.7,41.6,41.5,41.5
+"8616 Tapdrup (Viborg Kommune)",39.8,39.3,39.8,39.6
+"8617 Vinkel (Viborg Kommune)",40.6,40.5,40.2,41.2
+"8618 Sønder Rind (Viborg Kommune)",43.5,43.4,44.5,44.5
+"8619 Vindum (Viborg Kommune)",39.5,39.5,39.6,39.9
+"8621 Mammen (Viborg Kommune)",36.6,37.1,38.0,37.8
+"8622 Bjerringbro (Viborg Kommune)",46.3,46.4,46.9,47.3
+"8624 Lee (Viborg Kommune)",38.3,38.8,38.2,39.0
+"8625 Hjorthede (Viborg Kommune)",41.5,40.5,41.5,40.7
+"8626 Vester Velling (Favrskov Kommune)",41.0,40.6,41.2,41.4
+"8627 Skjern (Viborg Kommune)",43.2,44.2,44.3,44.3
+"8628 Øster Velling (Randers Kommune)",39.6,40.3,40.1,40.1
+"8629 Helstrup (Randers Kommune)",40.9,41.5,41.8,42.9
+"8630 Grensten (Randers Kommune)",37.9,38.3,38.4,38.5
+"8631 Langå (Randers Kommune)",43.3,44.1,44.3,44.7
+"8632 Torup (Randers Kommune)",39.3,40.4,41.4,41.6
+"8633 Sønder Vinge (Favrskov Kommune)",42.9,43.6,44.0,44.4
+"8634 Tjele (Viborg Kommune)",38.9,39.3,41.9,40.9
+"8635 Nørre Vinge (Viborg Kommune)",47.2,47.1,47.9,45.2
+"8636 Ørum (Viborg Kommune)",42.2,42.9,43.2,43.8
+"8637 Viskum (Viborg Kommune)",46.1,46.9,46.8,48.7
+"8638 Vejrum (Viborg Kommune)",43.1,43.1,43.5,43.9
+"8639 Vorning (Viborg Kommune)",38.3,39.0,40.0,39.4
+"8640 Kvorning (Viborg Kommune)",41.1,40.9,41.2,41.8
+"8641 Hammershøj (Viborg Kommune)",42.6,43.1,43.2,43.3
+"8642 Hillerslev (Thisted Kommune)",41.1,40.8,41.7,42.6
+"8643 Kåstrup (Thisted Kommune)",35.2,36.1,37.4,36.7
+"8644 Sennels (Thisted Kommune)",42.6,42.5,42.5,41.7
+"8645 Hunstrup (Thisted Kommune)",37.6,37.0,36.9,37.3
+"8646 Østerild (Thisted Kommune)",46.0,46.0,47.4,48.4
+"8647 Hjardemål (Thisted Kommune)",45.0,44.0,44.1,44.6
+"8648 Vestervig (Thisted Kommune)",47.4,47.6,47.3,48.1
+"8649 Agger (Thisted Kommune)",52.8,52.7,53.7,53.8
+"8650 Hurup (Thisted Kommune)",47.2,47.3,47.6,48.2
+"8651 Boddum (Thisted Kommune)",48.7,47.8,46.9,46.0
+"8652 Ydby (Thisted Kommune)",42.0,42.5,43.1,43.7
+"8653 Helligsø (Thisted Kommune)",47.6,48.0,48.8,0.0
+"8654 Gettrup (Thisted Kommune)",47.2,45.7,46.9,0.0
+"8655 Hvidbjerg (Struer Kommune)",45.6,45.7,46.1,46.6
+"8656 Lyngs (Struer Kommune)",42.5,43.4,43.7,44.0
+"8657 Søndbjerg (Struer Kommune)",46.0,48.0,48.5,48.8
+"8658 Odby (Struer Kommune)",49.1,50.0,50.5,50.5
+"8659 Jegindø (Struer Kommune)",52.5,53.8,55.0,54.8
+"8660 Snedsted (Thisted Kommune)",43.1,43.7,44.0,44.0
+"8661 Nørhå (Thisted Kommune)",40.9,41.8,42.4,43.1
+"8662 Sønderhå (Thisted Kommune)",43.7,43.1,43.9,44.4
+"8663 Hørsted (Thisted Kommune)",38.9,39.5,40.0,39.8
+"8664 Harring (Thisted Kommune)",41.5,42.3,40.6,41.2
+"8665 Stagstrup (Thisted Kommune)",46.8,46.1,45.9,47.0
+"8666 Skyum (Thisted Kommune)",40.8,41.9,42.3,43.0
+"8667 Hørdum (Thisted Kommune)",45.7,45.6,46.4,46.9
+"8668 Sejerslev (Morsø Kommune)",46.1,46.4,46.8,45.2
+"8669 Ejerslev (Morsø Kommune)",50.4,49.2,48.7,49.9
+"8670 Jørsby (Morsø Kommune)",41.7,43.5,44.2,44.4
+"8671 Flade (Morsø Kommune)",49.3,49.4,51.2,49.6
+"8672 Bjergby (Morsø Kommune)",46.0,45.5,47.4,48.1
+"8673 Alsted (Morsø Kommune)",43.7,43.3,44.1,44.1
+"8674 Sønder Dråby (Morsø Kommune)",51.2,50.9,48.7,50.5
+"8675 Solbjerg (Morsø Kommune)",43.4,43.8,44.7,44.2
+"8676 Sundby (Morsø Kommune)",47.8,47.7,49.2,48.7
+"8677 Dragstrup (Morsø Kommune)",44.3,44.1,45.4,44.9
+"8678 Skallerup (Morsø Kommune)",39.7,40.8,41.0,42.5
+"8679 Galtrup (Morsø Kommune)",39.3,38.8,38.0,38.7
+"8680 Øster Jølby (Morsø Kommune)",51.8,51.6,50.7,50.6
+"8681 Tødsø (Morsø Kommune)",40.6,41.2,41.3,41.8
+"8682 Erslev (Morsø Kommune)",41.7,42.8,43.6,44.2
+"8683 Hassing (Thisted Kommune)",41.8,43.4,41.8,42.1
+"8684 Villerslev (Thisted Kommune)",46.5,47.1,46.8,47.1
+"8685 Visby (Thisted Kommune)",44.5,40.8,39.5,41.6
+"8686 Heltborg (Thisted Kommune)",45.1,44.5,44.7,44.8
+"8687 Bedsted (Thisted Kommune)",44.7,0.0,0.0,0.0
+"8688 Grurup (Thisted Kommune)",39.4,0.0,0.0,0.0
+"8689 Hvidbjerg Vesten Å (Thisted Kommune)",51.2,48.6,49.4,49.6
+"8690 Ørum (Thisted Kommune)",41.3,41.9,42.8,43.1
+"8691 Lodbjerg (Thisted Kommune)",41.5,40.0,40.9,42.4
+"8692 Nykøbing M (Morsø Kommune)",46.4,46.8,46.9,47.3
+"8693 Lødderup (Morsø Kommune)",43.8,44.4,43.8,43.9
+"8694 Elsø (Morsø Kommune)",35.9,35.6,36.2,36.8
+"8695 Frøslev (Morsø Kommune)",42.2,42.3,41.8,42.1
+"8696 Mollerup (Morsø Kommune)",43.8,41.6,41.8,40.9
+"8697 Tæbring (Morsø Kommune)",48.0,47.3,48.0,48.3
+"8698 Ovtrup (Morsø Kommune)",41.6,42.2,42.8,43.6
+"8699 Rakkeby (Morsø Kommune)",42.7,43.4,43.0,43.3
+"8700 Karby (Morsø Kommune)",46.4,46.1,46.7,48.6
+"8701 Redsted (Morsø Kommune)",45.3,44.4,44.5,44.2
+"8702 Hvidbjerg (Morsø Kommune)",45.1,46.4,46.7,46.5
+"8703 Vejerslev (Morsø Kommune)",40.4,40.9,40.4,41.0
+"8704 Blidstrup (Morsø Kommune)",41.9,39.8,40.3,39.3
+"8705 Ljørslev (Morsø Kommune)",43.7,42.9,41.9,42.2
+"8706 Ørding (Morsø Kommune)",45.4,44.9,46.7,46.4
+"8707 Øster Assels (Morsø Kommune)",50.3,50.7,50.4,51.5
+"8708 Vester Assels (Morsø Kommune)",48.3,47.4,46.0,46.0
+"8709 Kollerup (Jammerbugt Kommune)",0.0,0.0,0.0,0.0
+"8710 Hjortdal (Jammerbugt Kommune)",45.3,44.0,44.8,44.9
+"8711 Klim (Jammerbugt Kommune)",42.2,43.3,44.1,43.6
+"8712 Vester Torup (Jammerbugt Kommune)",44.0,43.6,44.9,45.0
+"8713 Vust (Jammerbugt Kommune)",49.3,47.9,48.2,48.9
+"8714 Tømmerby (Thisted Kommune)",45.2,44.8,45.4,46.8
+"8715 Lild (Thisted Kommune)",51.5,53.1,53.6,54.0
+"8716 Kettrup (Jammerbugt Kommune)",40.1,40.3,39.9,40.1
+"8717 Gøttrup (Jammerbugt Kommune)",38.4,39.3,39.2,40.5
+"8718 Øsløs (Thisted Kommune)",46.0,46.4,46.9,46.8
+"8719 Vesløs (Thisted Kommune)",42.2,43.1,42.3,42.2
+"8720 Arup (Thisted Kommune)",51.3,52.0,52.5,53.0
+"8721 Thisted (Thisted Kommune)",43.0,43.3,43.3,43.5
+"8722 Tilsted (Thisted Kommune)",44.3,44.4,44.7,45.2
+"8723 Skinnerup (Thisted Kommune)",35.7,36.2,36.0,36.3
+"8724 Sjørring (Thisted Kommune)",41.6,41.6,41.9,41.7
+"8725 Thorsted (Thisted Kommune)",35.0,35.0,35.6,36.1
+"8726 Skjoldborg (Thisted Kommune)",43.8,43.5,44.1,44.5
+"8727 Kallerup (Thisted Kommune)",42.3,43.3,43.9,45.7
+"8728 Hundborg (Thisted Kommune)",45.1,44.9,45.8,46.7
+"8729 Jannerup (Thisted Kommune)",41.1,42.8,42.5,42.1
+"8730 Vang (Thisted Kommune)",44.9,45.7,45.7,46.3
+"8731 Ræhr (Thisted Kommune)",43.3,43.6,44.3,45.1
+"8732 Hansted (Thisted Kommune)",43.8,43.7,43.6,44.4
+"8733 Vigsø (Thisted Kommune)",49.3,50.4,50.2,51.6
+"8734 Nors (Thisted Kommune)",41.8,42.3,42.6,42.6
+"8735 Tved (Thisted Kommune)",43.9,44.5,46.4,44.4
+"8736 Vester Vandet (Thisted Kommune)",42.9,43.5,43.2,43.4
+"8737 Øster Vandet (Thisted Kommune)",41.3,44.0,43.3,41.2
+"8738 Skovlund (Varde Kommune)",41.6,42.2,41.7,41.1
+"8739 Husby (Holstebro Kommune, Ringkøbing-Skjern Kommune)",55.2,56.0,55.3,55.8
+"8740 Sønder Nissum (Holstebro Kommune)",51.6,52.8,53.5,54.2
+"8741 Staby (Holstebro Kommune)",41.2,41.6,42.1,42.0
+"8742 Ulfborg (Holstebro Kommune)",46.3,46.7,46.6,47.1
+"8743 Idom (Holstebro Kommune)",40.1,40.3,0.0,0.0
+"8744 Råsted (Holstebro Kommune)",44.9,45.7,0.0,0.0
+"8745 Nørre Felding (Holstebro Kommune)",40.0,40.2,40.6,40.8
+"8746 Tvis (Holstebro Kommune)",37.1,37.7,37.9,37.7
+"8747 Vinding (Herning Kommune)",40.2,40.3,40.7,40.4
+"8748 Vind (Herning Kommune)",40.5,41.6,42.0,42.0
+"8749 Ringkøbing (Ringkøbing-Skjern Kommune)",47.2,47.3,48.0,48.4
+"8750 Rindum (Ringkøbing-Skjern Kommune)",40.5,41.1,41.7,42.3
+"8751 Velling (Ringkøbing-Skjern Kommune)",43.3,43.2,44.1,44.5
+"8752 Hee (Ringkøbing-Skjern Kommune)",40.1,39.8,40.4,40.2
+"8753 No (Ringkøbing-Skjern Kommune)",39.5,39.2,39.8,40.3
+"8754 Nørre Omme (Herning Kommune, Ringkøbing-Skjern Kommune)",41.5,41.0,41.5,41.9
+"8755 Brejning (Ringkøbing-Skjern Kommune)",41.6,41.8,42.3,42.7
+"8756 Torsted (Ringkøbing-Skjern Kommune)",41.0,42.1,42.5,42.6
+"8757 Hover (Ringkøbing-Skjern Kommune)",41.0,41.4,41.4,42.0
+"8758 Stadil (Ringkøbing-Skjern Kommune)",43.5,43.1,42.8,43.8
+"8759 Tim (Ringkøbing-Skjern Kommune)",42.4,42.3,42.7,43.2
+"8760 Madum (Holstebro Kommune)",36.6,37.1,36.8,39.0
+"8761 Vedersø (Ringkøbing-Skjern Kommune)",45.7,44.5,45.7,46.4
+"8762 Holmsland Klit (Ringkøbing-Skjern Kommune)",0.0,0.0,0.0,0.0
+"8763 Ny (Ringkøbing-Skjern Kommune)",47.0,46.9,47.3,47.5
+"8764 Gammel (Ringkøbing-Skjern Kommune)",45.0,45.2,46.6,46.5
+"8765 Skjern (Ringkøbing-Skjern Kommune)",42.7,43.0,43.5,43.8
+"8766 Vorgod (Ringkøbing-Skjern Kommune)",39.1,39.2,39.4,39.3
+"8767 Nørre Vium (Ringkøbing-Skjern Kommune)",38.3,37.9,38.8,38.5
+"8768 Herborg (Ringkøbing-Skjern Kommune)",43.7,44.3,44.1,43.9
+"8769 Videbæk (Ringkøbing-Skjern Kommune)",45.8,45.4,45.9,46.4
+"8770 Sønder Lem (Ringkøbing-Skjern Kommune)",39.6,39.9,40.3,40.3
+"8771 Ølstrup (Ringkøbing-Skjern Kommune)",39.6,39.0,37.9,37.8
+"8772 Dejbjerg (Ringkøbing-Skjern Kommune)",42.1,42.4,41.9,42.7
+"8773 Hanning (Ringkøbing-Skjern Kommune)",36.9,37.4,38.4,38.2
+"8774 Stauning (Ringkøbing-Skjern Kommune)",44.5,44.2,44.4,45.4
+"8775 Bølling (Ringkøbing-Skjern Kommune)",41.4,41.9,40.6,40.5
+"8776 Sædding (Ringkøbing-Skjern Kommune)",40.0,38.9,39.6,40.3
+"8777 Sønder Borris (Ringkøbing-Skjern Kommune)",40.5,40.8,40.2,40.8
+"8778 Faster (Ringkøbing-Skjern Kommune)",38.8,39.1,39.0,39.1
+"8779 Sønder Bork (Ringkøbing-Skjern Kommune)",45.5,44.5,45.7,46.5
+"8780 Nørre Bork (Ringkøbing-Skjern Kommune)",47.6,47.5,48.9,49.5
+"8781 Hemmet (Ringkøbing-Skjern Kommune)",45.9,46.0,45.8,45.8
+"8782 Sønder Vium (Ringkøbing-Skjern Kommune)",37.8,38.6,38.9,39.6
+"8783 Lønborg (Ringkøbing-Skjern Kommune)",43.5,43.0,43.1,43.7
+"8784 Egvad (Ringkøbing-Skjern Kommune)",37.4,38.3,39.1,39.4
+"8785 Ådum (Ringkøbing-Skjern Kommune)",40.5,40.5,40.0,40.1
+"8786 Hoven (Ringkøbing-Skjern Kommune)",42.2,42.1,42.7,42.7
+"8787 Strellev (Varde Kommune)",39.7,39.9,40.7,42.2
+"8788 Lyne (Ringkøbing-Skjern Kommune)",41.1,41.3,42.0,42.0
+"8789 Herning (Herning Kommune)",41.7,42.2,42.7,43.1
+"8790 Sankt Johannes (Herning Kommune)",42.1,42.7,43.3,43.6
+"8791 Fredens (Herning Kommune)",39.4,39.4,39.8,40.5
+"8792 Aulum (Herning Kommune)",41.5,41.4,41.6,42.0
+"8793 Hodsager (Herning Kommune)",38.9,39.0,39.4,39.6
+"8794 Vildbjerg (Herning Kommune)",42.3,42.7,43.1,43.3
+"8795 Nøvling (Herning Kommune)",42.0,42.5,42.4,42.8
+"8796 Timring (Herning Kommune)",39.5,39.4,39.8,40.3
+"8797 Ørre (Herning Kommune)",0.0,0.0,0.0,0.0
+"8798 Sinding (Herning Kommune)",0.0,0.0,0.0,0.0
+"8799 Gjellerup (Herning Kommune)",39.9,40.1,40.3,40.7
+"8800 Sunds (Herning Kommune)",43.1,43.7,43.8,44.1
+"8801 Ilskov (Herning Kommune, Ikast-Brande Kommune)",40.9,41.0,41.8,41.7
+"8802 Ikast (Ikast-Brande Kommune)",42.5,42.7,42.9,43.2
+"8803 Rind (Herning Kommune)",40.1,40.4,40.3,40.2
+"8804 Snejbjerg (Herning Kommune)",40.8,40.6,40.4,40.4
+"8805 Tjørring (Herning Kommune)",40.9,41.3,41.2,41.3
+"8806 Studsgård (Herning Kommune)",39.1,39.7,40.4,40.8
+"8807 Haunstrup (Herning Kommune)",42.5,42.1,41.9,41.9
+"8808 Sønder Felding (Herning Kommune)",44.2,44.5,45.2,45.6
+"8809 Assing (Herning Kommune)",42.4,42.5,42.8,43.0
+"8810 Skarrild (Herning Kommune)",43.6,44.4,44.4,44.1
+"8811 Arnborg (Herning Kommune)",43.2,43.5,44.0,44.1
+"8812 Bording (Ikast-Brande Kommune)",43.4,43.6,43.4,43.7
+"8813 Holstebro (Holstebro Kommune)",43.7,44.1,44.1,44.1
+"8814 Måbjerg (Holstebro Kommune)",42.8,42.7,42.9,42.8
+"8815 Nørrelands (Holstebro Kommune)",38.0,38.3,38.7,38.9
+"8816 Struer (Struer Kommune)",45.2,45.7,46.3,47.1
+"8817 Gimsing (Struer Kommune)",44.3,45.0,44.8,44.8
+"8818 Vejrum (Struer Kommune)",41.9,42.2,41.1,41.0
+"8819 Mejrup (Holstebro Kommune)",37.9,38.0,38.1,38.2
+"8820 Hjerm (Struer Kommune)",41.5,41.4,42.0,42.4
+"8821 Borbjerg (Holstebro Kommune)",38.5,38.6,38.9,39.6
+"8822 Ølby (Struer Kommune)",41.5,42.6,43.8,44.4
+"8823 Asp (Struer Kommune)",41.5,41.6,41.5,41.9
+"8824 Fousing (Struer Kommune)",42.3,41.9,42.2,42.4
+"8825 Naur (Holstebro Kommune)",41.3,41.5,41.6,41.6
+"8826 Sir (Holstebro Kommune)",44.0,44.9,44.2,44.2
+"8827 Gørding (Holstebro Kommune)",38.2,39.3,39.5,39.6
+"8828 Vemb (Holstebro Kommune)",44.7,45.6,46.5,46.6
+"8829 Bur (Holstebro Kommune)",42.9,42.9,43.1,43.4
+"8830 Estvad (Skive Kommune)",43.8,0.0,0.0,0.0
+"8831 Rønbjerg (Skive Kommune)",45.5,0.0,0.0,0.0
+"8832 Sahl (Holstebro Kommune)",41.6,41.8,42.2,42.7
+"8833 Ejsing (Holstebro Kommune)",42.1,42.2,42.5,42.9
+"8834 Ryde (Holstebro Kommune)",41.3,41.2,41.7,41.4
+"8835 Handbjerg (Holstebro Kommune)",44.3,44.8,46.3,47.1
+"8836 Sevel (Holstebro Kommune)",44.5,44.6,44.0,43.6
+"8837 Haderup (Herning Kommune)",43.3,44.2,44.5,44.3
+"8838 Grove (Herning Kommune)",42.9,43.6,43.4,44.3
+"8839 Simmelkær (Herning Kommune)",41.2,40.5,40.7,40.4
+"8840 Lemvig (Lemvig Kommune)",48.3,48.5,48.9,49.1
+"8841 Nørlem (Lemvig Kommune)",46.0,46.4,46.3,46.9
+"8842 Nørre Nissum (Lemvig Kommune)",41.4,42.2,42.4,42.3
+"8843 Tørring (Lemvig Kommune)",46.9,46.8,47.6,48.4
+"8844 Heldum (Lemvig Kommune)",44.8,44.8,46.1,46.7
+"8845 Lomborg (Lemvig Kommune)",40.6,41.1,41.5,0.0
+"8846 Rom (Lemvig Kommune)",39.5,40.4,40.9,0.0
+"8847 Bøvling (Lemvig Kommune)",47.0,46.8,47.1,47.1
+"8848 Flynder (Lemvig Kommune)",44.5,44.9,44.9,44.6
+"8849 Møborg (Lemvig Kommune)",39.9,40.3,40.6,41.7
+"8850 Nees (Lemvig Kommune)",45.8,45.2,45.5,45.5
+"8851 Gudum (Lemvig Kommune)",42.3,42.2,43.4,43.8
+"8852 Fabjerg (Lemvig Kommune)",42.4,42.5,43.1,43.8
+"8853 Resen (Struer Kommune)",42.9,43.3,43.7,45.0
+"8854 Humlum (Struer Kommune)",46.1,46.9,47.0,47.4
+"8855 Venø (Struer Kommune)",53.1,54.1,54.4,55.4
+"8856 Harboøre (Lemvig Kommune)",46.7,47.3,48.0,48.1
+"8857 Engbjerg (Lemvig Kommune)",47.1,49.7,50.3,49.5
+"8858 Thyborøn (Lemvig Kommune)",45.6,46.1,46.9,47.6
+"8859 Hygum (Lemvig Kommune)",44.4,47.0,48.1,47.9
+"8860 Hove (Lemvig Kommune)",42.3,42.8,44.0,44.4
+"8861 Vandborg (Lemvig Kommune)",46.6,48.9,49.4,49.1
+"8862 Ferring (Lemvig Kommune)",58.4,57.1,58.5,62.7
+"8863 Dybe (Lemvig Kommune)",44.9,45.7,45.9,46.6
+"8864 Ramme (Lemvig Kommune)",46.7,46.1,46.0,45.9
+"8865 Fjaltring (Lemvig Kommune)",54.0,55.8,56.4,57.0
+"8866 Trans (Lemvig Kommune)",59.0,52.5,53.4,53.0
+"8867 Thorstrup (Varde Kommune)",41.3,41.8,42.5,42.9
+"8868 Horne (Varde Kommune)",40.8,41.0,41.2,42.0
+"8869 Hodde (Varde Kommune)",40.8,39.7,40.6,41.3
+"8870 Tistrup (Varde Kommune)",41.4,42.1,42.3,42.7
+"8871 Ølgod (Varde Kommune)",44.4,44.7,45.0,45.3
+"8872 Ansager (Varde Kommune)",44.8,45.2,45.8,46.7
+"8873 Varde (Varde Kommune)",43.4,43.6,43.9,44.3
+"8874 Janderup (Varde Kommune)",41.5,41.6,42.3,43.0
+"8875 Billum (Varde Kommune)",40.3,41.6,41.5,42.2
+"8876 Lunde (Varde Kommune)",41.3,41.2,41.3,41.4
+"8877 Ovtrup (Varde Kommune)",42.3,42.7,42.9,43.3
+"8878 Kvong (Varde Kommune)",39.3,39.7,40.6,42.0
+"8879 Nørre Nebel (Varde Kommune)",47.8,48.3,48.1,48.6
+"8880 Lydum (Varde Kommune)",42.0,42.2,42.1,43.9
+"8881 Henne (Varde Kommune)",45.7,46.0,45.8,46.5
+"8882 Lønne (Varde Kommune)",56.0,55.6,55.9,57.4
+"8883 Ål (Varde Kommune)",0.0,0.0,0.0,0.0
+"8884 Ho (Varde Kommune)",0.0,0.0,0.0,0.0
+"8885 Oksby (Varde Kommune)",0.0,0.0,0.0,0.0
+"8886 Ribe Domsogn (Esbjerg Kommune)",47.2,47.7,48.0,47.8
+"8887 Seem (Esbjerg Kommune)",42.7,42.8,44.0,43.9
+"8888 Sankt Katharine (Esbjerg Kommune)",44.9,45.0,45.5,45.7
+"8889 Obbekær (Esbjerg Kommune)",37.7,38.7,37.8,38.7
+"8890 Hjortlund (Esbjerg Kommune)",38.7,39.1,38.4,38.9
+"8891 Kalvslund (Esbjerg Kommune)",41.3,42.1,44.0,43.8
+"8892 Vester Vedsted (Esbjerg Kommune)",41.0,41.3,42.0,42.7
+"8893 Farup (Esbjerg Kommune)",41.2,41.0,42.1,42.3
+"8894 Mandø (Esbjerg Kommune)",56.5,62.5,63.4,63.5
+"8895 Gørding (Esbjerg Kommune, Vejen Kommune)",41.4,41.5,41.8,41.7
+"8896 Vejrup (Esbjerg Kommune)",41.3,41.4,40.9,40.9
+"8897 Åstrup (Vejen Kommune)",40.2,40.5,40.9,42.1
+"8898 Vester Starup (Varde Kommune)",42.7,43.1,43.7,43.9
+"8899 Darum (Esbjerg Kommune)",39.4,39.6,40.1,40.5
+"8900 Bramming (Esbjerg Kommune)",42.7,43.1,43.2,43.2
+"8901 Vilslev (Esbjerg Kommune)",40.5,40.8,41.0,41.4
+"8902 Hunderup (Esbjerg Kommune)",40.7,41.1,40.7,40.5
+"8903 Jernved (Esbjerg Kommune)",41.7,41.7,41.7,41.8
+"8904 Aalestrup (Vesthimmerlands Kommune)",44.9,44.4,44.7,45.0
+"8905 Vor Frelsers (Esbjerg Kommune)",40.0,40.1,40.0,40.4
+"8906 Zions (Esbjerg Kommune)",39.7,39.9,40.0,40.5
+"8907 Treenigheds (Esbjerg Kommune)",42.8,43.1,43.3,43.5
+"8908 Jerne (Esbjerg Kommune)",40.5,40.7,41.3,41.5
+"8909 Skads (Esbjerg Kommune)",39.8,39.8,40.0,40.3
+"8910 Øse (Varde Kommune)",41.0,41.3,41.3,42.0
+"8911 Næsbjerg (Varde Kommune)",40.4,40.0,39.8,39.5
+"8912 Grimstrup (Esbjerg Kommune, Varde Kommune)",38.8,39.0,39.4,39.8
+"8913 Vester Nykirke (Esbjerg Kommune)",40.3,40.9,42.3,42.2
+"8914 Fåborg (Varde Kommune)",39.7,40.6,41.7,42.4
+"8915 Årre (Varde Kommune)",42.1,42.1,42.8,43.3
+"8916 Sneum (Esbjerg Kommune)",39.2,39.5,39.8,42.1
+"8917 Tjæreborg (Esbjerg Kommune)",41.2,41.6,41.5,41.4
+"8918 Bryndum (Esbjerg Kommune)",40.3,40.8,41.1,41.2
+"8919 Vester Nebel (Esbjerg Kommune)",40.2,40.1,40.4,40.7
+"8920 Alslev (Varde Kommune)",38.6,39.0,38.9,39.1
+"8921 Hostrup (Esbjerg Kommune)",43.6,44.2,43.6,43.6
+"8922 Guldager (Esbjerg Kommune)",37.1,37.3,37.2,37.1
+"8923 Nordby (Fanø Kommune)",48.7,49.1,0.0,0.0
+"8924 Sønderho (Fanø Kommune)",55.1,54.4,0.0,0.0
+"8925 Lindknud (Vejen Kommune)",39.8,40.1,41.1,41.2
+"8926 Brørup (Vejen Kommune)",44.1,44.3,44.3,44.5
+"8927 Holsted (Vejen Kommune)",42.8,43.2,43.1,43.4
+"8928 Føvling (Vejen Kommune)",42.3,41.6,41.3,41.6
+"8929 Malt (Vejen Kommune)",37.6,38.0,39.3,39.0
+"8930 Folding (Vejen Kommune)",41.2,41.7,41.6,41.8
+"8931 Vejen (Vejen Kommune)",44.0,44.3,44.8,44.9
+"8932 Læborg (Vejen Kommune)",40.7,40.6,41.0,41.4
+"8933 Veerst (Vejen Kommune)",39.4,39.6,40.6,40.0
+"8934 Bække (Vejen Kommune)",40.4,40.3,40.5,40.7
+"8935 Lejrskov (Kolding Kommune)",40.2,41.0,41.3,42.0
+"8936 Jordrup (Kolding Kommune)",41.3,42.3,42.5,43.1
+"8937 Andst (Vejen Kommune)",39.6,39.8,40.3,40.5
+"8938 Gesten (Vejen Kommune)",40.7,40.8,41.1,41.2
+"8939 Skanderup (Kolding Kommune)",39.5,39.8,40.0,40.2
+"8940 Seest (Kolding Kommune)",42.5,42.5,42.3,41.9
+"8941 Hjarup (Kolding Kommune)",39.9,39.5,40.3,41.0
+"8942 Grindsted (Billund Kommune)",43.3,43.5,43.8,44.1
+"8943 Grene (Billund Kommune)",41.6,41.5,41.8,42.1
+"8944 Vorbasse (Billund Kommune)",42.1,43.0,43.0,43.2
+"8945 Hejnsvig (Billund Kommune)",43.0,42.8,43.2,43.8
+"8946 Gram (Haderslev Kommune)",44.8,45.2,45.5,46.0
+"8947 Lintrup (Vejen Kommune)",39.5,39.9,40.0,40.6
+"8948 Hjerting (Vejen Kommune)",32.7,34.1,35.3,35.3
+"8949 Rødding (Vejen Kommune)",47.0,47.1,46.9,47.0
+"8950 Skrave (Vejen Kommune)",44.9,44.7,44.8,44.6
+"8951 Sønder Hygum (Vejen Kommune)",40.8,40.3,40.3,40.3
+"8952 Fole (Haderslev Kommune)",37.2,37.8,38.7,38.2
+"8953 Øster Lindet (Vejen Kommune)",39.3,40.1,41.3,41.1
+"8954 Nustrup (Haderslev Kommune)",41.0,42.2,42.3,42.6
+"8955 Skrydstrup (Haderslev Kommune)",40.9,41.6,41.9,41.7
+"8956 Agerskov (Tønder Kommune)",42.7,42.9,43.7,43.9
+"8957 Bevtoft (Haderslev Kommune, Tønder Kommune)",41.8,41.5,42.2,42.5
+"8958 Tirslund (Tønder Kommune)",44.2,43.7,43.7,43.5
+"8959 Branderup (Tønder Kommune)",40.7,41.0,40.7,41.7
+"8960 Toftlund (Tønder Kommune)",45.1,45.1,45.4,46.0
+"8961 Haderslev Vor Frue Domsogn (Haderslev Kommune)",43.1,43.4,43.9,44.3
+"8962 Gammel Haderslev (Haderslev Kommune)",43.7,43.8,43.9,44.4
+"8963 Åstrup (Haderslev Kommune)",41.7,42.5,42.6,43.6
+"8964 Halk (Haderslev Kommune)",48.2,49.3,50.8,50.4
+"8965 Hoptrup (Haderslev Kommune)",42.7,43.3,43.8,43.7
+"8966 Moltrup (Haderslev Kommune)",40.5,41.0,41.4,41.5
+"8967 Bjerning (Haderslev Kommune)",44.0,43.4,42.0,42.0
+"8968 Øsby (Haderslev Kommune)",47.4,47.9,48.3,48.4
+"8969 Sønder Starup (Haderslev Kommune)",41.4,41.5,41.4,41.5
+"8970 Grarup (Haderslev Kommune)",41.9,41.5,42.4,41.9
+"8971 Vilstrup (Haderslev Kommune)",46.2,46.5,47.2,47.3
+"8972 Vonsbæk (Haderslev Kommune)",42.5,43.4,43.5,43.2
+"8973 Hammelev (Haderslev Kommune)",42.5,43.0,43.3,43.7
+"8974 Maugstrup (Haderslev Kommune)",41.9,42.5,43.3,43.7
+"8975 Vojens (Haderslev Kommune)",47.4,47.7,48.3,48.3
+"8976 Jegerup (Haderslev Kommune)",45.9,46.3,46.4,46.6
+"8977 Jels (Vejen Kommune)",43.5,43.2,44.0,44.5
+"8978 Oksenvad (Haderslev Kommune)",40.5,40.8,41.0,40.8
+"8979 Sommersted (Haderslev Kommune)",42.7,43.2,43.6,43.7
+"8980 Vedsted (Haderslev Kommune)",40.6,40.5,40.5,40.4
+"8981 Aller (Haderslev Kommune, Kolding Kommune)",44.9,44.0,43.7,43.3
+"8982 Fjelstrup (Haderslev Kommune)",42.4,42.3,42.6,43.0
+"8983 Stepping (Kolding Kommune)",38.9,39.0,39.8,40.0
+"8984 Frørup (Kolding Kommune)",34.0,34.7,36.0,34.8
+"8985 Tyrstrup (Kolding Kommune)",43.8,44.3,44.3,44.5
+"8986 Hjerndrup (Haderslev Kommune)",41.5,40.6,41.5,41.4
+"8987 Skodborg (Vejen Kommune)",40.4,41.0,40.6,41.0
+"8988 Sankt Marie (Sønderborg Kommune)",44.1,44.1,44.5,45.1
+"8989 Christians (Sønderborg Kommune)",42.4,42.8,42.9,43.0
+"8990 Augustenborg (Sønderborg Kommune)",47.2,47.3,47.5,47.6
+"8991 Ketting (Sønderborg Kommune)",44.7,45.9,46.3,47.2
+"8992 Ulkebøl (Sønderborg Kommune)",42.4,42.6,42.9,43.2
+"8993 Notmark (Sønderborg Kommune)",45.3,45.4,46.4,46.1
+"8994 Asserballe (Sønderborg Kommune)",41.9,42.5,43.0,43.5
+"8995 Tandslet (Sønderborg Kommune)",44.3,44.6,44.9,44.4
+"8996 Hørup (Sønderborg Kommune)",45.6,45.6,45.7,46.4
+"8997 Lysabild (Sønderborg Kommune)",44.9,45.5,45.3,46.4
+"8998 Kegnæs (Sønderborg Kommune)",48.1,48.8,49.1,49.1
+"8999 Nordborg (Sønderborg Kommune)",47.4,47.7,48.2,48.5
+"9000 Svenstrup (Sønderborg Kommune)",43.5,43.7,44.7,45.3
+"9001 Havnbjerg (Sønderborg Kommune)",47.0,47.1,47.6,48.5
+"9002 Oksbøl (Sønderborg Kommune)",47.2,47.4,46.8,46.8
+"9003 Egen (Sønderborg Kommune)",47.5,47.7,48.4,48.3
+"9004 Broager (Sønderborg Kommune)",43.4,43.6,43.9,44.3
+"9005 Egernsund (Sønderborg Kommune)",46.5,47.4,48.0,48.3
+"9006 Dybbøl (Sønderborg Kommune)",41.6,42.2,42.4,42.6
+"9007 Nybøl (Sønderborg Kommune)",41.0,41.1,41.0,40.6
+"9008 Sottrup (Sønderborg Kommune)",42.0,41.9,42.6,42.8
+"9009 Ullerup (Sønderborg Kommune)",41.0,41.8,42.3,42.8
+"9010 Aabenraa (Aabenraa Kommune)",44.1,44.4,44.6,45.0
+"9011 Hjordkær (Aabenraa Kommune)",41.0,41.1,41.4,41.7
+"9012 Løjt (Aabenraa Kommune)",43.2,43.2,43.5,43.8
+"9013 Bjolderup (Aabenraa Kommune)",41.0,41.5,41.9,42.4
+"9014 Rise (Aabenraa Kommune)",44.6,44.9,45.3,45.5
+"9015 Øster Løgum (Aabenraa Kommune)",39.5,39.7,40.3,40.5
+"9016 Bedsted (Tønder Kommune)",42.0,42.4,42.9,42.9
+"9017 Hellevad (Aabenraa Kommune)",39.8,39.9,40.4,40.4
+"9018 Egvad (Aabenraa Kommune)",40.0,39.7,39.9,39.8
+"9019 Gråsten (Sønderborg Kommune)",49.8,49.1,49.8,50.3
+"9021 Varnæs (Aabenraa Kommune)",41.6,42.6,43.1,43.3
+"9022 Ensted (Aabenraa Kommune)",42.4,42.5,42.4,42.6
+"9023 Felsted (Sønderborg Kommune, Aabenraa Kommune)",42.4,42.6,42.7,43.1
+"9024 Holbøl (Aabenraa Kommune)",43.4,43.3,43.2,43.5
+"9025 Rinkenæs (Sønderborg Kommune)",43.6,45.1,45.7,46.1
+"9026 Uge (Aabenraa Kommune)",40.8,41.5,42.1,42.2
+"9027 Kliplev (Aabenraa Kommune)",43.0,43.0,43.3,43.6
+"9028 Kværs (Sønderborg Kommune, Aabenraa Kommune)",41.0,41.0,40.9,41.3
+"9029 Bov (Aabenraa Kommune)",47.1,47.2,47.6,47.9
+"9030 Hviding (Esbjerg Kommune)",40.1,40.0,39.9,40.3
+"9031 Rejsby (Tønder Kommune)",43.5,43.2,44.2,43.8
+"9032 Brøns (Tønder Kommune)",41.4,41.0,41.7,42.1
+"9033 Vodder (Tønder Kommune)",41.5,41.4,41.3,42.5
+"9034 Roager (Esbjerg Kommune)",40.0,40.8,40.8,40.9
+"9035 Spandet (Esbjerg Kommune)",45.8,44.7,44.1,44.6
+"9036 Arrild (Tønder Kommune)",43.5,43.3,44.6,44.3
+"9037 Højrup (Haderslev Kommune, Tønder Kommune)",45.4,45.7,45.5,45.2
+"9038 Skærbæk (Tønder Kommune)",45.5,45.9,45.9,46.1
+"9039 Tønder (Tønder Kommune)",0.0,0.0,0.0,0.0
+"9040 Ubjerg (Tønder Kommune)",43.9,44.2,44.6,44.9
+"9041 Abild (Tønder Kommune)",41.9,42.1,42.6,43.0
+"9042 Visby (Tønder Kommune)",42.1,41.6,41.7,41.9
+"9043 Daler (Tønder Kommune)",40.4,42.2,42.1,43.0
+"9044 Møgeltønder (Tønder Kommune)",44.3,44.7,45.2,46.4
+"9045 Løgumkloster (Tønder Kommune)",48.4,48.3,48.7,48.8
+"9046 Nørre Løgum (Tønder Kommune)",39.5,40.4,40.2,40.6
+"9047 Brede (Tønder Kommune)",44.7,44.7,45.1,45.5
+"9048 Døstrup (Tønder Kommune)",41.5,41.9,41.5,41.8
+"9049 Mjolden (Tønder Kommune)",44.0,44.9,44.4,44.6
+"9050 Randerup (Tønder Kommune)",46.5,47.2,47.3,49.6
+"9051 Højer (Tønder Kommune)",48.6,48.7,49.8,49.8
+"9052 Emmerlev (Tønder Kommune)",46.2,47.1,47.2,48.2
+"9053 Hjerpsted (Tønder Kommune)",56.3,55.5,54.1,52.7
+"9054 Ballum (Tønder Kommune)",48.4,48.9,49.4,49.4
+"9055 Sønder Skast (Tønder Kommune)",46.5,48.0,47.4,47.7
+"9056 Burkal (Tønder Kommune, Aabenraa Kommune)",43.8,43.5,44.3,44.6
+"9057 Bylderup (Aabenraa Kommune)",43.4,44.6,44.4,44.9
+"9058 Højst (Tønder Kommune)",40.0,39.9,39.9,40.3
+"9059 Hostrup (Tønder Kommune)",43.7,43.4,43.4,44.0
+"9060 Ravsted (Aabenraa Kommune)",39.7,40.4,40.8,40.6
+"9061 Tinglev (Aabenraa Kommune)",45.2,45.2,45.3,45.8
+"9062 Rømø (Tønder Kommune)",54.2,54.6,54.8,55.5
+"9063 Lendum (Hjørring Kommune)",41.5,42.1,42.3,42.8
+"9064 Øster Hassing (Aalborg Kommune)",0.0,0.0,0.0,0.0
+"9065 Stenild (Rebild Kommune, Mariagerfjord Kommune)",39.2,39.2,38.4,38.9
+"9066 Nyvangs (Kalundborg Kommune)",42.6,43.5,43.9,44.4
+"9067 Vamdrup (Kolding Kommune)",42.0,42.3,42.7,42.9
+"9068 Søborgmagle (Gladsaxe Kommune)",37.6,38.0,38.2,38.4
+"9070 Halskov (Slagelse Kommune)",43.0,43.3,43.8,44.3
+"9071 Haralds (Gladsaxe Kommune)",40.7,41.1,41.5,41.7
+"9072 Buddinge (Gladsaxe Kommune)",42.0,41.7,41.8,42.1
+"9073 Grundtvigs (Esbjerg Kommune)",41.4,41.5,42.1,42.4
+"9074 Lindehøj (Herlev Kommune)",41.4,41.6,42.0,42.1
+"9075 Årup (Assens Kommune)",46.1,45.9,45.5,45.7
+"9076 Skalborg (Aalborg Kommune)",43.3,42.8,42.5,41.6
+"9077 Sønderbro (Horsens Kommune)",43.4,43.8,44.1,44.3
+"9078 Sankt Andreas (Randers Kommune)",40.1,40.6,40.6,41.3
+"9079 Vestervang (Viborg Kommune)",40.2,40.1,40.4,40.6
+"9080 Rungsted (Hørsholm Kommune)",43.9,43.8,44.1,44.3
+"9081 Korsvejens (Tårnby Kommune)",40.9,41.2,41.6,41.9
+"9082 Rødbyhavn (Lolland Kommune)",48.7,49.0,49.0,50.0
+"9083 Hedehusene (Høje-Taastrup Kommune)",39.7,39.4,39.4,39.2
+"9084 Brøndby Strand (Brøndby Kommune)",38.8,39.2,39.6,39.8
+"9085 Egeris (Skive Kommune)",42.1,42.6,42.8,43.1
+"9086 Hadsten (Favrskov Kommune)",41.4,41.6,0.0,0.0
+"9087 Hannerup (Fredericia Kommune)",41.1,41.6,42.0,42.6
+"9088 Ellevang (Aarhus Kommune)",41.2,40.6,40.5,40.4
+"9089 Pederstrup (Ballerup Kommune)",42.1,42.1,42.4,41.7
+"9090 Helligånds (Aarhus Kommune)",34.4,34.3,34.5,34.5
+"9091 Hedeager (Herning Kommune)",39.7,39.9,39.8,39.9
+"9092 Nørremarks (Vejle Kommune)",37.6,37.9,38.4,38.3
+"9093 Vollsmose (Odense Kommune)",35.3,35.4,35.9,36.8
+"9094 Rønnevang (Høje-Taastrup Kommune)",43.7,43.9,44.2,44.0
+"9095 Svingelbjerg (Vesthimmerlands Kommune)",42.4,43.5,43.2,42.6
+"9096 Ravnsbjerg (Aarhus Kommune)",36.8,37.1,37.2,37.5
+"9097 Gellerup (Aarhus Kommune)",33.4,33.8,33.9,33.6
+"9098 Sthens (Helsingør Kommune)",42.8,43.1,43.7,43.9
+"9099 Kvaglund (Esbjerg Kommune)",41.6,42.1,42.4,42.2
+"9100 Bredballe (Vejle Kommune)",42.1,42.1,42.0,41.9
+"9101 Bistrup (Hjørring Kommune)",41.0,41.2,41.1,41.2
+"9102 Ulstrupbro (Favrskov Kommune)",43.7,44.2,44.4,44.7
+"9103 Mørdrup (Helsingør Kommune)",44.2,44.3,44.4,44.5
+"9104 Ry (Skanderborg Kommune)",41.5,41.7,42.1,41.9
+"9105 Karlslunde Strandsogn (Greve Kommune)",43.7,43.9,43.8,44.2
+"9106 Sædden (Esbjerg Kommune)",44.8,44.9,45.1,45.6
+"9107 Godthåb (Aalborg Kommune)",39.1,39.1,38.6,38.7
+"9108 Mosede (Greve Kommune)",41.9,41.4,41.5,41.5
+"9109 Stensby (Vordingborg Kommune)",44.7,45.0,45.5,46.2
+"9110 Margrethe (Aalborg Kommune)",41.2,41.6,41.4,41.5
+"9111 Sankt Jørgens (Næstved Kommune)",41.6,42.0,42.2,42.7
+"9112 Juelsminde (Hedensted Kommune)",54.0,54.5,55.1,55.4
+"9113 Islebjerg (Frederikssund Kommune)",41.9,42.2,42.6,42.7
+"9114 Stenderup (Billund Kommune)",39.6,39.8,40.0,40.1
+"9115 Nygårds (Brøndby Kommune)",43.1,43.0,43.1,43.2
+"9116 Simon Peters (Kolding Kommune)",39.3,39.3,39.6,40.1
+"9117 Boholte (Køge Kommune)",43.5,43.5,43.6,44.1
+"9118 Broholm (Assens Kommune)",40.9,41.0,41.5,41.9
+"9119 Kølkær (Herning Kommune)",41.7,41.5,42.2,42.7
+"9120 Kollund (Herning Kommune)",39.9,39.8,40.3,40.1
+"9121 Gjesing (Esbjerg Kommune)",42.9,43.1,43.3,43.6
+"9122 Tarm (Ringkøbing-Skjern Kommune)",46.2,46.4,46.7,46.8
+"9123 Isenvad (Ikast-Brande Kommune)",39.2,39.3,39.3,39.5
+"9124 Troldhede (Ringkøbing-Skjern Kommune)",41.9,42.0,42.1,41.9
+"9125 Ilderhede (Herning Kommune)",44.2,43.6,44.9,45.4
+"9126 Søndermark (Viborg Kommune)",37.4,38.5,39.0,39.6
+"9127 Klitmøller (Thisted Kommune)",43.0,42.3,42.5,42.0
+"9128 Frederiksberg Slotssogn (Frederiksberg Kommune)",0.0,0.0,0.0,0.0
+"9129 Vorupør (Thisted Kommune)",48.0,47.9,48.3,49.3
+"9130 Mejdal (Holstebro Kommune)",37.2,37.1,36.6,36.4
+"9131 Hjallese (Odense Kommune)",41.4,41.6,41.3,41.5
+"9132 Virklund (Silkeborg Kommune)",42.3,42.5,42.5,42.1
+"9133 Tingbjerg (København Kommune)",32.6,32.5,33.0,33.3
+"9134 Opstandelseskirkens (Albertslund Kommune)",40.4,40.4,40.6,41.1
+"9135 Skjoldhøj (Aarhus Kommune)",37.9,38.0,38.2,39.1
+"9136 Vodskov (Aalborg Kommune)",44.6,44.3,44.3,44.5
+"9137 Askov (Vejen Kommune)",39.1,38.5,38.8,39.1
+"9138 Hjerting (Esbjerg Kommune)",45.0,45.3,45.3,45.3
+"9139 Fredens (Svendborg Kommune)",44.5,44.3,44.9,45.4
+"9140 Skelgårds (Tårnby Kommune)",39.6,39.4,39.3,39.1
+"9141 Gullestrup (Herning Kommune)",36.4,36.9,37.0,37.6
+"9142 Dyrup (Odense Kommune)",43.1,43.5,43.1,43.0
+"9143 Sejs-Svejbæk (Silkeborg Kommune)",41.9,41.7,41.8,41.6
+"9144 Nørrevang (Slagelse Kommune)",39.5,39.8,40.0,40.3
+"9145 Kokkedal (Hørsholm Kommune)",47.2,47.4,47.7,48.4
+"9146 Lystrup (Aarhus Kommune)",41.0,41.5,41.7,42.1
+"9147 Skelager (Aarhus Kommune)",34.6,35.1,35.4,34.8
+"9148 Tornbjerg (Odense Kommune)",41.2,41.4,42.1,42.7
+"9149 Houlkær (Viborg Kommune)",42.3,42.6,42.7,42.6
+"9150 Langeslund (Jammerbugt Kommune)",42.3,42.5,43.2,43.5
+"9151 Enghøj (Randers Kommune)",41.5,41.6,42.2,42.5
+"9152 Fonnesbæk (Ikast-Brande Kommune)",39.6,39.8,40.3,40.5
+"9153 Agerbæk (Varde Kommune)",44.5,44.5,44.7,44.8
+"9154 Grønnevang (Hillerød Kommune)",41.1,41.5,41.7,42.0
+"9155 Engholm (Allerød Kommune)",40.3,40.5,41.3,41.4
+"9156 Agersted (Brønderslev Kommune, Frederikshavn Kommune)",42.2,42.4,41.8,43.2
+"9157 Gistrup (Aalborg Kommune)",44.1,44.4,44.7,44.8
+"9158 Skæring (Aarhus Kommune)",45.3,45.2,45.4,44.8
+"9159 Stenvad (Norddjurs Kommune)",43.5,43.5,44.7,45.4
+"9160 Antvorskov (Slagelse Kommune)",39.7,39.8,39.8,40.3
+"9161 Blågårdens (København Kommune)",33.3,33.5,33.9,34.1
+"9162 Holsted (Næstved Kommune)",42.8,43.1,43.2,43.2
+"9163 Lyng (Fredericia Kommune)",45.1,45.2,45.4,45.8
+"9164 Fredens-Nazaret (København Kommune)",37.4,37.5,38.0,38.3
+"9165 Sydhavn (København Kommune)",35.1,35.0,34.7,34.8
+"9166 Skanderborg (Skanderborg Kommune)",41.1,41.6,41.8,42.2
+"9167 Ørnhøj (Herning Kommune)",41.6,41.6,41.3,41.4
+"9168 Iglsø (Viborg Kommune)",40.8,41.3,41.5,42.3
+"9169 Simeon-Sankt Johannes (København Kommune)",34.9,35.1,35.6,35.8
+"9170 Ørre-Sinding (Herning Kommune)",41.6,42.0,42.5,42.3
+"9171 Ebeltoft-Dråby-Handrup (Syddjurs Kommune)",51.9,52.5,52.9,53.2
+"9172 Hvide Sande (Ringkøbing-Skjern Kommune)",45.7,46.0,47.1,47.9
+"9173 Falslev-Vindblæs (Mariagerfjord Kommune)",45.1,45.5,45.5,46.2
+"9174 Vor Frue (København Kommune)",36.5,36.5,37.0,37.0
+"9175 Davids (København Kommune)",35.3,35.4,35.4,35.8
+"9176 Hjembæk-Svinninge (Holbæk Kommune)",42.9,43.1,43.2,43.6
+"9177 Butterup-Tuse (Holbæk Kommune)",41.5,41.2,40.9,40.4
+"9178 Tønder (Tønder Kommune)",45.8,46.2,46.5,46.9
+"9179 Skamstrup-Frydendal (Holbæk Kommune)",42.2,41.9,41.8,41.7
+"9180 Kollerup-Fjerritslev (Jammerbugt Kommune)",46.6,47.2,47.5,47.7
+"9181 Frederiksberg (Frederiksberg Kommune)",41.4,41.7,41.8,42.1
+"9182 Bellahøj-Utterslev (København Kommune)",36.6,36.7,36.7,36.7
+"9183 Samsø (Samsø Kommune)",51.4,51.6,52.1,52.1
+"9184 Arden (Mariagerfjord Kommune)",44.7,44.7,44.8,44.8
+"9185 Vesterbro (København Kommune)",34.4,34.5,34.8,34.9
+"9186 Frederiksværk-Vinderød (Halsnæs Kommune)",43.1,43.6,43.9,43.9
+"9187 Romdrup-Klarup (Aalborg Kommune)",40.0,40.1,40.2,40.1
+"9188 Hvejsel (Vejle Kommune)",38.3,38.5,38.9,39.4
+"9189 Stigs Bjergby-Mørkøv (Holbæk Kommune)",40.3,40.6,40.6,41.2
+"9190 Valby Søndre (København Kommune)",34.6,34.1,33.8,33.6
+"9191 Vive-Hadsund (Mariagerfjord Kommune)",47.6,47.9,48.5,48.9
+"9192 Tuse Næs (Holbæk Kommune)",48.7,49.3,49.5,49.4
+"9193 Nimtofte-Tøstrup (Syddjurs Kommune)",41.9,42.5,43.0,43.3
+"9194 Utterslev-Herredskirke-Løjtofte (Lolland Kommune)",47.4,48.4,47.8,47.5
+"9195 Søllested-Skovlænge-Gurreby (Lolland Kommune)",48.7,48.8,48.9,49.3
+"9196 Blåvandshuk (Varde Kommune)",54.9,54.2,55.7,56.3
+"9197 Øster Hassing-Gåser (Aalborg Kommune)",41.0,41.4,41.5,41.6
+"9198 Bedsted-Grurup (Thisted Kommune)",0.0,44.7,45.1,45.5
+"9199 Estvad-Rønbjerg (Skive Kommune)",0.0,44.7,45.3,45.1
+"9201 Feldborg (Herning Kommune)",40.5,40.0,40.5,40.8
+"9202 Vinderup (Holstebro Kommune)",45.6,45.5,46.1,46.6
+"9203 Trandum (Holstebro Kommune)",42.4,42.5,42.9,43.9
+"9204 Herrup (Holstebro Kommune)",42.1,43.0,43.4,44.4
+"9205 Tiphede (Herning Kommune)",36.0,36.1,36.2,38.0
+"9206 Ellebæk (Holstebro Kommune)",40.4,41.0,41.5,41.7
+"9207 Hogager (Holstebro Kommune)",42.9,42.7,44.1,44.0
+"9208 Hjerm Østre (Struer Kommune)",42.6,44.3,44.4,46.0
+"9209 Fasterholt (Herning Kommune)",42.2,42.3,43.1,42.8
+"9210 Karstoft (Herning Kommune)",39.6,39.6,41.3,41.9
+"9211 Faurholt (Ikast-Brande Kommune)",38.8,38.7,39.2,39.4
+"9212 Christianshede (Ikast-Brande Kommune)",41.5,41.4,42.2,41.7
+"9213 Grathe (Silkeborg Kommune)",42.0,42.6,43.2,43.0
+"9214 Bjerring (Viborg Kommune)",46.1,46.4,46.8,47.8
+"9215 Hjermind (Viborg Kommune)",41.7,42.1,43.0,43.8
+"9216 Øster Hurup (Mariagerfjord Kommune)",51.1,52.3,53.2,53.6
+"9217 Terndrup (Rebild Kommune)",45.1,45.0,45.0,45.3
+"9219 Arden (Mariagerfjord Kommune)",0.0,0.0,0.0,0.0
+"9220 Mylund (Brønderslev Kommune)",43.5,42.9,44.5,43.2
+"9221 Øster Hjermitslev (Brønderslev Kommune)",40.4,40.2,41.2,41.0
+"9223 Melholt (Brønderslev Kommune)",48.6,48.7,48.3,49.1
+"9224 Dorf (Brønderslev Kommune)",45.6,46.3,45.5,46.6
+"9225 Hou (Aalborg Kommune)",52.7,52.8,53.5,54.5
+"9226 Østervrå (Frederikshavn Kommune)",44.3,44.6,44.6,44.6
+"9227 Gåser (Aalborg Kommune)",0.0,0.0,0.0,0.0
+"9228 Hulsig (Frederikshavn Kommune)",54.0,52.7,55.2,56.5
+"9229 Sørig (Hjørring Kommune)",48.2,48.5,49.5,49.4
+"9230 Jerup (Frederikshavn Kommune)",50.0,50.6,50.6,50.8
+"9231 Kvissel (Frederikshavn Kommune)",45.8,45.8,46.3,47.1
+"9232 Gudumholm (Aalborg Kommune)",38.3,39.4,40.2,39.9
+"9233 Fjerritslev (Jammerbugt Kommune)",0.0,0.0,0.0,0.0
+"9234 Koldmose (Jammerbugt Kommune)",46.2,46.3,47.2,47.7
+"9235 Stenbjerg (Thisted Kommune)",57.9,58.1,56.9,58.2
+"9236 Agerø (Morsø Kommune)",50.5,49.7,50.7,46.4
+"9237 Rørdal (Aalborg Kommune)",40.5,40.9,39.9,39.6
+"9238 Sørup (Rebild Kommune)",37.7,37.7,38.4,38.7
+"9239 Hareskov (Furesø Kommune)",40.2,40.4,40.3,40.5
+"9240 Gurre (Helsingør Kommune)",40.9,41.5,42.1,42.7
+"9241 Gadevang (Hillerød Kommune)",43.0,43.2,43.2,43.5
+"9242 Skoven (Frederikssund Kommune)",56.7,56.5,57.7,59.1
+"9243 Villingerød (Gribskov Kommune)",53.0,53.5,54.2,54.5
+"9244 Reersø (Kalundborg Kommune)",53.1,53.2,53.7,53.8
+"9245 Alleshave (Kalundborg Kommune)",43.5,43.7,0.0,0.0
+"9246 Lumsås (Odsherred Kommune)",54.1,54.5,54.8,55.6
+"9247 Svinø (Vordingborg Kommune)",47.6,46.6,48.3,50.0
+"9248 Langø (Lolland Kommune)",55.9,58.2,57.2,56.9
+"9249 Gedser (Guldborgsund Kommune)",52.1,52.1,52.6,54.1
+"9250 Nøbbet (Lolland Kommune)",46.9,46.6,48.3,49.7
+"9251 Padesø (Middelfart Kommune, Assens Kommune, Nordfyns Kommune)",43.1,43.3,43.9,43.9
+"9252 Stige (Odense Kommune)",45.3,45.4,45.5,45.1
+"9253 Ravnebjerg (Odense Kommune)",41.4,42.0,42.1,42.6
+"9254 Bagenkop (Langeland Kommune)",54.9,56.0,55.4,55.8
+"9255 Røjleskov (Middelfart Kommune)",42.3,43.6,43.6,44.1
+"9256 Tårup (Nyborg Kommune)",46.7,47.1,48.4,48.9
+"9257 Hjulby (Nyborg Kommune)",45.2,43.5,42.6,44.1
+"9258 Lundeborg (Svendborg Kommune)",50.6,50.2,49.8,50.3
+"9259 Adsbøl (Sønderborg Kommune)",41.9,42.1,42.4,43.0
+"9260 Genner (Aabenraa Kommune)",44.3,44.7,44.7,45.5
+"9261 Ildved (Vejle Kommune)",0.0,0.0,0.0,0.0
+"9262 Klejs (Hedensted Kommune)",41.4,40.8,40.1,41.6
+"9264 Stenderup (Vejen Kommune)",39.9,39.5,40.6,41.2
+"9265 Urup (Billund Kommune)",43.2,42.4,41.4,41.8
+"9266 Nollund (Billund Kommune)",33.4,34.0,34.6,34.1
+"9267 Vesterhede (Billund Kommune)",42.0,42.6,42.9,43.3
+"9268 Sankt Peders (Vejen Kommune)",43.4,43.4,44.2,44.1
+"9269 Hovborg (Vejen Kommune)",43.3,43.9,44.3,44.9
+"9270 Skjoldbjerg (Billund Kommune)",43.0,42.7,42.6,42.6
+"9271 Mosevrå (Varde Kommune)",0.0,0.0,0.0,0.0
+"9273 Rousthøje (Varde Kommune)",34.3,34.9,35.9,36.9
+"9275 Væggerskilde (Ringkøbing-Skjern Kommune)",35.3,35.5,35.8,37.1
+"9276 Finderup (Ringkøbing-Skjern Kommune)",36.9,37.0,37.3,38.3
+"9277 Fjelstervang (Ringkøbing-Skjern Kommune)",38.5,38.4,39.1,39.1
+"9278 Haurvig (Ringkøbing-Skjern Kommune)",55.4,56.1,54.0,55.8
+"9279 Lyngvig (Ringkøbing-Skjern Kommune)",43.2,43.8,44.0,44.2
+"9280 Lem (Ringkøbing-Skjern Kommune)",44.8,45.3,45.8,45.7
+"9281 Skærlund (Ikast-Brande Kommune)",43.2,43.7,44.7,44.2
+"9282 Uhre (Ikast-Brande Kommune)",38.3,39.0,39.2,39.0
+"9283 Farre (Vejle Kommune)",39.8,40.0,40.9,41.1
+"9284 Vorslunde (Vejle Kommune)",41.3,42.7,44.5,43.1
+"9285 Langelund (Vejle Kommune)",39.9,40.4,41.4,41.3
+"9286 Vonge (Vejle Kommune)",40.1,40.2,41.4,41.7
+"9287 Emmerske (Tønder Kommune)",0.0,0.0,0.0,0.0
+"9288 Gludsted (Ikast-Brande Kommune)",38.8,38.4,38.4,39.1
+"9289 Hampen (Ikast-Brande Kommune)",38.4,39.2,39.6,39.7
+"9291 Aal (Varde Kommune)",44.8,44.8,45.4,45.6
+"9292 Vipperød (Holbæk Kommune)",42.5,43.2,43.6,43.2
+"9293 Kerteminde-Drigstrup (Kerteminde Kommune)",50.2,50.8,51.1,51.9
+"9295 Utterslev-Herredskirke-Løjtofte (Lolland Kommune)",0.0,0.0,0.0,0.0
+"9310 Høsterkøb (Rudersdal Kommune)",0.0,40.0,40.6,41.0
+"9311 Birkerød (Rudersdal Kommune)",0.0,42.9,42.9,42.9
+"9312 Viskinge-Avnsø (Kalundborg Kommune)",0.0,43.8,44.2,44.4
+"9313 Fanø (Fanø Kommune)",0.0,0.0,49.8,50.2
+"9314 Lomborg-Rom (Lemvig Kommune)",0.0,0.0,0.0,41.6
+"9315 Bregninge-Bjergsted-Alleshave (Kalundborg Kommune)",0.0,0.0,48.9,49.2
+"9316 Hadsten (Favrskov Kommune)",0.0,0.0,41.4,41.9
+"9317 Idom-Råsted (Holstebro Kommune)",0.0,0.0,42.2,42.4
+"9318 Nordvestfalster (Guldborgsund Kommune)",0.0,0.0,45.9,46.7
+"9319 Nysted-Vantore (Guldborgsund Kommune)",0.0,0.0,0.0,54.0
+"9320 Helligsø-Gettrup (Thisted Kommune)",0.0,0.0,0.0,50.7
+"9321 Købelev-Vindeby (Lolland Kommune)",0.0,0.0,0.0,52.0
+"9322 Haraldsted-Allindemagle (Ringsted Kommune)",0.0,0.0,0.0,43.5
+"9323 Føllenslev-Særslev (Kalundborg Kommune)",0.0,0.0,0.0,46.4
+"9324 Fuglebjerg-Tystrup-Haldagerlille (Næstved Kommune)",0.0,0.0,0.0,45.8
+"9325 Undløse-Søndersted (Holbæk Kommune)",0.0,0.0,0.0,0.0
+"9326 Brøndum-Hvidbjerg (Skive Kommune)",0.0,0.0,0.0,0.0
+"9327 Lyngby-Albøge (Norddjurs Kommune)",0.0,0.0,0.0,0.0
+"9328 Øster Assels-Blidstrup (Morsø Kommune)",0.0,0.0,0.0,0.0
+"9329 Jebjerg-Lyby (Skive Kommune)",0.0,0.0,0.0,0.0
+"9330 Krumsø (Guldborgsund Kommune)",0.0,0.0,0.0,0.0
+"0000 Uden placerbar adresse",51.9,0.0,69.6,50.9
+"9999 Uden fast bopæl",35.2,35.4,35.5,36.0
+

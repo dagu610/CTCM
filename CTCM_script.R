@@ -1,14 +1,17 @@
 #####################################
 ####### INTRO #######################
 
+# This script includes the full CTCM analysis undertaken for the site of Jaegersborg Dyrehave
+# in Denmark, from data extraction until final model estimation.
+
 library(photosearcher)
+api_key <- "8c7820687bfa51ef0cec8be65bb98fae"
+# api_key <- "..."     # get an API key at https://www.flickr.com/services/apps/create/apply/  
+# and copy paste it between the quotation marks
 library(flickRgeotag)
 library(dplyr)
 library(stringr)
-library(geonames)
-options(geonamesUsername="dagu610")
 library(sf)
-library(plotDK)
 library(pracma)
 library(rnaturalearth)
 library(rnaturalearthdata)
@@ -26,10 +29,12 @@ library(lubridate)
 library(zoo)
 library(lmtest)
 library(stargazer)
-library(mapDK)
 library(patchwork)
-source("functions_script.R")
-api_key <- "8c7820687bfa51ef0cec8be65bb98fae"
+
+source("debugged_functions.R")
+source("get_profile_location.R")
+source("get_home_location.R")
+source("get_parishes.R")
 
 #-------------------------------------------------------------------------------------------------------------------------------------------------
 #####################################
@@ -147,6 +152,7 @@ municip_polys <- rbind(DNK, DEU, SWE)
 rm(DNK, DEU, SWE)
 municip_polys <- st_set_precision(st_transform(municip_polys, 4326), 1e8)
 colnames(municip_polys) <- c("country", "region", "municip", "geometry")
+
 
 # create list of parishes 
 parishes_list <- cbind(fromJSON("https://api.dataforsyningen.dk/sogne")$navn)
@@ -331,7 +337,7 @@ rm(travel_info, traveltime, traveldist, destination, travelcost, travelcost1, tr
 ####### CONTROL VARIABLES ###########
 
 # income data (download from https://www.ae.dk/analyse/2021-04-i-det-rigeste-lokalomraade-tjener-de-fem-gange-mere-end-bunden)
-income_data <- read.csv("income_data.csv", sep = ";", encoding = "UTF-8")
+income_data <- read.csv("Control_Variables/income_data.csv", sep = ";", encoding = "UTF-8")
 
 for (i in 1:nrow(users_with_travel_info)){
   if (!is.na(users_with_travel_info$parish_codes[i]) && users_with_travel_info$parish_codes[i] != 9228 && users_with_travel_info$parish_codes[i] != 9323){
@@ -428,7 +434,6 @@ users_with_travel_info$edu <- as.numeric(users_with_travel_info$edu)
 
 # filter out users with distances e.g. > 150km
 users_with_travel_info_limited <- users_with_travel_info[users_with_travel_info$traveldist_dest < 150000,]
-write.csv(users_with_travel_info_limited, "Files/users_with_travel_info_limited.csv")
 
 
 # final data
@@ -455,9 +460,6 @@ final_data_sensitivity2 <- na.omit(users_with_travel_info_limited[users_with_tra
 nrow(users_with_travel_info_limited[!is.na(users_with_travel_info_limited$loc_profile_municipality),])
 
 rm(income_data, age_municip_data, age_sogn_data, education_data, users_with_travel_info, users_with_travel_info_limited, PUD_data_geo, final_data_sensitivity2)
-
-write.csv(final_data, "Files/final_data.csv")
-write.csv(final_data_sensitivity, "Files/final_data_sensitivity.csv")
 
 # some statistics on the final dataset
 stargazer(as.data.frame(final_data[c("PUD", "tcdest", "tcsub", "inc", "age", "edu", "ttime", "tdist")]), 

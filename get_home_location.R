@@ -1,0 +1,133 @@
+# function that identifies countries and municipalities with the highest number of
+# PUDs for a user with given user id, based on a given list of municipality polygons,
+# the time frame considered defaults to 2004-21 but can be adjusted
+#
+#
+# Required packages and functions:
+# library(rnaturalearth)
+# source("debugged_functions.R")
+
+
+get_home_location <- function(user_id, municip_polys, start_date = "2004-02-10", end_date = "2021-12-31"){
+  gc()
+  results <- setNames(data.frame(matrix(ncol = 9, nrow = 1)), c("owner", "total_no_photos", "total_no_PUD", "home_country", "PUD_home_country", "municip", "PUD_municip", "userloc_lat", "userloc_lon"))
+  results$owner <- user_id
+  
+  # catch error in photo_search function
+  user_photos <- tryCatch({
+    data.frame(photo_search_correct(user_id = user_id, mindate_taken = start_date, maxdate_taken = end_date, has_geo = TRUE))
+  }, 
+  error = function(e){
+    return(NA)
+  })
+  
+  if (!is.data.frame(user_photos)){
+    results$municip <- "error with photo_search function"
+    results$PUD_municip <- NA
+    results$userloc_lon <- NA
+    results$userloc_lat <- NA
+    results$total_no_photos <- NA
+    results$total_no_PUD <- NA
+  } else{
+    
+    user_photos <- user_photos[,c("id", "owner", "title", "datetaken", "tags", "latitude", "longitude", "accuracy")]
+    # delete photos without coordinates
+    user_photos <- user_photos[!(user_photos$longitude=="0"),]
+    results$total_no_photos <- nrow(user_photos)
+    
+    # check if df is empty
+    if (dim(user_photos)[1] == 0){ 
+      results$userloc_lon <- NA
+      results$userloc_lat <- NA
+      results$municip <- "no geotagged photos available"
+      results$PUD_municip <- NA
+    } else {
+      
+      # restrict maximum number of photos considered to 10000
+      if (nrow(user_photos) > 10000){
+        user_photos <- user_photos[1:10000,]
+      }
+      user_photos$longitude <- as.numeric(user_photos$longitude)
+      user_photos$latitude <- as.numeric(user_photos$latitude)
+      
+      # make column for PUD and add PUD to results
+      user_photos$datetaken_notime <- str_trim(substr(user_photos$datetaken, 0, 10))
+      results$total_no_PUD <- length(unique(user_photos$datetaken_notime))
+      
+      # create shapefile with photo coordinates
+      photo_loc_sf <- st_set_precision(st_as_sf(user_photos, coords = c("longitude", "latitude"), crs = 4326), 1e8)
+      photo_loc_sf$row_ID <- seq.int(nrow(photo_loc_sf))
+      st_agr(photo_loc_sf) <- "constant"
+      
+      # get countries for all photos of the user
+      countries_polys <- st_as_sf(ne_countries(scale = 10), crs = 4326)
+      st_agr(countries_polys) <- "constant"
+      sf_use_s2(FALSE)
+      photos_countries <- data.frame(suppressMessages(st_intersects(photo_loc_sf, countries_polys)))
+      if (nrow(photos_countries) == 0){
+        results$home_country <- "could not assign country to any photo"
+        results$PUD_home_country <- NA
+      } else{
+        colnames(photos_countries) <- c("row_ID", "country_code")
+        photos_countries[, "country"] <- "NA"
+        for (i in 1:nrow(photos_countries)){
+          photos_countries$country[i] <- str_trim(countries_polys$admin[photos_countries$country_code[i]])
+        }
+        photos_countries <- photos_countries[,c("row_ID", "country")]
+        photos_with_countries <- merge(photo_loc_sf, photos_countries, by = "row_ID")
+        
+        # write country with most PUDs and number of PUDs in that country to results 
+        PUD_with_country <- photos_with_countries %>% distinct(country, datetaken_notime)
+        freq_table_country <- sort(table(PUD_with_country$country), decreasing = TRUE)
+        home_country <- names(freq_table_country)[1]
+        PUD_home_country <- freq_table_country[[1]]
+        results$home_country <- home_country
+        results$PUD_home_country <- PUD_home_country
+      }
+      
+      # get municipalities for all photos of the user
+      st_agr(municip_polys) <- "constant"
+      photos_municip <- data.frame(suppressMessages(st_intersects(photo_loc_sf, municip_polys)))
+      colnames(photos_municip) <- c("row_ID", "municip_code")
+      photos_municip[, "municip"] <- "NA"
+      for (i in 1:nrow(photos_municip)){
+        photos_municip$municip[i] <- municip_polys$municip[photos_municip$municip_code[i]]
+      }
+      photos_municip <- photos_municip[,c("row_ID", "municip")]
+      photos_with_municip <- merge(photo_loc_sf, photos_municip, by = "row_ID")
+      
+      # write municip with most PUDs and number of PUDs in that municip to results 
+      if (nrow(photos_with_municip) == 0){
+        results$municip <- "no photos in DK municip"
+        results$PUD_municip <- NA
+        results$userloc_lon <- NA
+        results$userloc_lat <- NA
+      } else{
+        # reduce to PUD
+        PUD_with_municip <- photos_with_municip %>% distinct(municip, datetaken_notime)
+        freq_table_municip <- sort(table(PUD_with_municip$municip), decreasing = TRUE)
+        home_municip <- names(freq_table_municip)[1]
+        PUD_municip <- freq_table_municip[[1]]
+        
+        # create df with pictures in home municip
+        photos_home_municip <- photos_with_municip[photos_with_municip$"municip" == home_municip,]
+        photos_home_municip$lon <- st_coordinates(photos_home_municip$geometry)[,1]
+        photos_home_municip$lat <- st_coordinates(photos_home_municip$geometry)[,2]
+        
+        # calculate geometric median of coordinates within the home municip
+        if (nrow(photos_home_municip) > 1 && nrow(distinct(data.frame(photos_home_municip$lon, photos_home_municip$lat)))> 1){
+          loc_geo_median <- geo_median_correct(as.matrix(data.frame(photos_home_municip$lon, photos_home_municip$lat)))
+          # loc_geo_median <- Gmedian(as.matrix(data.frame(photos_home_municip$lon, photos_home_municip$lat)))
+          results$userloc_lon <- loc_geo_median$p[[1]]
+          results$userloc_lat <- loc_geo_median$p[[2]]
+        } else{
+          results$userloc_lon <- photos_home_municip$lon[1]
+          results$userloc_lat <- photos_home_municip$lat[1]
+        }
+      }
+      results$municip <- home_municip
+      results$PUD_municip  <- PUD_municip
+    }
+  }
+  return(results)
+}
