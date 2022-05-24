@@ -5,7 +5,6 @@
 # in Denmark, from data extraction until final model estimation.
 
 library(photosearcher)
-api_key <- "8c7820687bfa51ef0cec8be65bb98fae"
 # api_key <- "..."     # get an API key at https://www.flickr.com/services/apps/create/apply/  
 # and copy paste it between the quotation marks
 library(flickRgeotag)
@@ -158,7 +157,7 @@ colnames(municip_polys) <- c("country", "region", "municip", "geometry")
 parishes_list <- cbind(fromJSON("https://api.dataforsyningen.dk/sogne")$navn)
 
 # apply the get_profile_location function on all users to get (country and municipality) location from profile info, append to df
-user_data_geo <- get_profile_location(user_data_geo)
+user_data_geo <- get_profile_location(user_data_geo, municip_polys$municip, parishes_list)
 
 # some statistics on the profile location info
 nrow(user_data_geo[user_data_geo$loc_profile != "",])
@@ -478,14 +477,6 @@ cor(final_data$tcdest, final_data$tcsub, method = "pearson")
 #####################################
 ####### TCM MODEL ###################
 
-if (!(exists("final_data"))){
-  final_data <- read.csv("Files/final_data.csv", row.names = 1)
-}
-
-if (!(exists("final_data_sensitivity"))){
-  final_data_sensitivity <- read.csv("Files/final_data_sensitivity.csv", row.names = 1)
-}
-
 # estimate TP and TNB models
 trunc_poisson <- glmmadmb(PUD ~ tcdest + tcsub + inc + age + edu, family = "truncpoiss", data = na.omit(final_data))
 summary(trunc_poisson)
@@ -509,9 +500,7 @@ trunc_nb_sens2 <- glmmadmb(PUD ~ tcdest + tcsub + inc + age + edu, family = "tru
 summary(trunc_nb_sens2)
 
 
-
 # calculate mean consumer surplus per individual and per visit
-CS_indiv <- -(mean(final_data$PUD)/summary(trunc_nb)$coefficients[2, 1])
 CS_visit <- -(1/summary(trunc_nb)$coefficients[2, 1])
 
 CS_visit_sens1 <- -(1/summary(trunc_nb_sens1)$coefficients[2, 1])

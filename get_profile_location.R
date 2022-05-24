@@ -5,8 +5,9 @@
 # appends identified information to the given input df
 # 
 # Packages required:
+# library(flickRgeotag)
+# library(stringr)
 # library(countrycode)
-#
 
 
 get_profile_location <- function(df, municip_vector, parish_vector){

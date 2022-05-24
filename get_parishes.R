@@ -1,5 +1,8 @@
 # function extracting parish codes and names from users' home coordinates,
 # using the Dataforsyningen API (works for Danish parishes only)
+# 
+# Required package:
+# library(jsonlite)
 
 
 get_parishes <- function(df){

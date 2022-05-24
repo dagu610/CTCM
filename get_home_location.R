@@ -5,6 +5,10 @@
 #
 # Required packages and functions:
 # library(rnaturalearth)
+# library(stringr)
+# library(sf)
+# library(dplyr)
+# library(pracma)
 # source("debugged_functions.R")
 
 
